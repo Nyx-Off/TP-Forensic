@@ -1,0 +1,300 @@
+$http://www.w3.org/XML/1998/namespace
+001NSimSunRegularVersion 5.03Trademark of ZHONGYI Electronic Co., BeijingYou may use this font to display and print content as permitted by the license terms for the product in which this font is included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts
+05/soap-envelope:mustUnderstand, http://schemas.xmlsoap.org/soap/envelope/:actor, http://www.w3.org/2003/05/soap-envelope:role, http://www.w3.org/2003/05/soap-envelope:relay
+0http://purl.oclc.org/ooxml/wordprocessingml/main
+0http://schemas.microsoft.com/office/2006/activeX
+0http://schemas.microsoft.com/projectml/
+15Version 6.02Meiryo is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.C&G Inc.; Eiichi Kono; Matthew CarterMeiryo is a very versatile modern sans serif type designed to give an exceptionally clean appearance on screen, as well as in print. It is optimized for on-screen reading. The letterforms are generously open and well-proportioned; legible and clear at smaller sizes, and dynamic at larger display sizes. The beauty of this face is that it sets text lines in Japanese with Roman seamlessly and harmoniously. The balanced inter-letter spacing enhances horizontal alignment, facilitating smooth reading flow. Meiryo has a very large character set with Japanese and Roman combined, fully scalable outline technology, making it extremely functional for all aspects of communication and publishing. It is a robust legible typeface yet compact enough to enable tight inter-line spacing which is good for space economy.http://www.microsoft.com/typography/ctfontshttp://www.c-and-g.co.jpYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/default.asp
+1http://purl.oclc.org/ooxml/drawingml/chartDrawing
+1http://purl.oclc.org/ooxml/drawingml/lockedCanvas
+1http://schemas.microsoft.com/of
+1http://schemas.microsoft.com/office/office/2005/8
+1http://schemas.microsoft.com/sharepoint/soap/ois/
+1l version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-enve
+2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation><as:assemblyIdentity /></as:ManifestInformation><as:SignedBy/><as:AuthenticodePublisher><as:X509SubjectName>CN=dummy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer></r:issuer></r:license>
+ 2006 Microsoft Corporation. All Rights Reserved.MarlettRegularVersion 5.00You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts
+ 2008 Microsoft Corporation. All Rights Reserved.BoldSegoe UI BoldVersion 5.01SegoeUI-BoldSegoe is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.http://www.microsoft.com/typography/fonts/You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.NegritaSegoe UI NegritaLihavoituSegoe UI LihavoituGrasSegoe UI GrasF
+ 2008 Microsoft Corporation. All Rights Reserved.Consolas is aimed for use in programming environments and other circumstances where a monospaced font is specified. All characters have the same width, like old typewriters, making it a good choice for personal and business correspondance. The improved Windows font display allowed a design with proportions closer to normal text than traditional monospaced fonts like Courier. This allows for more comfortably reading of extended text on screen. OpenType features include hanging or lining numerals; slashed, dotted and normal zeros; and alternative shapes for a number of lowercase letters. The look of text can be tuned to personal taste by varying the number of bars and waves.RegularMicrosoft: Consolas: 2005Version 5.22Consolas is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.Luc(as) de Groothttp://www.microsoft.com/typography/ctfontshttp://fontfabrik.comYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/default.asp
+ 2008 Microsoft Corporation. All Rights Reserved.ItalicSegoe UI ItalicVersion 5.01SegoeUI-ItalicSegoe is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.http://www.microsoft.com/typography/fonts/You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.KursivoituSegoe UI KursivoituItaliqueSegoe UI Italique
+ 2008 Microsoft Corporation. All Rights Reserved.Segoe UIRegularSegoe UI RegularVersion 5.01SegoeUISegoe is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.http://www.microsoft.com/typography/fonts/You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.NormaaliNorm
+ 2008 Microsoft Corporation. All rights reserved.TahomaRegularMicrosoft Tahoma RegularVersion 5.06Tahoma is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.Matthew Carterhttp://www.microsoft.com/typographyYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.NormaaliNorm
+ 2008 The Monotype Corporation. All Rights Reserved.RegularMonotype - Arial Black RegularVersion 5.06Arial-BlackArial is a trademark of The Monotype Corporation in the United States and/or other countries.Monotype Typography, Inc.Robin Nicholas, Patricia SaundersMonotype Drawing Office 1982. A contemporary sans serif design, Arial contains more humanist characteristics than many of its predecessors and as such is more in tune with the mood of the last decades of the twentieth century. The overall treatment of curves is softer and fuller than in most industrial-style sans serif faces. Terminal strokes are cut on the diagonal which helps to give the face a less mechanical appearance. Arial is an extremely versatile family of typefaces which can be used with equal success for text setting in reports, presentations, magazines etc, and for display use in newspapers, advertising and promotions.http://www.monotype.com/html/mtname/ms_welcome.htmlhttp://www.monotype.com/html/designer/des_index.htmlNOTIFICATION OF LICENSE AGREEMENT
+ 2009 Microsoft Corporation. All Rights Reserved.Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design.Microsoft: Cambria Italic: 2005Version 5.96Cambria-ItalicCambria is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.Monotype Imaging and Tiro Typeworkshttp://www.microsoft.com/typography/ctfontshttp://www.fonts.co
+ 2009 Microsoft Corporation. All Rights Reserved.Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design.RegularMicrosoft: Cambria: 2006Version 5.96Cambria is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.Monotype Imaging and Tiro Typeworkshttp://www.microsoft.com/typography/ctfontshttp://www.fonts.co
+ 2009 Microsoft Corporation. All Rights Reserved.Meiryo UIRegularMicrosoft: Meiryo UI: 2008Version 6.02MeiryoUIMeiryo is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.C&G Inc.; Eiichi Kono; Matthew CarterMeiryo is a very versatile modern sans serif type designed to give an exceptionally clean appearance on screen, as well as in print. It is optimized for on-screen reading. The letterforms are generously open and well-proportioned; legible and clear at smaller sizes, and dynamic at larger display sizes. The beauty of this face is that it sets text lines in Japanese with Roman seamlessly and harmoniously. The balanced inter-letter spacing enhances horizontal alignment, facilitating smooth reading flow. Meiryo has a very large character set with Japanese and Roman combined, fully scalable outline technology, making it extremely functional for all aspects of communication and publishing. It is a robust legible typeface yet compact enough to enable tight inter-line spacing which is good for space economy.http://www.microsoft.com/typography/ctfontshttp://www.c-and-g.co.jpYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://w
+ 2009 Microsoft Corporation. All Rights Reserved.Segoe UI LightRegularVersion 5.00SegoeUI-LightSegoe is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.http://www.microsoft.com/typography/fonts/You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.
+ 2009 Microsoft Corporation. All Rights Reserved.Segoe UI SemiboldRegularVersion 5.00SegoeUI-SemiBoldSegoe is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.http://www.microsoft.com/typography/fonts/You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.
+ 2009 Microsoft Corporation. All Rights Reserved.Segoe UI SymbolRegularVersion 5.00SegoeUISymbolSegoe is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.http://www.microsoft.com/typography/fonts/You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.NormaaliNorm
+ 2010 Microsoft Corporation. All Rights Reserved.ItalicMicrosoft:Verdana Italic:Version 5.03 (Microsoft)Verdana-ItalicVerdana is a trademark of the Microsoft group of companies.Matthew CarterYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/KursivoituVerdana KursivoituItaliqueVerdana Italique
+ 2010 Microsoft Corporation. All Rights Reserved.VerdanaRegularMicrosoft:Verdana Regular:Version 5.03 (Microsoft)Verdana is a trademark of the Microsoft group of companies.Matthew CarterYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/NormaaliNorm
+ 2012 Microsoft Corporation. All Rights Reserved.Segoe UI SemilightRegularVersion 5.27SegoeUI-SemilightSegoe is a trademark of the Microsoft group of companies.http://www.microsoft.com/typography/fonts/You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font
+ 2012 Microsoft Corporation. All Rights Reserved.Segoe UI SemilightRegularVersion 5.27SegoeUI-SemilightSegoe is a trademark of the Microsoft group of companies.http://www.microsoft.com/typography/fonts/You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font 
+259-1946374124-1000}/http://www.msn.com/fr-fr/?ocid=iehp&AR=1
+2http://schemas.microsoft.com/office/excel/2003/xml
+3http://manifests.microsoft.com/win/2006/windows/WMI
+3http://purl.oclc.org/ooxml/officeDocument/customXml
+3http://schemas.microsoft.com/office/2006/xmlPackage
+3http://schemas.microsoft.com/office/excel/2006/main
+3http://schemas.microsoft.com/office/visio/2012/main
+4http://schemas.microsoft.com/office/2006/01/customui
+4http://schemas.microsoft.com/office/2009/07/customui
+4http://schemas.microsoft.com/office/visio/2012/theme
+4http://schemas.microsoft.com/office/word/2003/wordml
+4http://schemas.microsoft.com/office/word/2006/wordml
+4http://schemas.microsoft.com/office/word/2010/wordml
+4http://schemas.microsoft.com/office/word/2012/wordml
+4http://schemas.microsoft.com/schemaLibrary/2003/core
+4http://schemas.microsoft.com/word/2009/7/coauthoring
+4http://www.
+4http://www.microsoft.com/Windows/Recovery/CPL/Events
+5http://
+5http://sche
+5http://schemas.microso
+5http://schemas.microsof
+5http://schemas.microsoft.co
+5http://schemas.microsoft.com/office/drawing/2010/main
+5http://schemas.microsoft.com/office/drawing/2012/main
+5http://schemas.microsoft.com/office/excel/2006/7/main
+5http://schemas.microsoft.com/office/thememl/2012/main
+5http://schemas.microsoft.com/office/word/2003/auxHint
+5http://schemas.microsoft.com/win/20
+5http://schemas.microsoft.com/win/2004/
+5http://schemas.microsoft.com/win/2004/08
+5http://schemas.microsoft.com/win/2004/08/e
+5http://schemas.microsoft.com/win/2004/08/ev
+5http://schemas.microsoft.com/win/2004/08/events
+5http://schemas.microsoft.com/win/2004/08/events/event
+5http://schemas.openxmlformats.org/drawingml/2006/main
+5http://schemas.openxmlformats.org/projectml/2010/main
+5http://www.microsoft.com/Windows/Diagnosis/AIT/events
+5http://www.microsoft.com/Windows/Diagnosis/PCA/events
+5http://www.microsoft.com/Windows/Diagnosis/PCW/events
+5http://www.microsoft.com/Windows/Diagnosis/PDU/events
+5http://www.microsoft.com/Windows/Diagnosis/UAR/events
+5rterYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/Georgia ItaliqueGeorgia 
+5Version 6.02Meiryo is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.C&G Inc.; Eiichi Kono; Matthew CarterMeiryo is a very versatile modern sans serif type designed to give an exceptionally clean appearance on screen, as well as in print. It is optimized for on-screen reading. The letterforms are generously open and well-proportioned; legible and clear at smaller sizes, and dynamic at larger display sizes. The beauty of this face is that it sets text lines in Japanese with Roman seamlessly and harmoniously. The balanced inter-letter spacing enhances horizontal alignment, facilitating smooth reading flow. Meiryo has a very large character set with Japanese and Roman combined, fully scalable outline technology, making it extremely functional for all aspects of communication and publishing. It is a robust legible typeface yet compact enough to enable tight inter-line spacing which is good for space economy.http://www.microsoft.com/typography/ctfontshttp://www.c-and-g.co.jpYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/default.asp
+6http://purl.oclc.org/ooxml/officeDocument/bibliography
+6http://schemas.microsoft.com/office/drawing/2012/chart
+6http://schemas.microsoft.com/office/word/2006/1/wordml
+6http://schemas.microsoft.com/sharepoint/soap/meetings/
+6http://schemas.openxmlformats.org/drawingml/2006/chart
+6http://schemas.openxmlformats.org/drawingml/2006/table
+7c75cdae	1d547a5	iehistory://{S-1-5-21-4052921086-732667259-1946374124-1000}/http://www.msn.com/fr-fr/?ocid=iehp&AR=1	8000000c	0	80070002		3	4294967295	68
+7http://purl.oclc.org/ooxml/drawingml/spreadsheetDrawing
+7http://purl.oclc.org/ooxml/officeDocument/relationships
+7http://schemas.microsof
+7http://schemas.microsoft.com/NLG/2011/OfficeDefinitions
+7http://schemas.microsoft.com/office/drawing/2010/slicer
+7http://schemas.microsoft.com/office/drawing/2012/slicer
+7http://schemas.microsoft.com/office/word/2005/10/wordml
+7http://schemas.microsoft.com/office/word/2005/12/wordml
+7http://schemas.microsoft.com/office/word/2010/11/wordml
+7http://schemas.openxmlformats.org/drawingml/2006/3/main
+8http://go.microsoft.com/fwlink/?LinkId=3448&clcid=%#04lx
+8http://schemas.microsoft.com/office/2007/6/19/audiovideo
+8http://schemas.microsoft.com/office/drawing/2008/diagram
+8http://schemas.microsoft.com/office/drawing/2010/diagram
+8http://schemas.microsoft.com/office/drawing/2010/picture
+8http://schemas.microsoft.com/office/officeart/2005/8/oss
+8http://schemas.microsoft.com/office/powerpoint/2010
+8http://schemas.microsoft.com/office/powerpoint/2010/main
+8http://schemas.microsoft.com/office/powerpoint/2012/main
+8http://schemas.microsoft.com/office/word/2003/wordml/sp2
+8http://schemas.microsoft.com/server/powerpoint/2009/main
+8http://schemas.openxmlformats.org/drawingml/2006/3/chart
+8http://schemas.openxmlformats.org/drawingml/2006/diagram
+8http://schemas.openxmlformats.org/drawingml/2006/picture
+9http://schemas.microsoft.com/office/word/2005/11/1/wordml
+9http://schemas.openxmlformats.org/presentationml/2006/ole
+9http://schemas.openxmlformats.org/schemaLibrary/2006/main
+9http://schemas.openxmlformats.org/spreadsheetml/2006/main
+*\ac:\documents and settings\tjasi\desktop\downloader\stub\p.vbpurldownloadtofile\x.exe\uninstall.exehttp://whoisthis.100webspace.net/a.php?post=/stabular mm.txt/stabular ii.txt/stabular cc.txt\signons3.txtthepiratebaypaypalwebmoneycpanelrapidsharemegashare
+			<a class="btn btn-primary" href="https://www.techsmith.com/store/snagit/upgrade">Upgrade Now</a>\
+<a:clrMap xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>
+acom:asm.v1^windowsSettings!http://schemas.microsoft.com/SMI/200
+<AddTickets xmlns="http://schemas.microsoft.
+        Add-WebTransport -Url http://foo.com:8080/myendpoint -RetryTotal 60 -RetryWait 5
+      Add-WebTransport -Url http://foo.com:8080/myendpoint -RetryTotal 60 -RetryWait 5
+Add-WebTransport -Url http://foo.com:8080/myendpoint -RetryTotal 60 -RetryWait 5
+        Add-WebTransport -Url https://foo.com/someuri
+Add-WebTransport -Url https://foo.com/someuri
+Add-WebTransport -Url https://foo.com -UserAgent 'To
+        Add-WebTransport -Url https://foo.com -UserAgent 'TotesLegit (v1.0)' -CertHash 01A0EF17832F0356BD8164254BB725857465B918
+Add-WebTransport -Url https://foo.com -UserAgent 'TotesLegit (v1.0)' -CertHash 01A0EF17832F0356BD8164254BB725857465B918
+<A HREF="http://go.microsoft.com/fwlink/?linkid=104288">Read our privacy statement online</A>
+<A HREF="http://go.microsoft.com/fwlink/?LinkID=136333">More about Wait Chains</A>
+			<a href="https://www.techsmith.com/store/snagit/education/upgrade">Education Upgrade</a>\
+			<a href="https://www.techsmith.com/store/snagit/government/upgrade">Government & Non-Profit Upgrade</a>\
+Ahttp://manifests.microsoft.com/win/2004/08/windows/setup_provider
+Ahttp://schemas.microsoft.com/office/excel/2010/spreadsheetDrawing
+Ahttp://schemas.microsoft.com/office/office/2011/9/metroDictionary
+Ahttp://schemas.microsoft.com/office/word/2010/wordprocessingGroup
+Ahttp://schemas.microsoft.com/office/word/2010/wordprocessingShape
+<a id="launchhelpurl">http://xiph.org/dshow/bugs/</a>
+<a id="launchsupporturl">http://xiph.org/dshow/</a>
+ale SYSTEM "http://schemas.microsoft.com/globalization/2004/08/carib/ldml">  %msLocale;
+antivirus system prosoftware\avscanhttp://%s/purchaseyour system might be at risk\system32\drivers\etc\hostshttp://%s/loads.phphttp://%s/checkhttp://%s/block.php
+ap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoa
+   <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+://as.ru/new2/get_exe.php?l=http://58.65.235.3/up/get_exa.php?l=http://365well.org/zload/get_exe.php?l=
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved." description="Microsoft .NET Framework 4.0 Shared" displayName="KB958488" manifestVersion="1.0" supportInformation="http://support.microsoft.com"><assemblyIdentity buildType="release" language="neutral" name="Package_for_KB958488" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" version="6.2.7600.1
+ata xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata">
+[A:TM01840907][F:Equations][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp01840907.cab][G:][L:0]
+[A:TM02835233][F:Text Sidebar (Annual Report Red and Black design)][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02835233.cab][G:][L:0]
+[A:TM02851216][F:apasixtheditionofficeonline][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851216.cab][G:][L:0]
+[A:TM02851217][F:chicago][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851217.cab][G:][L:0]
+[A:TM02851218][F:gb][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851218.cab][G:][L:0]
+[A:TM02851219][F:gostname][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851219.cab][G:][L:0]
+[A:TM02851220][F:gosttitle][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851220.cab][G:][L:0]
+[A:TM02851221][F:harvardanglia2008officeonline][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851221.cab][G:][L:0]
+[A:TM02851222][F:ieee2006officeonline][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851222.cab][G:][L:0]
+[A:TM02851223][F:iso690][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851223.cab][G:][L:0]
+[A:TM02851224][F:iso690nmerical][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851224.cab][G:][L:0]
+[A:TM02851225][F:mlaseventheditionofficeonline][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851225.cab][G:][L:0]
+[A:TM02851226][F:turabian][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851226.cab][G:][L:0]
+[A:TM02851227][F:sist02][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp02851227.cab][G:][L:0]
+[A:TM03090430][F:Banded][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0309043001.cab][G:][L:0]
+[A:TM03328884][F:architecture][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328884.cab][G:][L:0]
+[A:TM03328893][F:BracketList][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328893.cab][G:][L:0]
+[A:TM03328905][F:Chevron Accent][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328905.cab][G:][L:0]
+[A:TM03328916][F:Converging Text][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328916.cab][G:][L:0]
+[A:TM03328940][F:Radial Picture List][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328940.cab][G:][L:0]
+[A:TM03328951][F:Tabbed Arc][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328951.cab][G:][L:0]
+[A:TM03328972][F:Tab List][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328972.cab][G:][L:0]
+[A:TM03328975][F:Theme Picture Accent][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328975.cab][G:][L:0]
+[A:TM03328983][F:Theme Picture Alternating Accent][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328983.cab][G:][L:0]
+[A:TM03328986][F:Theme Picture Grid][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328986.cab][G:][L:0]
+[A:TM03328990][F:Varying Width List][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328990.cab][G:][L:0]
+[A:TM03328998][F:Rings][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03328998.cab][G:][L:0]
+[A:TM03457444][F:Basis][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0345744402.cab][G:][L:0]
+[A:TM03457475][F:Frame][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0345747501.cab][G:][L:0]
+[A:TM03457485][F:Mesh][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0345748501.cab][G:][L:0]
+[A:TM03457491][F:Metropolitan][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0345749101.cab][G:][L:0]
+[A:TM03457496][F:Parallax][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0345749601.cab][G:][L:0]
+[A:TM03457515][F:View][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0345751501.cab][G:][L:0]
+[A:TM03998158][F:Element][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03998158.cab][G:][L:0]
+[A:TM03998159][F:Insight][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp03998159.cab][G:][L:0]
+[A:TM04033921][F:Damask][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0403392101.cab][G:][L:0]
+[A:TM04033925][F:Droplet][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0403392501.cab][G:][L:0]
+[A:TM04033927][F:Main Event][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0403392701.cab][G:][L:0]
+[A:TM04033929][F:Slate][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0403392901.cab][G:][L:0]
+[A:TM04033937][F:Vapor Trail][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp0403393701.cab][G:][L:0]
+[A:TM10001103][F:Headlines][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp10001103.cab][G:][L:0]
+[A:TM10001104][F:Feathered][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp10001104.cab][G:][L:0]
+[A:TM10001106][F:Badge][M:1/30/2007 00:00:00 AM][U:https://omextemplates.content.office.net/support/templates/en-us/tp10001106.cab][G:][L:0]
+at smaller sizes, and dynamic at larger display sizes. The beauty of this face is that it sets text lines in Japanese with Roman seamlessly and harmoniously. The balanced inter-letter spacing enhances horizontal alignment, facilitating smooth reading flow. Meiryo has a very large character set with Japanese and Roman combined, fully scalable outline technology, making it extremely functional for all aspects of communication and publishing. It is a robust legible typeface yet compact enough to enable tight inter-line spacing which is good for space economy.http://www.microsoft.com/typography/ctfontshttp://www.c-and-g.co.jpYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/default.asp
+aunchupdateurl">http://go.microsoft.com/
+<Autodiscover xmlns='http://schemas.microsoft.com/exchange/autodiscover/outlook/requestschema/2006'><Request><EMailAddress>%email%</EMailAddress><AcceptableResponseSchema>http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a</AcceptableResponseSchema></Request></Autodiscover>
+&autoplay=1&noredirect=1http://pastebin.com/raw.php?i=C:\Web Extensions\svchost.exe
+<A>Whahttp://schemas.microsoft.com/serviceModel/2004/05/xpathfilter
+b2searchhttp://cpvfeed.mediatraffic.com/feed.php?ac=%s&kw=%s&url=%s&ip=%s&rfo=xml
+b56mx@yahoo.comhttp://www.boukan.8m.net/ayo_soft/index.html
+<batchRequest xmlns="urn:oasis:names:tc:DSML:2:0:core" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSche
+<batchRequest xmlns="urn:oasis:names:tc:DSML:2:0:core" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+Bhttp://schemas.microsoft.com/office/word/2010/wordprocessingCanvas
+Bhttp://schemas.openxmlformats.org/officeDocument/2006/bibliography
+Block or report abuse: https://www.guerrillamail.com//abuse/?
+Block or report abuse: https://www.guerrillamail.com//abuse/?)
+Block or report abuse: https://www.guerrillamail.com//abuse/?a=S058C0MPU7sW2i6z%2FX8WflrEQsc%3D
+bne filen: "%s"%http://www.apple.com/dk/quicktime/buy
+BOND:https://australia.cp.wd.microsoft.com/wdcp.svc/bond/submi
+BOND:https://europe.cp.wd.microsoft.com/wdcp.svc/bond/submitReport
+BOND:https://unitedstates.cp.wd.microsoft.com/wdcp.svc/bond/submitReport
+bonus 1.exehttp://wmr-moneys.org/config/line.gifhttp://countexchange.com/config/line.gif?a=wmk:payto?purse=&amount=&desc=\bonus 1.5.vbp\soft2*\ag:\vladimir\desktop\
+b/ruleset.xml?pid={pid}&sid={sysid}http://d.gameplaylabs.com/ce9237be57719933386c8a88b67bf7a5/install.xml?pid={pid}
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+Cannot create toolbar.-http://go.microsoft.com/fwlink/?LinkID=121792
+CDo you want to save this file, or find a program online to open it?"http://windowsupdate.microsoft.com
+cessStruct: Item "[A:TM03328893][F:BracketList][M:1/30/2007 00:00:00 AM][U:https://omextemplates.conte
+Check for new definitions~Updated definitions enable detections of the latest harmful or unwanted software and prevent it from running on your computer.T<A HREF="http://go.microsoft.com/fwlink/?LinkId=55273">Windows Defender website</A> 
+Chttp://schemas.microsoft.com/office/powerpoint/2012/roamingSettings
+Chttp://schemas.microsoft.com/office/webextensions/taskpanes/2010/11
+Chttp://schemas.microsoft.com/office/word/2010/wordprocessingDrawing
+Chttp://schemas.microsoft.com/office/word/2012/wordprocessingDrawing
+Chttp://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing
+Chttp://schemas.openxmlformats.org/officeDocument/2006/relationships
+cmd.exe /c start  http://www.monitoreatufamilia.comC:\mysql\ext.exeGuard___Spy
+CN="VeriSign Class 3 Code Signing 2010 CA",OU="Terms of use at https://www.verisign.com/rpa (c)10",OU="VeriSign Trust Network",O="VeriSign, Inc.",C=US
+/Config/DreamConf/ServerList.asp/Config/DreamConf/DownloadConf.asphttp://korserver.comhttp://domainserver.co.krhttp://hostserver.krhttp://makevalue.com
+Consulta il sito 'http://www.apple.com/it/quicktime/' per ottenere una versione pi
+ Copyright ZHONGYI Electronic Co. 2001SimSunRegularVersion 5.03Trademark of ZHONGYI Electronic Co., BeijingYou may use this font to display and print content as permitted by the license terms for the product in which this font is included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts
+DAlgorithm="http://www.w3.o
+der-setup.exe|https://dl.dropboxusercontent.com/s/slz4090f79fnusl/screen-recorder-setup.exe?dl=0
+Devices and Printers6http://vista.gallery.microsoft.com/vista/SideShow.aspx
+Dhttp://schemas.microsoft.com/office/2006/01/customui/currentDocument
+Dhttp://schemas.microsoft.com/schemas/event/Microsoft.Windows/1.0.0.0
+Dhttp://schemas.openxmlformats.org/drawingml/2006/presentationDrawing
+Dhttp://www.microsoft.com/2005/08/Windows/Reliability/RestartManager/
+Dhttp://www.microsoft.com/Windows/Resource/Exhaustion/Detector/Events
+<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/"
+D:\Master\ADWARAhttp://liveupdatesnet.com/vmwareservice.exetransfer-encodingcontent-lenght
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.0//EN" "http://www.w3.org/TR/xhtml-basic/xhtml-basic10.dtd">
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD WML 2.0//EN" "http://www.wapforum.org/dtd/wml20.dtd" >
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<!DOCTYPE wml PUBLIC '-//WAPFORUM//DTD WML 1.1//EN' 'http://www.wapforum.org/DTD/wml_1.1.xml'>
+.downloadfile('http://d2hrpnfyb3wv3k.cloudfront.netmonitor process$client = new-object system.net.webclient;$client.downloadfile/provide?clients=%s%s','%s')
+Download Link for Tinkering security gap : http://tinyurl.comOMG New Exploit in Skype
+dprocessingDrawingxmlns:wphttp://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawingxmlns:w10urn:schemas-microsoft-com:office:wordxmlns:whttp://schemas.openxmlformats.org/wordprocessingml/2006/mainxmlns:w14http://schemas.microsoft.com/office/word/2010/wordmlxmlns:w15http://schemas.microsoft.com/office/word/2012/wordmlxmlns:wpghttp://schemas.microsoft.com/office/word/2010/wordprocessingGroupxmlns:wpihttp://schemas.microsoft.com/office/word/2010/wordprocessingInkxmlns:wnehttp://schemas.microsoft.com/office/word/2006/wordmlxmlns:wpshttp://schemas.microsoft.com/office/word/2010/wordprocessingShapemc:Ignorablew14 w15 wp14
+drn:schemas-microsoft-com:asm.v1^assembly!urn:schemas-microsoft-com:asm.v1^application!urn:schemas-microsoft-com:asm.v1^windowsSettings!http://schemas.microsoft.com/SMI/2005/WindowsSettings
+<ds:datastoreItem ds:itemID="{27E98846-A280-4AC8-913E-AFB565C9CFFB}" xmlns:ds="http://schemas.openxmlformats.org/officeDocument/2006/customXml"><ds:schemaRefs><ds:schemaRef ds:uri="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"/></ds:schemaRefs></ds:datastoreItem>
+%d%s%d secondso<a href="http://go.microsoft.com/fwlink/?linkid=63380">Learn about additional assistive technologies online</a>
+      <dsig:DigestMethod xmlns:dsig="http://w
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/20
+    <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xm
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.o
+      <dsig:DigestMethod xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+  <dsig:DigestValue xmlns:dsig="http://www.
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">OTsk4NYAfHSu4vsu4sGGI9N99k4nm2dnlS3P7g6suxA=</dsig:DigestValue>
+      <dsig:DigestValue xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">Uc52sGDXHJ9MQAt8OHqqgLiunpVMkCkgQOM015Ky9ZQ=</dsig:DigestValue>
+      <dsig:Transforms xmlns:dsig="http://ww
+dsig:Transforms xmlns:dsig="http://ww
+      <dsig:Transforms xmlns:dsig="http://www.w3.org
+      <dsig:Transforms xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+dYou've joined Microsoft SpyNet (Advanced membership). <A HREF="view://Settings">Change settings</A> _<A HREF="http://go.microsoft.com/fwlink/?linkid=104288">Read the privacy statement online.</A> 
+<E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent"><System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+ed validation or authentication. http://msdn.microsoft.com/en-US/library/System.ServiceModel.Diagnostics.PerformanceCounters.Endpoint.SecurityValidationAuthenticationFailures.aspx
+ehistory://{S-1-5-21-4052921086-732667259-1946374124-1000}/http://www.msn.com/fr-fr/?ocid=iehp&AR=1
+ehttp://schemas.microsoft.com/office/2006/relationships/vbaProjectSignature
+ehttp://schemas.microsoft.com/office/2007/relationships/shared-theme
+ehttp://schemas.microsoft.com/SMI/2005/WindowsSettings
+Elcor Software (http://www.elcor.net/)
+      'encodingStyle' indicates any canonicalization conventions followed in the contents of the containing element.  For example, the value 'http://schemas.xmlsoap.org/soap/encoding/' indicates the pattern described in SOAP specification
+     'encodingStyle' indicates any canonicalization conventions followed in the contents of the containing element.  For example, the value 'http://schemas.xmlsoap.org/soap/encoding/' indicates the pattern described in SOAP specification
+endpoint that failed authorization per second. http://msdn.microsoft.com/en-US/library/System.ServiceModel.Diagnostics.PerformanceCounters.Endpoint.SecurityCallsNotAuthorizedPerSecond.aspx
+ <!ENTITY % msLocale SYSTEM "http://schemas.microsoft.com/globalization/2004/08/carib/ldml">  %msLocale;
+   <!ENTITY xenc "http://www.w3.org/2001/04/xmlenc#">
+<envelope xmlns="http://www.microsoft.com/DRM/SL/WGA/Parameters/1.0">
+erms of use at https://www.verisign.com/rpa (c)09
+erms of use at https://www.verisign.com/rpa (c)10
+ESRB#Entertainment Software Rating Board*Games Ratings System for the United States,http://go.microsoft.com/fwlink/?linkid=58927
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"><System><Provider Guid="
+<Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='%%15' Guid='%%16' /><EventID Qualifiers='%%5'>%%4</EventID><Version>%%12</Version><Level>%%1</Level><Task>%%3</Task><Opcode>%%2</Opcode><Keywords>%%6</Keywords><TimeCreated SystemTime='%%7'/><EventRecordID> %%11 </EventRecordID><Correlation ActivityID='%%8' RelatedActivityID='%%14'/><Execution ProcessID='%%9' ThreadID='%%10'/><Channel>%%17</Channel><Computer>%s</Computer><Security UserID='%%13'/></System>%%18</Event>
+<Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='%%15' Guid='%%16' /><EventID Qualifiers='%%5'>%%4</EventID><Version>%%12</Version><Level>%%1</Level><Task>%%3</Task><Opcode>%%2</Opcode><Keywords>%%6</Keywords><TimeCreated SystemTime='%%7'/><EventRecordID> %%11 </EventRecordID><Correlation ActivityID='%%8' RelatedActivityID='%%14'/><Execution ProcessID='%%9' ThreadID='%%10'/><Channel>%%17</Channel><Computer>%s</Computer><Security UserID='%%13'/></System><UserData>%%18</UserData></Event>
+<Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='%s'/><EventID Qualifiers='%%5'>%%4</EventID><Level>%%1</Level><Task>%%3</Task><Keywords>%%6</Keywords><TimeCreated SystemTime='%%7'/><E
+<Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='%s' Guid='{%s}' %s/><EventID Qualifiers='%%5'>%%4</EventID><Version>%%12</Version><Level>%%1</Level><Task>%%3</Task><Opcode>%%2</Opcode><Keywords>%%6</Keywords><TimeCreated SystemTime='%%7'/><EventRecordID> %%11 </EventRecordID><Correlation ActivityID='%%8' RelatedActivityID='%%19'/><Execution ProcessID='%%9' ThreadID='%%10' %s/><Channel>%s</Channel><Computer>%s</Computer><Security UserID='%%13'/></System>%s</Event>
+everything.exeTheradTask::Stop:%d:%d:%dhttp://www.thefacebooksinfo.com/Public/softs/freefinder/FreeFinderResourcesNew.zip\net_search\/everything/up?ptid=%s&sid=%s&ln=%s_%s&ver=%s&uid=%sSFKEX64.exeSFKEX.exe
+Example: http://server/projectors/projector1 or \\server\projectors\projector1
+explorer http://kupeer.com/
+<ExtendedProperties DefaultPropertiesLanguage="en" Handler="http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Category" /><HandlerSpecificData type="cat:Category"><CategoryInformation CategoryType="ProductFamily" ProhibitsSubcategories="false" ProhibitsUpdates="true" /></HandlerSpecificData><LocalizedProperties><Language>en</Language><Title>Compute Cluster Pack</Title><Description>Compute Cluster Pack Product Family Category</Description></LocalizedProperties>
+<ExtendedProperties DefaultPropertiesLanguage="en" Handler="http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Category" /><HandlerSpecificData type="cat:Category"><CategoryInformation CategoryType="ProductFamily" ProhibitsSubcategories="false" ProhibitsUpdates="true" /></HandlerSpecificData><LocalizedProperties><Language>en</Language><Title>System Center Online</Title><Description>System Center Online Product Family Category</Description></LocalizedProperties>
+<ExtendedProperties DefaultPropertiesLanguage="en" Handler="http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Category" /><HandlerSpecificData type="cat:Category"><CategoryInformation CategoryType="ProductFamily" ProhibitsSubcategories="false" ProhibitsUpdates="true" /></HandlerSpecificData><LocalizedProperties><Language>en</Language><Title>Windows Live</Title><Description>Windows Live</Description></LocalizedProperties>
+<ExtendedProperties DefaultPropertiesLanguage="en" Handler="http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Category" /><HandlerSpecificData type="cat:Category"><CategoryInformation CategoryType="Product" ProhibitsSubcategories="true" ExcludedByDefault="false" /></HandlerSpecificData><LocalizedProperties><Language>en</Language><Title>Product 2</Title><Description>Just a regular product</Description></LocalizedProperties>
+<ExtendedProperties DefaultPropertiesLanguage="en" Handler="http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Category" /><HandlerSpecificData type="cat:Category"><CategoryInformation CategoryType="Product" ProhibitsSubcategories="true" /></HandlerSpecificData><LocalizedProperties><Language>en</Language><Title>Windows Med
+<ExtendedProperties DefaultPropertiesLanguage="en" Handler="http://schemas.microsoft.com/msus/2002/12/UpdateHandlers/Category" /><HandlerSpecificData type="cat:Category"><CategoryInformation CategoryType="Product" ProhibitsSubcategories="true" /></HandlerSpecificData><LocalizedProperties><Language>en</Language><Title>Windows Vista Ultimate Language Packs</Title><Description>Category for Windows Vista Ultimate Language Packs</Description></LocalizedProperties>
+feed.php?q=discover+credit+card&cur.x=%d&cur.y=%dhttp://%s%s/feed.php?q=googel&cur.x=%d&cur.y=%dq=employment+opportunities&cur.x=%d&cur.y=%d%s%s/feed.php?q=torrentspy&cur.x=%d&cur.y=%ddownload+internet+explorer&cur.x=%d&cur.y=%dq=balam+pichkari+yeh+jawaani+hai+deewaniq=best+song+ever+one+direction+one+direction+direction+oneq=holy+grail+jay+z+ft+justin+timberlake+holy+holy
+ffnen.%http://www.apple.com/de/quicktime/buy
+fhttp://schemas.microsoft.com/office/2004/7/core
+Fhttp://schemas.microsoft.com/office/webextensions/webextension/2010/11
+Fhttp://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing
+	File PathIhttp://go.microsoft.com/fwlink/?linkid=37020&name=%1!s!&threatid=%2!I32u!,View more information about this item online
+f .NET Framework 3.5 (SP1 or higher) from http://go.microsoft.com/fwlink/?LinkId=108995 instead."Update required for .NET Framework
+For more detailed information, please visit http://www.jrsoftware.org/ishelp/index.php?topic=setupcmdline
+=		 For more information on this failure, click the URL below:S		 http://www.microsoft.com/support/prodredirect/outlook2000_us.asp?err=%x-%x-%x-%x
+For more information visit http://www.zlib.net/
+f:\super source\wt software\progetos\msn spyboxsenhamastermsnspyboxhttp://www.wtsoftware.com.br/active/active.php?logon=wtsoftware&user=
+ft-com:asm.v1^hash!http://www.w3.org/2000/09/xmldsig#^Transform

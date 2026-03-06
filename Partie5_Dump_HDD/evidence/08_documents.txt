@@ -1,0 +1,7 @@
+d/d 54723-144-1:	Apowersoft
+r/r 11354-128-1:	desktop.ini
+d/d 17351-144-6:	Imager_Lite_3.1.1
+d/d 53693-144-6:	Mft2Csv-master
+d/d 444-144-1:	My Music
+d/d 445-144-1:	My Pictures
+d/d 446-144-1:	My Videos

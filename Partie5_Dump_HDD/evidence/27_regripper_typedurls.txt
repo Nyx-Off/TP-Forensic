@@ -1,0 +1,9 @@
+Launching typedurls v.20200526
+typedurls v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLs key.
+
+TypedURLs
+Software\Microsoft\Internet Explorer\TypedURLs
+LastWrite Time 2019-07-23 19:05:59Z
+  url1 -> http://google.com/
+  url2 -> http://go.microsoft.com/fwlink/?LinkId=69157

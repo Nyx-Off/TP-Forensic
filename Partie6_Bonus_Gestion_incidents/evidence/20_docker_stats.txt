@@ -1,0 +1,4 @@
+NAME                             CPU %     MEM USAGE / LIMIT     NET I/O
+wazuh-deploy-wazuh.dashboard-1   0.17%     189.6MiB / 23.26GiB   231kB / 240kB
+wazuh-deploy-wazuh.manager-1     3.93%     565.3MiB / 23.26GiB   1.9GB / 3.57MB
+wazuh-deploy-wazuh.indexer-1     0.47%     1.429GiB / 23.26GiB   318kB / 799kB

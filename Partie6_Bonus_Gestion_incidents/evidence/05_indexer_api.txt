@@ -1,0 +1,18 @@
+{
+  "name" : "wazuh.indexer",
+  "cluster_name" : "wazuh-cluster",
+  "cluster_uuid" : "abhiSbnoRcWso7D734JGXQ",
+  "version" : {
+    "number" : "7.10.2",
+    "build_type" : "rpm",
+    "build_hash" : "0aa3533d9a82a2a9acf03285cc47dfe264c5a15b",
+    "build_date" : "2024-10-28T15:29:00.446834Z",
+    "build_snapshot" : false,
+    "lucene_version" : "9.10.0",
+    "minimum_wire_compatibility_version" : "7.10.0",
+    "minimum_index_compatibility_version" : "7.0.0"
+  },
+  "tagline" : "The OpenSearch Project: https://opensearch.org/"
+}
+
+HTTP_CODE:200

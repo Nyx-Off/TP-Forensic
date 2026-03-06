@@ -1,0 +1,147 @@
+d/d 54243-144-1:	.Icecream Screen Recorder
+r/r 43874-128-5:	03586635-5bf8-490b-b0b9-d5c29b64a1cb.tmp
+r/r 44083-128-5:	0939f5b0-4e52-4502-80bb-01feda5325d0.tmp
+r/r 44081-128-5:	1aafde51-bc9f-4b26-b861-50c44efbce3d.tmp
+r/r 43984-128-5:	25a0a1e6-1497-4460-bdbf-e6e226edd867.tmp
+r/r 44082-128-5:	302f718d-290d-4408-a12d-523f4b922075.tmp
+r/r 43868-128-5:	5fc05ef2-c04d-4ef0-ace4-a756d704c689.tmp
+r/r 43870-128-5:	80022548-1ab5-4552-b865-1d79f86f6022.tmp
+r/r 43982-128-5:	b542d2bd-0efa-4f4b-b258-5240d3304a16.tmp
+r/- * 53019:	cabBB08.tmp
+r/- * 53020:	cabBB19.tmp
+r/r 43707-128-4:	chrome_installer.log
+d/d 43705-144-1:	CR_56D9A.tmp
+r/- * 49513:	CVRE80D.tmp.cvr
+r/- * 50354:	CVRFA17.tmp.cvr
+r/r 17973-128-4:	dd_vcredistMSI2C35.txt
+d/d 53119-144-1:	TCDFDB8.tmp
+d/d 53121-144-1:	TCDFE75.tmp
+d/d 53123-144-1:	TCDFFDE.tmp
+r/r 57931-128-1:	tior.exe
+d/d 53690-144-1:	tmp10305.WMC
+d/d 53408-144-1:	VBE
+r/r 17875-128-1:	vminst.log_20190723_211112.log
+r/r 44252-128-1:	vmmsi.log_20190723_211111.log
+d/d 13028-144-1:	vmware-johnoc
+r/r 3585-128-4:	WAE-Wondershare Filmora Scrn.log
+r/r 11225-128-3:	wmsetup.log
+d/d 17364-144-1:	WPDNSE
+r/r 49888-128-1:	_iu14D2N.tmp
+r/r 53406-128-4:	~DF9EBE049BA9B79F1E.TMP
+r/r 53064-128-1:	~DFAF1E8F257B454ED8.TMP
+d/d 57507-144-1:	~nsu.tmp
+d/- * 0:	~nsu.tmp
+r/r 56217-128-4:	dd_wcf_CA_smci_20190731_121749_614.txt
+r/r 17882-128-5:	f7976fb5-9ab5-4d46-9ad5-65afd1443f09.tmp
+r/r 17494-128-1:	FXSAPIDebugLogFile.txt
+d/d 18686-144-1:	GJRC273.tmp.dir
+d/d 43407-144-1:	hsperfdata_johnoc
+d/d 49097-144-1:	jetty-localhost-23232-solr.war-_solr-any-
+d/d 49042-144-1:	jna
+d/d 49047-144-1:	jna--1154558945
+r/- * 49040:	SetupTempKeyFile.tmp
+r/r 53054-128-4:	krtYMkVgyjNdd.vbs
+r/r 49046-128-4:	libtsk_jni_johnoc.dll
+d/d 11193-144-1:	Low
+r/r 18624-128-4:	Microsoft .NET Framework 4 Setup_20190731_141553752-MSI_netfx_Core_x86.msi.txt
+r/r 44637-128-4:	Microsoft .NET Framework 4 Setup_20190731_141553752-MSI_netfx_Extended_x86.msi.txt
+r/r 54823-128-4:	Microsoft .NET Framework 4 Setup_20190731_141553752.html
+d/d 54824-144-1:	Microsoft .NET Framework 4 Setup_4.0.30319
+r/r 49514-128-3:	ose00000.exe
+d/d 52912-144-6:	outlook logging
+r/r 6920-128-4:	QTInstallCode.log
+r/r 49073-128-4:	SetupExe(201907232153033C8).log
+d/d 53125-144-1:	TCD2DC.tmp
+d/d 53130-144-1:	TCD3B9.tmp
+d/d 53127-144-1:	TCD669.tmp
+d/d 53043-144-1:	TCDD6D8.tmp
+d/d 53045-144-1:	TCDD7B4.tmp
+d/d 53047-144-1:	TCDD7B6.tmp
+d/d 53049-144-1:	TCDD7D8.tmp
+d/d 53040-144-1:	TCDD7FA.tmp
+d/d 53052-144-1:	TCDD7FB.tmp
+d/d 53055-144-1:	TCDD81C.tmp
+d/d 53057-144-1:	TCDD83D.tmp
+r/r 44079-128-5:	9942f70e-8b0c-425c-be09-e9b026030722.tmp
+r/r 53113-128-4:	ad_driver.sys
+d/d 54590-144-1:	Apowersoft.CommUtilities
+r/r 56272-128-4:	ASPNETSetup_00000.log
+r/- * 0:	cabBBDE.tmp
+r/- * 0:	cabBBDF.tmp
+r/- * 53032:	cabBBE0.tmp
+r/- * 53033:	cabBBE1.tmp
+r/- * 53034:	cabBBF1.tmp
+r/- * 53035:	cabBBF2.tmp
+r/- * 53036:	cabBD4B.tmp
+r/- * 53037:	cabBD9A.tmp
+r/- * 53038:	cabBE85.tmp
+r/- * 53039:	cabBF12.tmp
+r/- * 53040:	cabD7D7.tmp
+r/- * 53051:	cabD7D9.tmp
+r/r 53112-128-3:	bVwHCYX.exe
+r/r 50047-128-3:	cab5793.tmp
+d/d 53460-144-1:	chrome_BITS_936_2987
+r/r 53193-128-1:	CVR1C27.tmp.cvr
+r/r 17867-128-1:	CVR3275.tmp.cvr
+r/r 57664-128-1:	CVR44DD.tmp.cvr
+r/r 53136-128-1:	CVR4AD5.tmp.cvr
+r/r 44567-128-1:	CVR5B59.tmp.cvr
+r/r 54173-128-1:	CVR6891.tmp.cvr
+r/r 54598-128-4:	dd_dotnetfx40_decompression_log.txt
+r/r 54677-128-4:	dd_SetupUtility.txt
+r/r 43867-128-5:	8b8318ad-f222-46e0-8166-998fb6ee086c.tmp
+r/r 17967-128-4:	dd_vcredistUI2C35.txt
+r/r 11205-128-3:	johnoc.bmp
+r/r 54431-128-1:	qtsingleapp-record-515c-1-lockfile
+d/d 53059-144-1:	TCDD83F.tmp
+d/d 53028-144-1:	TCDE344.tmp
+d/d 53118-144-1:	TCDFA8B.tmp
+d/d 53061-144-1:	TCDD860.tmp
+d/d 53063-144-1:	TCDD882.tmp
+d/d 53065-144-1:	TCDD884.tmp
+d/d 53067-144-1:	TCDD895.tmp
+d/d 53069-144-1:	TCDD8A7.tmp
+d/d 53071-144-1:	TCDD8C8.tmp
+d/d 53073-144-1:	TCDD966.tmp
+d/d 53074-144-1:	TCDD987.tmp
+d/d 53051-144-1:	TCDE28D.tmp
+d/d 53022-144-1:	TCDE28E.tmp
+d/d 53019-144-1:	TCDE29F.tmp
+d/d 53027-144-1:	TCDE2A0.tmp
+d/d 53023-144-1:	TCDE2B0.tmp
+d/d 53025-144-1:	TCDE2D0.tmp
+d/d 53083-144-1:	TCDE2D1.tmp
+d/d 53085-144-1:	TCDE2E2.tmp
+d/d 53024-144-1:	TCDE302.tmp
+d/d 53026-144-1:	TCDE313.tmp
+d/d 53020-144-1:	TCDE333.tmp
+d/- * 0:	TCDE344.tmp
+d/d 53029-144-1:	TCDE383.tmp
+d/d 53030-144-1:	TCDE3F1.tmp
+d/d 53034-144-1:	TCDE421.tmp
+d/d 53031-144-1:	TCDE451.tmp
+d/d 53035-144-1:	TCDE4AF.tmp
+d/d 53033-144-1:	TCDE4DF.tmp
+d/d 53036-144-1:	TCDE51F.tmp
+d/d 53037-144-1:	TCDE5DB.tmp
+d/d 53038-144-1:	TCDE678.tmp
+d/d 53098-144-1:	TCDE9A5.tmp
+d/d 53100-144-1:	TCDEA91.tmp
+d/d 53101-144-1:	TCDEAC2.tmp
+d/d 53103-144-1:	TCDEB9E.tmp
+d/d 53105-144-1:	TCDEC6B.tmp
+d/d 53108-144-1:	TCDEE32.tmp
+d/d 53110-144-1:	TCDF40D.tmp
+d/d 53111-144-1:	TCDF509.tmp
+d/d 53114-144-1:	TCDF76B.tmp
+d/d 53115-144-1:	TCDF8E4.tmp
+d/- * 0:	TCDFA8B.tmp
+r/- * 44616:	TempWinSAT-MediaWsk-2019-07-24-19-47-01-40.etl
+d/d 53056-144-1:	rad41020.tmp
+r/r 57670-128-4:	rad5163B.tmp.exe
+r/r 56450-128-4:	RGIEB7C.tmp
+r/r 56451-128-1:	RGIEB7C.tmp-tmp
+r/r 53046-128-4:	RGoEsDNcZhEnl.exe
+d/d 43873-144-1:	scoped_dir3112_17008
+r/r 54621-128-4:	Setup Log 2019-07-31 #001.txt
+-/r * 17539-128-3:	tmpA76F.tmp

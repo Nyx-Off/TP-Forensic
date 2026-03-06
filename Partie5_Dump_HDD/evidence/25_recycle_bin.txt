@@ -1,0 +1,2 @@
+d/d 11199-144-6:	S-1-5-21-4052921086-732667259-1946374124-1000
+Error stat(ing) image file (raw_open: image "/home/nyx/forensik/TP-Forensic/Partie5_Dump_HDD/Forensic_case_01/HD_Evidence01.{001..018}" - Aucun fichier ou dossier de ce nom)

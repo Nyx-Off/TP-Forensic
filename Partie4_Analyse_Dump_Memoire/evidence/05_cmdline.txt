@@ -1,0 +1,78 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:    0.00		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.57		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   35.64		Scanning layer_name using PdbSignatureScannerProgress:   35.74		Scanning layer_name using PdbSignatureScannerProgress:   35.84		Scanning layer_name using PdbSignatureScannerProgress:   35.94		Scanning layer_name using PdbSignatureScannerProgress:   36.04		Scanning layer_name using PdbSignatureScannerProgress:   36.43		Scanning layer_name using PdbSignatureScannerProgress:   36.62		Scanning layer_name using PdbSignatureScannerProgress:   37.60		Scanning layer_name using PdbSignatureScannerProgress:   37.99		Scanning layer_name using PdbSignatureScannerProgress:   38.38		Scanning layer_name using PdbSignatureScannerProgress:   38.87		Scanning layer_name using PdbSignatureScannerProgress:   39.55		Scanning layer_name using PdbSignatureScannerProgress:   40.43		Scanning layer_name using PdbSignatureScannerProgress:   63.38		Scanning layer_name using PdbSignatureScannerProgress:   63.48		Scanning layer_name using PdbSignatureScannerProgress:   63.57		Scanning layer_name using PdbSignatureScannerProgress:   63.67		Scanning layer_name using PdbSignatureScannerProgress:   63.77		Scanning layer_name using PdbSignatureScannerProgress:   63.87		Scanning layer_name using PdbSignatureScannerProgress:   63.96		Scanning layer_name using PdbSignatureScannerProgress:   64.36		Scanning layer_name using PdbSignatureScannerProgress:   64.45		Scanning layer_name using PdbSignatureScannerProgress:   64.55		Scanning layer_name using PdbSignatureScannerProgress:   65.14		Scanning layer_name using PdbSignatureScannerProgress:   65.62		Scanning layer_name using PdbSignatureScannerProgress:   65.72		Scanning layer_name using PdbSignatureScannerProgress:   65.82		Scanning layer_name using PdbSignatureScannerProgress:   66.02		Scanning layer_name using PdbSignatureScannerProgress:   66.41		Scanning layer_name using PdbSignatureScannerProgress:   66.70		Scanning layer_name using PdbSignatureScannerProgress:   66.89		Scanning layer_name using PdbSignatureScannerProgress:   67.38		Scanning layer_name using PdbSignatureScannerProgress:   67.58		Scanning layer_name using PdbSignatureScannerProgress:   67.68		Scanning layer_name using PdbSignatureScannerProgress:   67.77		Scanning layer_name using PdbSignatureScannerProgress:   67.87		Scanning layer_name using PdbSignatureScannerProgress:   67.97		Scanning layer_name using PdbSignatureScannerProgress:   68.07		Scanning layer_name using PdbSignatureScannerProgress:   68.16		Scanning layer_name using PdbSignatureScannerProgress:   68.26		Scanning layer_name using PdbSignatureScannerProgress:   68.36		Scanning layer_name using PdbSignatureScannerProgress:   68.46		Scanning layer_name using PdbSignatureScannerProgress:   68.55		Scanning layer_name using PdbSignatureScannerProgress:   68.65		Scanning layer_name using PdbSignatureScannerProgress:   68.75		Scanning layer_name using PdbSignatureScannerProgress:   68.95		Scanning layer_name using PdbSignatureScannerProgress:   69.04		Scanning layer_name using PdbSignatureScannerProgress:   69.34		Scanning layer_name using PdbSignatureScannerProgress:   69.43		Scanning layer_name using PdbSignatureScannerProgress:   69.53		Scanning layer_name using PdbSignatureScannerProgress:   69.63		Scanning layer_name using PdbSignatureScannerProgress:   69.73		Scanning layer_name using PdbSignatureScannerProgress:   70.21		Scanning layer_name using PdbSignatureScannerProgress:   70.41		Scanning layer_name using PdbSignatureScannerProgress:   70.70		Scanning layer_name using PdbSignatureScannerProgress:   70.90		Scanning layer_name using PdbSignatureScannerProgress:   71.19		Scanning layer_name using PdbSignatureScannerProgress:   71.29		Scanning layer_name using PdbSignatureScannerProgress:   71.68		Scanning layer_name using PdbSignatureScannerProgress:   71.78		Scanning layer_name using PdbSignatureScannerProgress:   71.88		Scanning layer_name using PdbSignatureScannerProgress:   71.97		Scanning layer_name using PdbSignatureScannerProgress:   72.17		Scanning layer_name using PdbSignatureScannerProgress:   72.75		Scanning layer_name using PdbSignatureScannerProgress:   74.02		Scanning layer_name using PdbSignatureScannerProgress:   74.22		Scanning layer_name using PdbSignatureScannerProgress:   74.32		Scanning layer_name using PdbSignatureScannerProgress:   75.20		Scanning layer_name using PdbSignatureScannerProgress:   76.27		Scanning layer_name using PdbSignatureScannerProgress:   79.30		Scanning layer_name using PdbSignatureScannerProgress:   82.81		Scanning layer_name using PdbSignatureScannerProgress:   84.86		Scanning layer_name using PdbSignatureScannerProgress:   85.64		Scanning layer_name using PdbSignatureScannerProgress:   87.30		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+PID	Process	Args
+
+4	System	-
+272	smss.exe	\SystemRoot\System32\smss.exe
+360	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+412	wininit.exe	wininit.exe
+420	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+468	winlogon.exe	winlogon.exe
+512	services.exe	C:\Windows\system32\services.exe
+520	lsass.exe	C:\Windows\system32\lsass.exe
+528	lsm.exe	C:\Windows\system32\lsm.exe
+636	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch
+696	vmacthlp.exe	"C:\Program Files\VMware\VMware Tools\vmacthlp.exe"
+728	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS
+780	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+876	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+948	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs
+1108	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService
+1240	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService
+1348	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+1384	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+1488	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+1572	VGAuthService.	"C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe"
+1596	vmtoolsd.exe	"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+1916	svchost.exe	C:\Windows\system32\svchost.exe -k bthsvcs
+1960	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted
+2012	TPAutoConnSvc.	"C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe"
+332	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
+2896	svchost.exe	C:\Windows\System32\svchost.exe -k secsvcs
+3012	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+1176	dwm.exe	"C:\Windows\system32\Dwm.exe"
+588	explorer.exe	C:\Windows\Explorer.EXE
+1644	taskhost.exe	"taskhost.exe"
+2500	vmtoolsd.exe	"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+1984	TPAutoConnect.	TPAutoConnect.exe -q -i vmware -a COM1 -F 30
+2312	conhost.exe	\??\C:\Windows\system32\conhost.exe
+2408	wmpnetwk.exe	"C:\Program Files\Windows Media Player\wmpnetwk.exe"
+3476	OUTLOOK.EXE	"C:\Program Files\Microsoft Office\Office15\OUTLOOK.EXE" 
+724	chrome.exe	-
+2856	recorder.exe	-
+1632	msdtc.exe	C:\Windows\System32\msdtc.exe
+3544	WINWORD.EXE	"C:\Program Files\Microsoft Office\Office15\WINWORD.EXE" /n "C:\Users\johnoc\Downloads\invoice\invoice.docm
+1416	rad5163B.tmp.e	"C:\Users\johnoc\AppData\Local\Temp\rad5163B.tmp.exe" 
+2108	FTK Imager.exe	"C:\Users\johnoc\Documents\Imager_Lite_3.1.1\FTK Imager.exe" 
+3928	NETSTAT.EXE	-
+1716	NETSTAT.EXE	-
+2284	cmd.exe	-
+1940	net1.exe	-
+4052	net1.exe	-
+2532	net1.exe	-
+3876	net.exe	-
+1276	net1.exe	-
+2220	net1.exe	-
+2472	systeminfo.exe	-
+3360	reg.exe	-
+3136	reg.exe	-
+1892	reg.exe	-
+1256	reg.exe	-
+3300	reg.exe	-
+2728	cscript.exe	cscript "C:\Users\johnoc\AppData\Local\Temp\krtYMkVgyjNdd.vbs"
+2876	conhost.exe	\??\C:\Windows\system32\conhost.exe
+1292	rfhyMVOQxfc.ex	-
+2204	cmd.exe	-
+1896	cmd.exe	-
+2192	cmd.exe	-
+3860	cmd.exe	-
+3432	whoami.exe	-
+2924	whoami.exe	-
+3100	whoami.exe	-
+2072	whoami.exe	-
+2592	notepad.exe	-
+596	whoami.exe	-
+1880	whoami.exe	-
+2100	whoami.exe	-
+3972	whoami.exe	-
+1808	rfhyMVOQxfc.ex	"C:\Users\johnoc\AppData\Local\Temp\rad41020.tmp\rfhyMVOQxfc.exe" 

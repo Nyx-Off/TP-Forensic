@@ -1,0 +1,134 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:    0.00		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.57		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   35.64		Scanning layer_name using PdbSignatureScannerProgress:   35.74		Scanning layer_name using PdbSignatureScannerProgress:   35.84		Scanning layer_name using PdbSignatureScannerProgress:   35.94		Scanning layer_name using PdbSignatureScannerProgress:   36.04		Scanning layer_name using PdbSignatureScannerProgress:   36.43		Scanning layer_name using PdbSignatureScannerProgress:   36.62		Scanning layer_name using PdbSignatureScannerProgress:   37.60		Scanning layer_name using PdbSignatureScannerProgress:   37.99		Scanning layer_name using PdbSignatureScannerProgress:   38.38		Scanning layer_name using PdbSignatureScannerProgress:   38.87		Scanning layer_name using PdbSignatureScannerProgress:   39.55		Scanning layer_name using PdbSignatureScannerProgress:   40.43		Scanning layer_name using PdbSignatureScannerProgress:   63.38		Scanning layer_name using PdbSignatureScannerProgress:   63.48		Scanning layer_name using PdbSignatureScannerProgress:   63.57		Scanning layer_name using PdbSignatureScannerProgress:   63.67		Scanning layer_name using PdbSignatureScannerProgress:   63.77		Scanning layer_name using PdbSignatureScannerProgress:   63.87		Scanning layer_name using PdbSignatureScannerProgress:   63.96		Scanning layer_name using PdbSignatureScannerProgress:   64.36		Scanning layer_name using PdbSignatureScannerProgress:   64.45		Scanning layer_name using PdbSignatureScannerProgress:   64.55		Scanning layer_name using PdbSignatureScannerProgress:   65.14		Scanning layer_name using PdbSignatureScannerProgress:   65.62		Scanning layer_name using PdbSignatureScannerProgress:   65.72		Scanning layer_name using PdbSignatureScannerProgress:   65.82		Scanning layer_name using PdbSignatureScannerProgress:   66.02		Scanning layer_name using PdbSignatureScannerProgress:   66.41		Scanning layer_name using PdbSignatureScannerProgress:   66.70		Scanning layer_name using PdbSignatureScannerProgress:   66.89		Scanning layer_name using PdbSignatureScannerProgress:   67.38		Scanning layer_name using PdbSignatureScannerProgress:   67.58		Scanning layer_name using PdbSignatureScannerProgress:   67.68		Scanning layer_name using PdbSignatureScannerProgress:   67.77		Scanning layer_name using PdbSignatureScannerProgress:   67.87		Scanning layer_name using PdbSignatureScannerProgress:   67.97		Scanning layer_name using PdbSignatureScannerProgress:   68.07		Scanning layer_name using PdbSignatureScannerProgress:   68.16		Scanning layer_name using PdbSignatureScannerProgress:   68.26		Scanning layer_name using PdbSignatureScannerProgress:   68.36		Scanning layer_name using PdbSignatureScannerProgress:   68.46		Scanning layer_name using PdbSignatureScannerProgress:   68.55		Scanning layer_name using PdbSignatureScannerProgress:   68.65		Scanning layer_name using PdbSignatureScannerProgress:   68.75		Scanning layer_name using PdbSignatureScannerProgress:   68.95		Scanning layer_name using PdbSignatureScannerProgress:   69.04		Scanning layer_name using PdbSignatureScannerProgress:   69.34		Scanning layer_name using PdbSignatureScannerProgress:   69.43		Scanning layer_name using PdbSignatureScannerProgress:   69.53		Scanning layer_name using PdbSignatureScannerProgress:   69.63		Scanning layer_name using PdbSignatureScannerProgress:   69.73		Scanning layer_name using PdbSignatureScannerProgress:   70.21		Scanning layer_name using PdbSignatureScannerProgress:   70.41		Scanning layer_name using PdbSignatureScannerProgress:   70.70		Scanning layer_name using PdbSignatureScannerProgress:   70.90		Scanning layer_name using PdbSignatureScannerProgress:   71.19		Scanning layer_name using PdbSignatureScannerProgress:   71.29		Scanning layer_name using PdbSignatureScannerProgress:   71.68		Scanning layer_name using PdbSignatureScannerProgress:   71.78		Scanning layer_name using PdbSignatureScannerProgress:   71.88		Scanning layer_name using PdbSignatureScannerProgress:   71.97		Scanning layer_name using PdbSignatureScannerProgress:   72.17		Scanning layer_name using PdbSignatureScannerProgress:   72.75		Scanning layer_name using PdbSignatureScannerProgress:   74.02		Scanning layer_name using PdbSignatureScannerProgress:   74.22		Scanning layer_name using PdbSignatureScannerProgress:   74.32		Scanning layer_name using PdbSignatureScannerProgress:   75.20		Scanning layer_name using PdbSignatureScannerProgress:   76.27		Scanning layer_name using PdbSignatureScannerProgress:   79.30		Scanning layer_name using PdbSignatureScannerProgress:   82.81		Scanning layer_name using PdbSignatureScannerProgress:   84.86		Scanning layer_name using PdbSignatureScannerProgress:   85.64		Scanning layer_name using PdbSignatureScannerProgress:   87.30		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+Type	Callback	Module	Symbol	Detail
+
+PspLoadImageNotifyRoutine	0x82c65ab9	ntoskrnl	EtwpTraceLoadImage	N/A
+PspCreateProcessNotifyRoutine	0x82accd35	ntoskrnl	ViCreateProcessCallback	N/A
+PspCreateProcessNotifyRoutine	0x88a3b9d8	ksecdd	-	N/A
+PspCreateProcessNotifyRoutine	0x88a46d96	cng	-	N/A
+PspCreateProcessNotifyRoutine	0x88c9a6d3	tcpip	-	N/A
+PspCreateProcessNotifyRoutine	0x88517dfc	CI	-	N/A
+PspCreateProcessNotifyRoutine	0x8ea2d358	vm3dmp	-	N/A
+PspCreateProcessNotifyRoutine	0xa10ca1d9	peauth	-	N/A
+KeBugCheckCallbackListHead	0x88aed660	ndis	-	-
+KeBugCheckCallbackListHead	0x88aed660	ndis	-	-
+KeBugCheckCallbackListHead	0x88aed660	ndis	-	-
+KeBugCheckCallbackListHead	0x88aed660	ndis	-	-
+KeBugCheckCallbackListHead	0x88aed660	ndis	-	-
+KeBugCheckCallbackListHead	0x82e30996	hal	-	-
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	PEAUTH
+KeBugCheckReasonCallbackListHead	0x8c31c40c	BthEnum	-	BthEnum
+KeBugCheckReasonCallbackListHead	0x8c30802c	rfcomm	-	RFCOMM
+KeBugCheckReasonCallbackListHead	0x8c2cfe0c	bthport	-	BTHUSB
+KeBugCheckReasonCallbackListHead	0x8c287cb6	BTHUSB	-	BTHUSB
+KeBugCheckReasonCallbackListHead	0x88edf50e	mouhid	-	mouhid
+KeBugCheckReasonCallbackListHead	0x88ed1abc	HIDCLASS	-	HidUsb
+KeBugCheckReasonCallbackListHead	0x8f41a85e	hidusb	-	HidUsb
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	monitor
+KeBugCheckReasonCallbackListHead	0x8f5b81be	crashdmp	-	CRASHDUMP
+KeBugCheckReasonCallbackListHead	0x8f4b09da	usbhub	-	USBHUB
+KeBugCheckReasonCallbackListHead	0x8f4b0985	usbhub	-	USBHUB
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	umbus
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	CompositeBus
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	intelppm
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	HDAudBus
+KeBugCheckReasonCallbackListHead	0x8eb65e3f	USBPORT	-	USBPORT
+KeBugCheckReasonCallbackListHead	0x8eb65ef6	USBPORT	-	USBPORT
+KeBugCheckReasonCallbackListHead	0x8eb65e9c	USBPORT	-	USBPORT
+KeBugCheckReasonCallbackListHead	0x8ea57ac9	dxgkrnl	-	\Device\DxgKrnl
+KeBugCheckReasonCallbackListHead	0x88e035f5	mouclass	-	mouclass
+KeBugCheckReasonCallbackListHead	0x88ff6861	kbdclass	-	kbdclass
+KeBugCheckReasonCallbackListHead	0x88fe38d5	i8042prt	-	i8042prt
+KeBugCheckReasonCallbackListHead	0x8ef58eec	mssmbios	-	SMBiosData
+KeBugCheckReasonCallbackListHead	0x8ef58ea4	mssmbios	-	SMBiosRegistry
+KeBugCheckReasonCallbackListHead	0x8ef58e54	mssmbios	-	SMBiosRegisters
+KeBugCheckReasonCallbackListHead	0x8ef58e0c	mssmbios	-	SMBiosDataACPI
+KeBugCheckReasonCallbackListHead	0x88f3c392	VIDEOPRT	-	Videoprt
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	cdrom
+KeBugCheckReasonCallbackListHead	0x88efc889	cdrom	-	cdrom
+KeBugCheckReasonCallbackListHead	0x88e8e4ff	CLASSPNP	-	CLASSPNP
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	storflt
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	vdrvroot
+KeBugCheckReasonCallbackListHead	0x8867b72d	Wdf01000	-	msisadrv
+KeBugCheckReasonCallbackListHead	0x8867b22a	Wdf01000	-	Wdf01000
+KeBugCheckReasonCallbackListHead	0x885b62a6	ataport	-	IDEP
+GenericKernelCallback	0xf8c91be8	-	-	N/A
+EventCategoryTargetDeviceChange	0x8eaf0c04	dxgkrnl	-	DXGKrnl
+EventCategoryDeviceInterfaceChange	0x9c43d35c	win32k	-	Win32k
+EventCategoryDeviceInterfaceChange	0x9c43d35c	win32k	-	Win32k
+EventCategoryTargetDeviceChange	0x9c59a75e	win32k	-	Win32k
+EventCategoryTargetDeviceChange	0x9c59a75e	win32k	-	Win32k
+EventCategoryHardwareProfileChange	0x88fec0ac	i8042prt	-	i8042prt
+EventCategoryDeviceInterfaceChange	0x8eaa76fb	dxgkrnl	-	DXGKrnl
+EventCategoryTargetDeviceChange	0x88da1bde	volsnap	-	volsnap
+EventCategoryTargetDeviceChange	0x9c59a75e	win32k	-	Win32k
+EventCategoryTargetDeviceChange	0x9c59a75e	win32k	-	Win32k
+EventCategoryTargetDeviceChange	0x88da1bde	volsnap	-	volsnap
+IoRegisterShutdownNotification	0x8f4b0933	usbhub	-	\Driver\usbhub
+EventCategoryDeviceInterfaceChange	0x88611214	mountmgr	-	mountmgr
+EventCategoryDeviceInterfaceChange	0x88745664	compbatt	-	Compbatt
+EventCategoryDeviceInterfaceChange	0x8875f448	volmgr	-	volmgr
+GenericKernelCallback	0x88c9a6d3	tcpip	-	N/A
+IoRegisterFsRegistrationChange	0x8887dbda	fltmgr	-	N/A
+GenericKernelCallback	0x88a3b9d8	ksecdd	-	N/A
+GenericKernelCallback	0x88a46d96	cng	-	N/A
+GenericKernelCallback	0x8ea2d358	vm3dmp	-	N/A
+EventCategoryTargetDeviceChange	0x8861022e	mountmgr	-	mountmgr
+EventCategoryTargetDeviceChange	0x8861022e	mountmgr	-	mountmgr
+GenericKernelCallback	0x9c59f91a	win32k	-	N/A
+GenericKernelCallback	0x88517dfc	CI	-	N/A
+EventCategoryDeviceInterfaceChange	0x8873bf77	partmgr	-	partmgr
+GenericKernelCallback	0x82c65ab9	ntoskrnl	EtwpTraceLoadImage	N/A
+EventCategoryTargetDeviceChange	0x82b008c6	ntoskrnl	PopSystemButtonNotifyHandler	ACPI
+EventCategoryDeviceInterfaceChange	0x88dccf94	volsnap	-	volsnap
+EventCategoryDeviceInterfaceChange	0x82b9cba9	ntoskrnl	PopNotifyPolicyDevice	PnpManager
+EventCategoryDeviceInterfaceChange	0x82b9cba9	ntoskrnl	PopNotifyPolicyDevice	PnpManager
+EventCategoryDeviceInterfaceChange	0x82b9cba9	ntoskrnl	PopNotifyPolicyDevice	PnpManager
+EventCategoryDeviceInterfaceChange	0x82b9cba9	ntoskrnl	PopNotifyPolicyDevice	PnpManager
+EventCategoryDeviceInterfaceChange	0x82b9cba9	ntoskrnl	PopNotifyPolicyDevice	PnpManager
+GenericKernelCallback	0x82accd35	ntoskrnl	ViCreateProcessCallback	N/A
+EventCategoryDeviceInterfaceChange	0x8875f448	volmgr	-	volmgr
+EventCategoryTargetDeviceChange	0x88da1bde	volsnap	-	volsnap
+EventCategoryDeviceInterfaceChange	0x88611214	mountmgr	-	mountmgr
+EventCategoryDeviceInterfaceChange	0x88611214	mountmgr	-	mountmgr
+EventCategoryDeviceInterfaceChange	0x9c43d35c	win32k	-	Win32k
+EventCategoryTargetDeviceChange	0x8eaf0c04	dxgkrnl	-	DXGKrnl
+IoRegisterShutdownNotification	0x8f4b0933	usbhub	-	\Driver\usbhub
+GenericKernelCallback	0x82accd35	ntoskrnl	ViCreateProcessCallback	N/A
+EventCategoryDeviceInterfaceChange	0x9c43d35c	win32k	-	Win32k
+EventCategoryDeviceInterfaceChange	0x8875f448	volmgr	-	volmgr
+GenericKernelCallback	0x88a3b9d8	ksecdd	-	N/A
+EventCategoryTargetDeviceChange	0x8eaf0c04	dxgkrnl	-	DXGKrnl
+IoRegisterFsRegistrationChange	0x8887dbda	fltmgr	-	N/A
+EventCategoryDeviceInterfaceChange	0x8873bf77	partmgr	-	partmgr
+EventCategoryDeviceInterfaceChange	0x88611214	mountmgr	-	mountmgr
+GenericKernelCallback	0x8ea2d358	vm3dmp	-	N/A
+EventCategoryTargetDeviceChange	0x9c51649e	win32k	-	Win32k
+GenericKernelCallback	0xa10ca1d9	peauth	-	N/A
+EventCategoryTargetDeviceChange	0x8861022e	mountmgr	-	mountmgr
+GenericKernelCallback	0x82accd35	ntoskrnl	ViCreateProcessCallback	N/A
+EventCategoryTargetDeviceChange	0x9c59a75e	win32k	-	Win32k
+EventCategoryTargetDeviceChange	0x82b008c6	ntoskrnl	PopSystemButtonNotifyHandler	mouclass
+EventCategoryTargetDeviceChange	0x9c59a75e	win32k	-	Win32k
+EventCategoryHardwareProfileChange	0x8ebae970	HDAudBus	-	HDAudBus
+EventCategoryDeviceInterfaceChange	0x8ebf8958	CompositeBus	-	CompositeBus
+EventCategoryDeviceInterfaceChange	0x8ebf8958	CompositeBus	-	CompositeBus
+EventCategoryTargetDeviceChange	0x9c59a75e	win32k	-	Win32k
+EventCategoryTargetDeviceChange	0x9c59a75e	win32k	-	Win32k
+EventCategoryTargetDeviceChange	0x82b008c6	ntoskrnl	PopSystemButtonNotifyHandler	mouclass
+GenericKernelCallback	0x88a3b9d8	ksecdd	-	N/A
+EventCategoryDeviceInterfaceChange	0x9c43d35c	win32k	-	Win32k
+EventCategoryDeviceInterfaceChange	0x9c42fee7	win32k	-	Win32k
+IoRegisterShutdownNotification	0xa50569a0	vmhgfs	-	\FileSystem\vmhgfs
+IoRegisterShutdownNotification	0x8f4b0933	usbhub	-	\Driver\usbhub
+IoRegisterShutdownNotification	0x8ef98914	csc	-	\Driver\CSC
+IoRegisterShutdownNotification	0x88f41107	VIDEOPRT	-	\Driver\VgaSave
+IoRegisterShutdownNotification	0x88f41107	VIDEOPRT	-	\Driver\RDPENCDD
+IoRegisterShutdownNotification	0x88f41107	VIDEOPRT	-	\Driver\RDPCDD
+IoRegisterShutdownNotification	0x88f41107	VIDEOPRT	-	\Driver\RDPREFMP
+IoRegisterShutdownNotification	0x8f4b0933	usbhub	-	\Driver\usbhub
+IoRegisterShutdownNotification	0x88759318	volmgr	-	\Driver\volmgr
+IoRegisterShutdownNotification	0x88609172	mountmgr	-	\Driver\mountmgr
+IoRegisterShutdownNotification	0x88a3ba14	ksecdd	-	\Driver\KSecDD
+IoRegisterShutdownNotification	0x82ac4da3	ntoskrnl	IopInvalidDeviceRequest	\Driver\WMIxWDM
+IoRegisterShutdownNotification	0x82cf0c0d	ntoskrnl	RawShutdown	\FileSystem\RAW

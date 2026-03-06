@@ -1,0 +1,13 @@
+TOKEN: eyJhbGciOiJFUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ3YXp1aCIsImF1ZCI6IldhenVoIEFQSSBSRVNUIiwibmJmIjoxNzcyODAwMDU4LCJleHAiOjE3NzI4MDA5NTgsInN1YiI6IndhenVoLXd1aSIsInJ1bl9hcyI6ZmFsc2UsInJiYWNfcm9sZXMiOlsxXSwicmJhY19tb2RlIjoid2hpdGUifQ.AJGrsAnSdQoDFy-Yk6sqMqXjq8Y37V1pqiHjygzuE-lZqgyGDaeZjdKztSfaggjatGne5FqjfL-QnlTuX6TU1RuFABp0b16_6G7Sc5cmDjbbN7VDjt6OfIleMHetwLxjLrDXEOym8CEVE0FtjuNWhx2rnVoAFCYRwakyS1o3xPuIxs0A
+{
+    "data": {
+        "title": "Wazuh API REST",
+        "api_version": "4.9.2",
+        "revision": 40921,
+        "license_name": "GPL 2.0",
+        "license_url": "https://github.com/wazuh/wazuh/blob/v4.9.2/LICENSE",
+        "hostname": "wazuh.manager",
+        "timestamp": "2026-03-06T12:28:01Z"
+    },
+    "error": 0
+}

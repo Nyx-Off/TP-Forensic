@@ -1,0 +1,6 @@
+# Images disque brutes et archives lourdes (Partie 5, ~33 Go)
+Partie5_Dump_HDD/Forensic_case_01/
+Partie5_Dump_HDD/copie_DD.tar.gz
+
+# Certificats TLS générés par Docker (droits root)
+Partie6_Bonus_Gestion_incidents/wazuh-deploy/config/wazuh_indexer_ssl_certs/

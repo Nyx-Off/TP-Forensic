@@ -1,0 +1,2 @@
+Docker version 27.5.1+dfsg4, build cab968b3
+Docker Compose version v5.0.2

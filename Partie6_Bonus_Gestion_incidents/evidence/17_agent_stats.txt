@@ -1,0 +1,20 @@
+{
+    "data": {
+        "affected_items": [
+            {
+                "status": "connected",
+                "last_keepalive": "2026-03-06T13:31:49Z",
+                "last_ack": "2026-03-06T13:31:57Z",
+                "msg_count": 2729,
+                "msg_sent": 2743,
+                "msg_buffer": 0,
+                "buffer_enabled": true
+            }
+        ],
+        "total_affected_items": 1,
+        "total_failed_items": 0,
+        "failed_items": []
+    },
+    "message": "Statistical information for each agent was successfully read",
+    "error": 0
+}

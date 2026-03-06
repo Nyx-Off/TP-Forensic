@@ -1,0 +1,140 @@
+r/r 42718-128-4:	Application.evtx
+r/r 52875-128-4:	DebugChannel.etl
+r/r 42724-128-4:	HardwareEvents.evtx
+r/r 42723-128-4:	Internet Explorer.evtx
+r/r 42722-128-4:	Key Management Service.evtx
+r/r 42721-128-4:	Media Center.evtx
+r/r 42727-128-4:	Microsoft-Windows-Kernel-WHEA%4Operational.evtx
+r/r 22602-128-4:	Microsoft-Windows-Known Folders API Service.evtx
+r/r 53985-128-4:	Microsoft-Windows-LanguagePackSetup%4Operational.evtx
+r/r 53986-128-4:	Microsoft-Windows-MCT%4Operational.evtx
+r/r 53987-128-4:	Microsoft-Windows-MemoryDiagnostics-Results%4Debug.evtx
+r/r 16971-128-4:	Microsoft-Windows-MUI%4Admin.evtx
+r/r 16970-128-4:	Microsoft-Windows-MUI%4Operational.evtx
+r/r 42747-128-4:	Microsoft-Windows-NCSI%4Operational.evtx
+r/r 17470-128-4:	Microsoft-Windows-NetworkAccessProtection%4Operational.evtx
+r/r 43436-128-4:	Microsoft-Windows-NetworkAccessProtection%4WHC.evtx
+r/r 53988-128-4:	Microsoft-Windows-NetworkLocationWizard%4Operational.evtx
+r/- * 0:	Microsoft-Windows-NetworkProfile%4Operational.evtx
+r/r 53989-128-4:	Microsoft-Windows-NlaSvc%4Operational.evtx
+r/r 53990-128-4:	Microsoft-Windows-NTLM%4Operational.evtx
+r/r 42751-128-4:	Microsoft-Windows-OfflineFiles%4Operational.evtx
+r/r 53991-128-4:	Microsoft-Windows-ParentalControls%4Operational.evtx
+r/r 53992-128-4:	Microsoft-Windows-PeopleNearMe%4Operational.evtx
+r/r 53993-128-4:	Microsoft-Windows-PowerShell%4Operational.evtx
+r/r 11173-128-4:	Microsoft-Windows-PrintService%4Admin.evtx
+r/r 11229-128-4:	Microsoft-Windows-ReadyBoost%4Operational.evtx
+r/r 53994-128-4:	Microsoft-Windows-ReadyBoostDriver%4Operational.evtx
+r/r 53995-128-4:	Microsoft-Windows-Recovery%4Operational.evtx
+r/r 43435-128-4:	Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+r/r 48-128-4:	Microsoft-Windows-Winlogon%4Operational.evtx
+r/r 54017-128-4:	Microsoft-Windows-WinRM%4Operational.evtx
+r/r 54018-128-4:	Microsoft-Windows-Winsock-WS2HELP%4Operational.evtx
+r/r 54019-128-4:	Microsoft-Windows-Wired-AutoConfig%4Operational.evtx
+r/r 54020-128-4:	Microsoft-Windows-WLAN-AutoConfig%4Operational.evtx
+r/r 54021-128-4:	Microsoft-Windows-WPD-ClassInstaller%4Operational.evtx
+r/r 54022-128-4:	Microsoft-Windows-WPD-CompositeClassDriver%4Operational.evtx
+r/r 54023-128-4:	Microsoft-Windows-WPD-MTPClassDriver%4Operational.evtx
+r/r 53896-128-4:	Microsoft-Windows-AppID%4Operational.evtx
+r/r 18094-128-4:	Microsoft-Windows-Application-Experience%4Problem-Steps-Recorder.evtx
+r/r 18082-128-4:	Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx
+r/r 18100-128-4:	Microsoft-Windows-Application-Experience%4Program-Compatibility-Troubleshooter.evtx
+r/r 18086-128-4:	Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx
+r/r 53906-128-4:	Microsoft-Windows-AppLocker%4EXE and DLL.evtx
+r/r 53939-128-4:	Microsoft-Windows-AppLocker%4MSI and Script.evtx
+r/r 53947-128-4:	Microsoft-Windows-Audio%4CaptureMonitor.evtx
+r/r 53948-128-4:	Microsoft-Windows-Audio%4Operational.evtx
+r/r 53949-128-4:	Microsoft-Windows-Authentication User Interface%4Operational.evtx
+r/r 53950-128-4:	Microsoft-Windows-Backup.evtx
+r/r 18627-128-4:	Microsoft-Windows-Bits-Client%4Operational.evtx
+r/r 53951-128-4:	Microsoft-Windows-Bluetooth-MTPEnum%4Operational.evtx
+r/r 53952-128-4:	Microsoft-Windows-BranchCache%4Operational.evtx
+r/- * 0:	Microsoft-Windows-BranchCacheSMB%4Operational.evtx
+r/r 53953-128-4:	Microsoft-Windows-CodeIntegrity%4Operational.evtx
+r/r 53954-128-4:	Microsoft-Windows-CorruptedFileRecovery-Client%4Operational.evtx
+r/r 42753-128-4:	Microsoft-Windows-Dhcp-Client%4Admin.evtx
+r/r 42754-128-4:	Microsoft-Windows-Dhcpv6-Client%4Admin.evtx
+r/r 42755-128-4:	Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+r/r 43437-128-4:	Microsoft-Windows-Diagnosis-Scheduled%4Operational.evtx
+r/r 44552-128-4:	Microsoft-Windows-Diagnostics-Performance%4Operational.evtx
+r/r 42749-128-4:	Microsoft-Windows-GroupPolicy%4Operational.evtx
+r/r 42725-128-4:	Microsoft-Windows-Kernel-Power%4Thermal-Operational.evtx
+r/r 42734-128-4:	Microsoft-Windows-Kernel-StoreMgr%4Operational.evtx
+r/r 18089-128-4:	Microsoft-Windows-Application-Experience%4Program-Inventory.evtx
+r/r 42752-128-4:	Microsoft-Windows-BranchCacheSMB%4Operational.evtx
+r/r 53960-128-4:	Microsoft-Windows-Diagnosis-PLA%4Operational.evtx
+r/r 53968-128-4:	Microsoft-Windows-DriverFrameworks-UserMode%4Operational.evtx
+r/r 42726-128-4:	Microsoft-Windows-Kernel-WHEA%4Errors.evtx
+r/r 22603-128-4:	Microsoft-Windows-NetworkProfile%4Operational.evtx
+r/r 377-128-4:	Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx
+r/r 54006-128-4:	Microsoft-Windows-TerminalServices-PnPDevices%4Operational.evtx
+r/r 17337-128-4:	Microsoft-Windows-WindowsSystemAssessmentTool%4Operational.evtx
+r/r 31332-128-4:	Microsoft-Windows-Resource-Exhaustion-Resolver%4Operational.evtx
+r/r 54001-128-4:	Microsoft-Windows-Resource-Leak-Diagnostic%4Operational.evtx
+r/r 18113-128-4:	Microsoft-Windows-RestartManager%4Operational.evtx
+r/r 54002-128-4:	Microsoft-Windows-Security-Audit-Configuration-Client%4Operational.evtx
+r/r 54003-128-4:	Microsoft-Windows-TerminalServices-ClientUSBDevices%4Admin.evtx
+r/r 54004-128-4:	Microsoft-Windows-TerminalServices-ClientUSBDevices%4Operational.evtx
+r/r 11160-128-4:	Microsoft-Windows-TerminalServices-LocalSessionManager%4Admin.evtx
+r/r 11172-128-4:	Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+r/r 54005-128-4:	Microsoft-Windows-TerminalServices-PnPDevices%4Admin.evtx
+r/- * 0:	Microsoft-Windows-TerminalServices-PnPDevices%4Operational.evtx
+r/r 54007-128-4:	Microsoft-Windows-TerminalServices-RDPClient%4Operational.evtx
+r/r 54008-128-4:	Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Admin.evtx
+r/r 42750-128-4:	Microsoft-Windows-User Profile Service%4Operational.evtx
+r/r 23365-128-4:	Microsoft-Windows-Windows Defender%4Operational.evtx
+r/r 43121-128-4:	Microsoft-Windows-Windows Defender%4WHC.evtx
+r/r 22592-128-4:	Microsoft-Windows-Windows Firewall With Advanced Security%4ConnectionSecurity.evtx
+r/r 42746-128-4:	Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+r/r 43433-128-4:	Microsoft-Windows-WindowsBackup%4ActionCenter.evtx
+r/r 53955-128-4:	Microsoft-Windows-CorruptedFileRecovery-Server%4Operational.evtx
+r/r 53956-128-4:	Microsoft-Windows-DateTimeControlPanel%4Operational.evtx
+r/r 53957-128-4:	Microsoft-Windows-DeviceSync%4Operational.evtx
+r/r 53958-128-4:	Microsoft-Windows-DhcpNap%4Admin.evtx
+r/r 53959-128-4:	Microsoft-Windows-Diagnosis-PCW%4Operational.evtx
+r/- * 0:	Microsoft-Windows-Diagnosis-PLA%4Operational.evtx
+r/r 53961-128-4:	Microsoft-Windows-Diagnosis-Scripted%4Admin.evtx
+r/r 53962-128-4:	Microsoft-Windows-Diagnosis-Scripted%4Operational.evtx
+r/r 53963-128-4:	Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider%4Operational.evtx
+r/r 53964-128-4:	Microsoft-Windows-Diagnostics-Networking%4Operational.evtx
+r/r 53965-128-4:	Microsoft-Windows-DiskDiagnostic%4Operational.evtx
+r/r 53966-128-4:	Microsoft-Windows-DiskDiagnosticDataCollector%4Operational.evtx
+r/r 53967-128-4:	Microsoft-Windows-DiskDiagnosticResolver%4Operational.evtx
+r/- * 0:	Microsoft-Windows-DriverFrameworks-UserMode%4Operational.evtx
+r/r 53969-128-4:	Microsoft-Windows-EapHost%4Operational.evtx
+r/r 53970-128-4:	Microsoft-Windows-EventCollector%4Operational.evtx
+r/r 53971-128-4:	Microsoft-Windows-Fault-Tolerant-Heap%4Operational.evtx
+r/r 53972-128-4:	Microsoft-Windows-FMS%4Operational.evtx
+r/r 53973-128-4:	Microsoft-Windows-Folder Redirection%4Operational.evtx
+r/r 53974-128-4:	Microsoft-Windows-Forwarding%4Operational.evtx
+r/r 53975-128-4:	Microsoft-Windows-Help%4Operational.evtx
+r/r 53976-128-4:	Microsoft-Windows-HomeGroup Control Panel%4Operational.evtx
+r/r 52907-128-4:	Microsoft-RMS-MSIPC%4Debug.etl
+r/r 53905-128-4:	Microsoft-Windows-API-Tracing%4Operational.evtx
+r/r 53977-128-4:	Microsoft-Windows-HomeGroup Listener Service%4Operational.evtx
+r/r 53978-128-4:	Microsoft-Windows-HomeGroup Provider Service%4Operational.evtx
+r/r 53979-128-4:	Microsoft-Windows-IKE%4Operational.evtx
+r/r 53981-128-4:	Microsoft-Windows-International%4Operational.evtx
+r/r 53980-128-4:	Microsoft-Windows-International-RegionalOptionsControlPanel%4Operational.evtx
+r/r 53982-128-4:	Microsoft-Windows-Iphlpsvc%4Operational.evtx
+r/r 53983-128-4:	Microsoft-Windows-Kernel-EventTracing%4Admin.evtx
+r/r 53984-128-4:	Microsoft-Windows-Kernel-WDI%4Operational.evtx
+r/r 52906-128-4:	OAlerts.evtx
+r/r 42719-128-4:	Security.evtx
+r/r 38-128-4:	Setup.evtx
+r/r 42717-128-4:	System.evtx
+r/r 43116-128-4:	ThinPrint Diagnostics.evtx
+r/r 42720-128-4:	Windows PowerShell.evtx
+r/r 53996-128-4:	Microsoft-Windows-ReliabilityAnalysisComponent%4Operational.evtx
+r/r 53997-128-4:	Microsoft-Windows-RemoteApp and Desktop Connections%4Admin.evtx
+r/r 53998-128-4:	Microsoft-Windows-RemoteAssistance%4Admin.evtx
+r/r 53999-128-4:	Microsoft-Windows-RemoteAssistance%4Operational.evtx
+r/r 54000-128-4:	microsoft-windows-RemoteDesktopServices-RemoteDesktopSessionManager%4Admin.evtx
+r/r 54009-128-4:	Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Operational.evtx
+r/r 54010-128-4:	Microsoft-Windows-TZUtil%4Operational.evtx
+r/r 54012-128-4:	Microsoft-Windows-UAC%4Operational.evtx
+r/r 54011-128-4:	Microsoft-Windows-UAC-FileVirtualization%4Operational.evtx
+r/r 54013-128-4:	Microsoft-Windows-VDRVROOT%4Operational.evtx
+r/r 54014-128-4:	Microsoft-Windows-VHDMP%4Operational.evtx
+r/r 54015-128-4:	Microsoft-Windows-WER-Diag%4Operational.evtx
+r/r 54016-128-4:	Microsoft-Windows-WFP%4Operational.evtx

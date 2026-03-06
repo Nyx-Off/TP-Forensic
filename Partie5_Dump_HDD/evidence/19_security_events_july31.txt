@@ -1,0 +1,551 @@
+TIME: 2019-07-31T07:36:59.688000000Z
+EVENT_ID: 4616
+  SubjectUserName: JOHNOC-PC$
+
+TIME: 2019-07-31T07:37:18.493000000Z
+EVENT_ID: 4616
+  SubjectUserName: LOCAL SERVICE
+
+TIME: 2019-07-31T07:39:12.230310800Z
+EVENT_ID: 4647
+  TargetUserName: johnoc
+
+TIME: 2019-07-31T07:39:12.745424500Z
+EVENT_ID: 1100
+
+TIME: 2019-07-31T11:50:01.351226100Z
+EVENT_ID: 4608
+
+TIME: 2019-07-31T11:50:01.351226100Z
+EVENT_ID: 4624
+  SubjectUserName: -
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:50:01.382426100Z
+EVENT_ID: 4902
+
+TIME: 2019-07-31T11:50:01.398026200Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:50:01.398026200Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:50:01.522826400Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: NETWORK SERVICE
+
+TIME: 2019-07-31T11:50:01.522826400Z
+EVENT_ID: 4672
+  SubjectUserName: NETWORK SERVICE
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeAuditPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:50:01.538426400Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: LOCAL SERVICE
+
+TIME: 2019-07-31T11:50:01.538426400Z
+EVENT_ID: 4672
+  SubjectUserName: LOCAL SERVICE
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeAuditPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:50:01.600826500Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:50:01.600826500Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:50:01.881627000Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:50:01.881627000Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:50:02.510437500Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:50:02.510437500Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:50:02.657444300Z
+EVENT_ID: 5033
+
+TIME: 2019-07-31T11:50:02.789451800Z
+EVENT_ID: 5024
+
+TIME: 2019-07-31T11:50:03.071467900Z
+EVENT_ID: 4624
+  SubjectUserName: -
+  TargetUserName: ANONYMOUS LOGON
+
+TIME: 2019-07-31T11:50:03.499533500Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:50:03.499533500Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:50:05.177213500Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:50:05.177213500Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:50:24.727777400Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:50:24.727777400Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:52:03.723086700Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:52:03.723086700Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:52:04.221464300Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:52:04.221464300Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:52:26.882070800Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T11:52:26.882070800Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T11:56:17.881094800Z
+EVENT_ID: 4648
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: johnoc
+
+TIME: 2019-07-31T11:56:17.881094800Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: johnoc
+
+TIME: 2019-07-31T11:56:17.881094800Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: johnoc
+
+TIME: 2019-07-31T11:56:17.881094800Z
+EVENT_ID: 4672
+  SubjectUserName: johnoc
+  PrivilegeList: SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:04:29.399940300Z
+EVENT_ID: 4624
+  SubjectUserName: -
+  TargetUserName: ANONYMOUS LOGON
+
+TIME: 2019-07-31T12:04:29.414944800Z
+EVENT_ID: 4624
+  SubjectUserName: -
+  TargetUserName: ANONYMOUS LOGON
+
+TIME: 2019-07-31T12:04:29.425948100Z
+EVENT_ID: 4624
+  SubjectUserName: -
+  TargetUserName: ANONYMOUS LOGON
+
+TIME: 2019-07-31T12:04:31.106452100Z
+EVENT_ID: 4634
+  TargetUserName: ANONYMOUS LOGON
+
+TIME: 2019-07-31T12:04:31.106452100Z
+EVENT_ID: 4634
+  TargetUserName: ANONYMOUS LOGON
+
+TIME: 2019-07-31T12:04:31.106452100Z
+EVENT_ID: 4634
+  TargetUserName: ANONYMOUS LOGON
+
+TIME: 2019-07-31T12:16:37.550030000Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:16:37.550030000Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:16:37.888030000Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:16:37.888030000Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:16:37.917030000Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:16:37.917030000Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:16:42.890030000Z
+EVENT_ID: 4904
+  SubjectUserName: JOHNOC-PC$
+
+TIME: 2019-07-31T12:16:42.890030000Z
+EVENT_ID: 4905
+  SubjectUserName: JOHNOC-PC$
+
+TIME: 2019-07-31T12:16:43.181030000Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:16:43.181030000Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:34:03.721064300Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:34:03.721064300Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:34:18.289521000Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:34:18.289521000Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:34:20.288720900Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:34:20.288720900Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:34:20.310723100Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:34:20.310723100Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:34:24.885180500Z
+EVENT_ID: 4904
+  SubjectUserName: JOHNOC-PC$
+
+TIME: 2019-07-31T12:34:24.885180500Z
+EVENT_ID: 4905
+  SubjectUserName: JOHNOC-PC$
+
+TIME: 2019-07-31T12:38:00.987790300Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:38:00.987790300Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T12:51:37.738804300Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T12:51:37.738804300Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+
+TIME: 2019-07-31T14:01:34.031654600Z
+EVENT_ID: 4624
+  SubjectUserName: JOHNOC-PC$
+  TargetUserName: SYSTEM
+
+TIME: 2019-07-31T14:01:34.031654600Z
+EVENT_ID: 4672
+  SubjectUserName: SYSTEM
+  PrivilegeList: SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+

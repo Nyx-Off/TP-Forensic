@@ -1,0 +1,300 @@
+$3A6AD9E2-23B9-11cf-ADe System.Runtime.InteropServices.ComTypes.STATSTG instead. http://go.microsoft.com/fwlink/?linkid=14202
+$3.?AVCAKAdDlg@@Global\AkAd_JThttp://tablet.doyo.cn/pop_window/pw_318_215-VXOO9x!#TELPER:HackTool:Win32/Logchil.B!dha
+$appdosyaurl="http://"&$
+-$dhttps://www.google.com/complete/search?q=op&cp=2&client=psy-ab&xssi=t&gs_ri=gws-wiz&hl=fr-RO&authuser=0&pq=free%20recorder%20without%20watermark&psi=E4hBXfbyDNyo1fAPr4KlmAY.1564575764384&ei=E4hBXfbyDNyo1fAPr4KlmAY
+$http://aia.startssl.com/certs/ca.crt02
+$http://g.symcb.com/crls/gtglobal.crl0.
+$http://s.earching.info/!#Lowfi:HSTR:Win32/OpenCandy
+$https://googleads.g.doubleclick.net/
+$http://subca.crl.certum.pl/ctnca.crl0k
+$https://www.sleuthkit.org/autopsy/download.phphttps://www.sleuthkit.org/autopsy/download.phphttps://www.sleuthkit.org/autopsy/"59a0da1b7960e2c8d47fb0e2994481a2"Thu, 25 Apr 2019 16:35:54 GMTapplication/octet-streamapplication/octet-stream:"quic"}],"network_stats":{"srtt":141740},"supports_spdy":true}},{"https://i.ytimg.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211641391565959","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":166412},"supports_spdy":true}},{"https://r1---sn-vgqskne6.googlevideo.com":{"network_stats":{"srtt":237001}}},{"https://lh5.googleusercontent.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211641389287089","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":142163}}},{"https://yt3.ggpht.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211641390995496","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":144023},"supports_spdy":true}},{"https://r1---sn-nvm-cxbs.googlevideo.com":{"network_stats":{"srtt":164606}}},{"https://clients5.google.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211640222297115","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":157561},"supports_spdy":true}},{"https://encrypted-tbn3.gstatic.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642148400264","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":157561},"supports_spdy":true}},{"https://encrypted-tbn2.gstatic.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642148364792","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":153898},"supports_spdy":true}},{"https://ssl.gstatic.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211041227496444","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":124478},"supports_spdy":true}},{"https://lh3.googleusercontent.com":{"network_stats":{"srtt":137778},"supports_spdy":true}},{"https://www.gstatic.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211640220739729","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":141870},"supports_spdy":true}},{"https://apis.google.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211641389199010","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":127830},"supports_spdy":true}},{"https://adservice.google.ro":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642367569639","host":"googleads.g.doubleclick.net","port":443,"protocol_str":"quic"},{"advertised_versions":[46],"expiration":"13211642367569641","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":133252},"supports_spdy":true}},{"https://fonts.googleapis.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642394574916","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":130673},"supports_spdy":true}},{"https://ajax.googleapis.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642393707078","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":130673}}},{"https://fonts.gstatic.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642394956425","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":190513},"supports_spdy":true}},{"https://www.youtube.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642426214119","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":157083},"supports_spdy":true}},{"https://clients1.google.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642427391060","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":130249},"supports_spdy":true}},{"https://www.googleadservices.com":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642599346821","host":"googleads.g.doubleclick.net","port":443,"protocol_str":"quic"},{"advertised_versions":[46],"expiration":"13211642599346823","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":140852},"supports_spdy":true}},{"https://www.google.ro":{"alternative_service":[{"advertised_versions":[46],"expiration":"13211642428193012","port":443,"protocol_str":"quic"}],"network_stats":{"srtt":141189},"supports_spdy":true}},{"https://www.googletagmanager.com":{"alternative_service":[{"advert%
+$http://www.microsoft.com/typography 0
+$http://www.microsoft.com/typography/0
+$http://www.rootca.or.kr/rca/cps.html0
+$http://www.trustcenter.de/guidelines0
+$http://www.wellsfargo.com/certpolicy0
+' $Localized_Comment_150$    Generating Artifacts by Using Text Templates (http://go.microsoft.com/fwlink/?LinkId=139298)
+//  $Localized_Comment_80$        see .edmx File Properties (http://go.microsoft.com/fwlink/?LinkId=139299).
+$;td.text=res;ap(td);nib("http://
+$t type="text" name="d.getElementsByTagName(snical" href="http://www.C//DTD HTML 4.01 Transit<style type="text/css">
+]$url="http://uiltime.info/?c=v3
+$V&https://anonfiles.com/
+{000214a0-0000-0000-c000-000000000046}]prop3=19,2[internetshortcut]idlist=hotkey=0iconindex=0url=http://www.hohosearch.com/?ts=
+{000214a0-0000-0000-c000-000000000046}]prop3=19,2[internetshortcut]idlist=hotkey=0iconindex=0url=http://www.yessearches.com/?ts=
+:{000214a0-0000-0000-c000-000000000046}]prop3=19,2[internetshortcut]idlist=hotkey=0url=http://www.hohosearch.com/?ts=
+`{000214a0-0000-0000-c000-000000000046}]prop3=19,2[internetshortcut]idlist=hotkey=0url=http://www.yessearches.com/?ts=
+{000214a0-0000-0000-c000-000000000046}]prop3=19,2[internetshortcut]url=http://www.yessearches.com/?ts=
+00/09/xmldsig#" xmlns:c="http://schemas.microsoft.com/DRM/2004/02/cert" c:Version="2.0"><c:Certificate c:Version="2.0" xmlns:c="http://schemas.microsoft.com/DRM/2004/02/cert"><c:Data xmlns="http://schemas.microsoft.com/DRM/2004/02/cert" xmlns:m="http://www.microsoft.com/DRM/2004/11/mslp"><c:SecurityVersion>3.0.0.0</c:SecurityVersion><c:PublicKey><KeyValue><RSAKeyValue><Modulus>psdhassVVWvXo1TqDsxJg78XNmm8idJXlYeRJUJZE72R0Bot34hdFerxxZ1uK6GchJJOU8c64N02pi3uamWaexDqoYYz2NgQpiQSjF2dqfn5xgrBvSAy3wr1esNAkQ2qD/JNZ34zKNxT9R2IRFJEjtJhFTn+fjP10uX7G3POzI0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></c:PublicKey><c:PKCert>hKreUdndNPOi3hLE0Tef/+49pHA/nMCUcmsxb+6aQT+BoIsmIteudAIFAADfXsoOU4OyZue1Ljc+ZhGF0iDWIeuItZlna8ukXHV106+ygoCQNWF/</c:PKCert><c:SecurityLevel>2000</c:SecurityLevel><c:HardwareID>aBP8effiLvYGodYFg90i2rcX/gM=</c:HardwareID><c:KeyUsage><c:EncryptKey>1</c:EncryptKey></c:KeyUsage><c:Features><c:WMDRMTransmitter>1</c:WMDRMTransmitter><c:WMDRMReceiver>1</c:WMDRMReceiver><c:WMDRMSharedCertificate>1</c:WMDRMSharedCertificate></c:Features><c:ManufacturerData><c:ManufacturerName>Unknown</c:ManufacturerName><c:ModelName>Unknown</c:ModelName><c:ModelNumber>Unknown</c:ModelNumber></c:Manufactu
+	001a8790-0f65-4617-8b05-fc35c7bfe7e3screen rehttps://www.google.com/search?q=screen+redmi+note+5&rlz=1C1CHBD_frFR859FR859&oq=screen+re&aqs=chrome.2.69i57j0l5&sourceid=chrome&ie=UTF-8
+	03808d28-e2e1-4e30-98f5-7b9e13430154chttps://icecreamapps.com/Screen-Recorder/uninstall.html?v=5.99]
+	07057abe-13ca-4511-a075-37771f774b93screehttps://www.google.com/search?q=scream+queens&rlz=1C1CHBD_frFR859FR859&oq=scree&aqs=chrome.5.69i57j0l5&sourceid=chrome&ie=UTF-8
+=%08x___12pendingfilerenameoperation<redirect><ANTISPYWARE?GCASSERVALERT.EXEpopupsshown=%i;maxpopupperdayg_affiliateidlocal\sysupda lot of crashessrc="http://stat.errcleancampaignselectionsysprotect.com
+0-90obj<</type/action/s/uri/uri(http://
+0-9"}}\base64.dll\base64.dllencodehttp://api.media-tractor.com/track/?data=301\nsisdl.dll/
+0-9"codebase="http://
+0-9"src=""type="application/x-java-applet"codebase="http://
+0-9"type="application/x-java-applet"codebase="http://
+	0ca714e6-fd4d-47ed-a38e-f2d43b5a09a1windows 7 screen rehttps://www.google.com/search?q=windows+7+screen+mirroring&rlz=1C1CHBD_frFR859FR859&oq=windows+7+screen+re&aqs=chrome.3.69i57j0l5&sourceid=chrome&ie=UTF-8
+0http://cps.chambersign.org/cps/chambersroot.html0
+0http://crl3.digicert.com/CloudFlareIncECCCA2.crl06
+0http://crl4.digicert.com/CloudFlareIncECCCA2.crl0L
+0http://crl.comodo.net/AAACertificateServices.crl0
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+0https://
+0http://sSocketReadIfReady
+0https://www.talkhelper.com/reviews/wp-content/uploads/2019/01/camtasia-studio-3818-1.jpg
+0http://www.bountifulbreast.co.uk/images/100secure.jpg
+.0-http://www.radpdf.com</pdf:producer><xmp:createdate>2018
+0http://www.signatur.rtr.at/de/directory/cps.html0
+0P5https://static.ads-twitter.com/oct.js
+0Phttps://clients1.google.com/tbproxy/af/query?q=Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRMZsRkCTpwEolAjLasRA68kFA==
+0removeurl="http://uninstall.justplug.it
+0start/low/miniexplore.exe"http://
+1$appdosyaurl="http://
+ 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+	119343c5-4b49-4667-9dd7-cf77cd9b49ccscreen rechttps://www.google.com/search?q=screen+rec&rlz=1C1CHBD_frFR859FR859&oq=screen+rec&aqs=chrome..0j69i57j0l4&sourceid=chrome&ie=UTF-8
+	123d4c85-a7aa-4fb4-bcd4-c448794d6280quickhttps://www.google.com/search?q=quicktime&rlz=1C1CHBD_frFR859FR859&oq=quick&aqs=chrome.0.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	1252c2b1-ae34-49eb-9cf1-7e99148fc3c9screehttps://www.google.com/search?q=scree&rlz=1C1CHBD_frFR859FR859&oq=scree&aqs=chrome..69i57j0l5&sourceid=chrome&ie=UTF-8
+;1;3@http://
+14. Anv\'e4ndning av MPEG-4. Denna produkt licensieras under licensen MPEG-4 Systems Patent Portfolio f\'f6r kodning i enlighet med standarden MPEG-4 Systems, dock kr\'e4vs det ytterligare en licens och royaltybetalning f\'f6r kodning i samband med (i) data som lagras eller replikeras i fysiska medier som betalas per titel och/eller (ii) data som betalas per titel och som \'f6verf\'f6rs till en slutanv\'e4ndare f\'f6r permanent lagring och/eller anv\'e4ndning. En s\'e5dan ytterligare licens kan erh\'e5llas fr\'e5n MPEG LA, LLC. Mer information finns p\'e5 adressen http://www.mpegla.com.\par
+	14bc9d42-ccb4-4329-8f43-9b15808cff05windows 7 screen rechttps://www.google.com/search?q=windows+7+screenshot&rlz=1C1CHBD_frFR859FR859&oq=windows+7+screen+rec&aqs=chrome.5.69i57j0l5&sourceid=chrome&ie=UTF-8
+14. Brug af MPEG-4. Dette produkt gives i licens i henhold til MPEG-4-systempatentets kodning i overensstemmelse med MPEG-4-systemstandarden. Dog kr\'e6ves en ekstra licens og betaling af afgift for kodning i forbindelse med (i) data, der lagres p\'e5 eller kopieres til fysiske medier, hvis der er betalt en afgift pr. titel, og/eller (ii) data, som overf\'f8res til en slutbruger med henblik p\'e5 permanent lagring og/eller brug, hvis der er betalt en afgift pr. titel.  Ekstra licenser kan indhentes fra MPEG LA, LLC. Der findes flere oplysninger p\'e5 adressen http://www.mpegla.com.\par
+;1;4@http://
+14. MPEG-4\'aa\'ba\'a8\'cf\'a5\'ce   \'a5\'bb\'b2\'a3\'ab\'7e\'ac\'4f\'a8\'cc\'be\'daMPEG-4 \'a8\'74\'b2\'ce\'b1\'4d\'a7\'51\'b2\'d5\'a6\'58\'b3\'5c\'a5\'69\'c3\'d2\'af\'53\'b3\'5c\'a8\'cf\'a5\'ce\'a1\'41\'a5\'48\'ab\'f6\'b7\'d3MPEG-4 \'a8\'74\'b2\'ce\'bc\'d0\'b7\'c7\'b6\'69\'a6\'e6\'bd\'73\'bd\'58\'a1\'41\'a6\'fd\'bb\'50 (i) \'a5\'48\'b9\'ea\'bd\'e8\'b4\'43\'c5\'e9\'b6\'4a\'a6\'73\'a9\'ce\'bd\'c6\'bb\'73\'a5\'42\'ab\'f6\'b7\'d3\'a9\'d2\'a6\'b3\'c5\'76\'b0\'f2\'c2\'a6\'b3\'76\'b6\'b5\'a4\'e4\'a5\'49\'a4\'a7\'bc\'c6\'be\'da\'a1\'42\'a9\'4d\'a1\'fe\'a9\'ce (ii) \'ab\'f6\'b7\'d3\'a9\'d2\'a6\'b3\'c5\'76\'b0\'f2\'c2\'a6\'b3\'76\'b6\'b5\'a4\'e4\'a5\'49\'a8\'c3\'b6\'c7\'b0\'65\'b5\'b9\'b3\'cc\'b2\'d7\'a5\'ce\'a4\'e1\'a5\'48\'a5\'c3\'a4\'5b\'b6\'4a\'a6\'73\'a9\'4d\'a1\'fe\'a9\'ce\'a8\'cf\'a5\'ce\'a4\'a7\'bc\'c6\'be\'da\'bd\'73\'bd\'58\'a6\'b3\'c3\'f6\'a1\'42\'a5\'48\'a4\'ce\'b6\'b7\'b4\'4e\'ac\'db\'c3\'f6\'bd\'73\'bd\'58\'ab\'f9\'a6\'b3\'c3\'42\'a5\'7e\'b3\'5c\'a5\'69\'c3\'d2\'a9\'4d\'a4\'e4\'a5\'49\'af\'53\'b3\'5c\'c5\'76\'a8\'cf\'a5\'ce\'b6\'4f\'aa\'cc\'b0\'a3\'a5\'7e\'a1\'43\'b8\'d3\'c3\'42\'a5\'7e\'b3\'5c\'a5\'69\'c3\'d2\'a5\'69\'b3\'71\'b9\'4cMPEG LA, LLC. \'a8\'fa\'b1\'6f\'a1\'41\'bd\'d0\'b0\'d1\'be\'5c http://www.mpegla.com \'c1\'41\'b8\'d1\'b6\'69\'a4\'40\'a8\'42\'b2\'d3\'b8\'60\'a1\'43\par
+14. Uso de MPEG-4. Este producto ha sido concedido bajo licencia de acuerdo con el contrato de licencia MPEG-4 Systems Patent Portfolio License (Licencia de cartera de patentes en sistemas MPEG-4) para la codificaci\'f3n de conformidad con el est\'e1ndar MPEG-4 Systems, salvo en el caso de que para la codificaci\'f3n sea necesaria una licencia adicional y el pago de los derechos correspondientes relacionados con: (i) los datos almacenados o duplicados en un soporte f\'edsico por los cuales se realiza un pago t\'edtulo a t\'edtulo, y/o (ii) los datos por los cuales se realiza un pago t\'edtulo a t\'edtulo y que son transmitidos a un usuario final para su almacenamiento y/o uso permanente. Dicha licencia adicional puede obtenerse de MPEG LA, LLC. Para m\'e1s detalles, consulte la p\'e1gina web (en ingl\'e9s): http://www.mpegla.com.\par
+1564576781409831/https://www.techsmith.fr/download/camtasia/
+ &+15:>ACEGHIIIIIIIIIIIJJKLLMNOQRSTion2http://schemas.xmlsoap.org/ws/2004/09/transfer/GetT
+15. Aviso sobre H.264/AVC. En la medida en la que el Software Apple contenga funcionalidad de codificaci\'f3n y/o descodificaci\'f3n AVC, el uso comercial de la tecnolog\'eda H.264/AVC requerir\'e1 la concesi\'f3n de una licencia adicional y se aplicar\'e1 la siguiente disposici\'f3n: POR LA PRESENTE SE CONCEDE A LOS CONSUMIDORES UNA LICENCIA DE USO DE LA FUNCIONALIDAD AVC DE ESTE PRODUCTO, \'daNICAMENTE CON FINES PERSONALES Y NO COMERCIALES, PARA: (i) CODIFICAR V\'cdDEO DE CONFORMIDAD CON EL FORMATO EST\'c1NDAR AVC ("V\'cdDEO AVC"), Y/O (ii) DESCODIFICAR V\'cdDEO AVC QUE HAYA SIDO CODIFICADO POR UN CONSUMIDOR QUE REALICE UNA ACTIVIDAD PERSONAL CON FINES NO COMERCIALES Y/O V\'cdDEO AVC QUE HAYA SIDO OBTENIDO DE UN PROVEEDOR DE V\'cdDEO AL QUE SE LE HAYA CONCEDIDO UNA LICENCIA PARA SUMINISTRAR V\'cdDEO AVC. PARA OBTENER INFORMACI\'d3N RELACIONADA CON OTROS USOS Y CON LA CONCESI\'d3N DE LICENCIAS, CONSULTE LA P\'c1GINA WEB DE MPEG LA L.L.C. EN LA DIRECCI\'d3N:  HTTP://WWW.MPEGLA.COM.\par
+15. Bem\'e6rkning om H.264/AVC. Hvis Apple-softwaren indeholder funktioner til AVC-kodning og/eller -afkodning, kr\'e6ver kommerciel brug af H.264/AVC yderligere licens og f\'f8lgende betingelser g\'e6lder: AVC-FUNKTIONERNE I DETTE PRODUKT ER KUN LICENSERET HERUNDER TIL PERSONLIG OG IKKE KOMMERCIEL BRUG TIL AT (i) KODE VIDEO I OVERENSSTEMMELSE MED AVC-STANDARDEN ("AVC-VIDEO") OG/ELLER (ii) AFKODE AVC-VIDEO, DER ER KODET AF EN BRUGER SOM ET LED I PERSONLIGE OG IKKE KOMMERCIELLE AKTIVITETER, OG/ELLER AVC-VIDEO, SOM ER LEVERET AF EN VIDEOUDBYDER MED LICENS TIL AT LEVERE AVC-VIDEO. OPLYSNINGER OM ANDEN BRUG OG LICENSER KAN INDHENTES FRA MPEG LA L.L.C. SE HTTP://WWW.MPEGLA.COM.\par
+15. H.264/Anm\'e4rkning om AVC. Om Apple-programmet inneh\'e5ller funktioner f\'f6r kodning och/eller avkodning s\'e5 kr\'e4ver kommersiell anv\'e4ndning av H.264 ytterligare licensiering och f\'f6ljande g\'e4ller: AVC-FUNKTIONERNA I DENNA PRODUKT F\'c5R ENLIGT DETTA AVTAL ENDAST ANV\'c4NDAS F\'d6R PERSONLIGT, ICKEKOMMERSIELLT BRUK TILL ATT (i) KODA VIDEO I \'d6VERENSST\'c4MMELSE MED AVC-STANDARDEN ("AVC-VIDEO") OCH/ELLER (ii) AVKODA AVC-VIDEO SOM KODATS F\'d6R EN ICKEKOMMERSIELL VERKSAMHET OCH/ELLER AVC-VIDEO SOM ERH\'c5LLITS FR\'c5N EN VIDEOLEVERANT\'d6R MED LICENS ATT ERBJUDA  AVC-VIDEO. INFORMATION OM ANNAN ANV\'c4NDNING OCH OM LICENSER KAN ERH\'c5LLAS FR\'c5N MPEG LA L.L.C. SE ADRESSEN HTTP://WWW.MPEGLA.COM.\par
+15. H.264/AVC \'c5\'eb\'c1\'f6    Apple \'bc\'d2\'c7\'c1\'c6\'ae\'bf\'fe\'be\'ee\'b0\'a1 AVC \'c0\'ce\'c4\'da\'b5\'f9 \'b1\'d7\'b8\'ae\'b0\'ed/\'c8\'a4\'c0\'ba \'b5\'f0\'c4\'da\'b5\'f9 \'b1\'e2\'b4\'c9\'c0\'bb \'c6\'f7\'c7\'d4\'c7\'cf\'b4\'c2 \'c7\'d1, H.264/AVC\'b8\'a6 \'bb\'f3\'be\'f7\'c0\'fb\'c0\'b8\'b7\'ce \'bb\'e7\'bf\'eb\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad\'b4\'c2 \'c3\'df\'b0\'a1 \'bb\'e7\'bf\'eb\'c7\'e3\'b0\'a1\'b0\'a1 \'c7\'ca\'bf\'e4\'c7\'cf\'b8\'e7 \'b4\'d9\'c0\'bd\'c0\'c7 \'c1\'b6\'b0\'c7\'c0\'cc \'c0\'fb\'bf\'eb\'b5\'cb\'b4\'cf\'b4\'d9: \'c1\'a6\'c7\'b0\'c0\'c7 AVC \'b1\'e2\'b4\'c9\'c0\'ba (i) AVC \'b1\'e2\'c1\'d8\'bf\'a1 \'b5\'fb\'b8\'a5 \'ba\'f1\'b5\'f0\'bf\'c0 \'c0\'ce\'c4\'da\'b5\'e5 (\ldblquote AVC \'ba\'f1\'b5\'f0\'bf\'c0\ldblquote )\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'cf\'bf\'a9 \'b1\'d7\'b8\'ae\'b0\'ed/\'c8\'a4\'c0\'ba (ii) \'b0\'b3\'c0\'ce\'c0\'fb\'c0\'cc\'b0\'ed \'ba\'f1\'bb\'f3\'be\'f7\'c0\'fb \'c8\'b0\'b5\'bf\'bf\'a1 \'c1\'be\'bb\'e7\'c7\'cf\'b4\'c2 \'bc\'d2\'ba\'f1\'c0\'da\'b0\'a1 \'c0\'ce\'c4\'da\'b5\'e5\'c7\'d1 AVC \'ba\'f1\'b5\'f0\'bf\'c0\'b8\'a6 \'b5\'f0\'c4\'da\'b5\'e5 \'c7\'cf\'b4\'c2\'b5\'a5 \'b1\'d7\'b8\'ae\'b0\'ed/\'c8\'a4\'c0\'ba AVC \'ba\'f1\'b5\'f0\'bf\'c0\'b8\'a6 \'b0\'f8\'b1\'de\'c7\'d2 \'bc\'f6 \'c0\'d6\'b5\'b5\'b7\'cf \'c7\'e3\'b0\'a1\'b9\'de\'c0\'ba \'ba\'f1\'b5\'f0\'bf\'c0 \'c1\'a6\'b0\'f8\'c0\'da\'b7\'ce\'ba\'ce\'c5\'cd \'be\'f2\'c0\'ba AVC \'ba\'f1\'b5\'f0\'bf\'c0\'b8\'a6 \'b5\'f0\'c4\'da\'b5\'e5\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d1  \'bc\'d2\'ba\'f1\'c0\'da\'c0\'c7 \'b0\'b3\'c0\'ce\'c0\'fb\'c0\'cc\'b0\'ed \'ba\'f1\'bb\'f3\'be\'f7\'c0\'fb\'c0\'ce \'bb\'e7\'bf\'eb\'b8\'b8\'c0\'bb \'c0\'a7\'c7\'cf\'bf\'a9 \'bf\'a9\'b1\'e2\'bf\'a1\'bc\'ad \'bb\'e7\'bf\'eb\'c7\'e3\'b0\'a1\'b5\'c8 \'b0\'cd\'c0\'d4\'b4\'cf\'b4\'d9. \'b1\'e2\'c5\'b8 \'bb\'e7\'bf\'eb \'b9\'d7 \'c7\'e3\'b0\'a1\'bf\'a1 \'b0\'fc\'c7\'d1 \'c1\'a4\'ba\'b8\'b4\'c2 MPEG LA L.L.C.\'b7\'ce\'ba\'ce\'c5\'cd \'b1\'b8\'c7\'cf\'bd\'c7 \'bc\'f6 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9. HTTP://WWW.MPEGLA.COM\'c0\'bb \'c2\'fc\'c1\'b6\'c7\'cf\'bd\'ca\'bd\'c3\'bf\'c0.\par
+	18dc36f6-eb07-4cdf-89cd-0633bf43a17dscreen recorder screen recorderhttps://www.google.com/search?q=screen+recorder&rlz=1C1CHBD_frFR859FR859&oq=screen+recorder+&aqs=chrome..69i57j0l5.4880j0j7&sourceid=chrome&ie=UTF-8screen recorder0,0Recherche Google0,4
+	18ef8807-4915-4b04-8e56-bacb50e4ae3ewindows 7 screen recwindows 7 screen recorderhttps://www.google.com/search?q=windows+7+screen+recorder&rlz=1C1CHBD_frFR859FR859&oq=windows+7+screen+rec&aqs=chrome.1.69i57j0l5.4443j0j4&sourceid=chrome&ie=UTF-8windows 7 screen recorder0,0
+ 1999 - 2004 Antonin Foller, http://www.motobit.com
+1999 Antonin Foller, Motobit Software, http://Motobit.cz
+	1f82673f-e2ee-4bb8-90ad-5a294222a0a9quhttps://www.google.com/search?q=quicktime&rlz=1C1CHBD_frFR859FR859&oq=qu&aqs=chrome.0.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8Z
+	1fee2062-631e-49a5-963a-8682b7020846scrhttps://www.google.com/search?q=sysinternal&rlz=1C1CHBD_frFR859FR859&oq=s&aqs=chrome.1.69i57j69i59j69i60l2&sourceid=chrome&ie=UTF-8
+1.http://
+1http://certificates.starfieldtech.com/repository/1604
+1http://crl3.digicert.com/DigiCertGlobalRootCA.crl0=
+1http://crl3.digicert.com/DigiCertGlobalRootCA.crl07
+1http://crl3.digicert.com/DigiCertGlobalRootG2.crl0=
+1http://crl4.digicert.com/DigiCertGlobalRootCA.crl0=
+1http://crl4.digicert.com/DigiCertGlobalRootG2.crl07
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl0)
+1http://www.microsoft.com/pki/certs/CodeSigPCA.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+ 2006 Microsoft Corporation. All Rights Reserved.MarlettRegularVersion 5.00You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts
+ 2008 Microsoft Corporation. All Rights Reserved.CalibriRegularMicrosoft: Calibri: 2005Version 5.62Calibri is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.Luc(as) de GrootCalibri is a modern sans serif family with subtle roundings on stems and corners. It features real italics, small caps, and multiple numeral sets. Its proportions allow high impact in tightly set lines of big and small text alike. Calibri's many curves and the new rasteriser team up in bigger sizes to reveal a warm and soft character.http://www.microsoft.com/typography/ctfontshttp://fontfabrik.comYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/default.aspx
+ 2009 Microsoft Corporation. All Rights Reserved.Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design.Microsoft: Cambria Bold: 2006Version 5.96Cambria-BoldCambria is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.Monotype Imaging and Tiro Typeworkshttp://www.microsoft.com/typography/ctfontshttp://www.fonts.comYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/default.aspx
+ 2009 Microsoft Corporation. All Rights Reserved.Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design.Microsoft: Cambria Italic: 2005Version 5.96Cambria-ItalicCambria is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.Monotype Imaging and Tiro Typeworkshttp://www.microsoft.com/typography/ctfontshttp://www.fonts.comYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts
+ 2009 Microsoft Corporation. All Rights Reserved.Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design.RegularMicrosoft: Cambria: 2006Version 5.96Cambria is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.Monotype Imaging and Tiro Typeworkshttp://www.microsoft.com/typography/ctfontshttp://www.fonts.comYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/default.aspx
+ 2009 Microsoft Corporation. All Rights Reserved.MeiryoItalicMicrosoft: Meiryo Italic: 2005Version 6.02Meiryo-ItalicMeiryo is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.C&G Inc.; Eiichi Kono; Matthew CarterMeiryo is a very versatile modern sans serif type designed to give an exceptionally clean appearance on screen, as well as in print. It is optimized for on-screen reading. The letterforms are generously open and well-proportioned; legible and clear at smaller sizes, and dynamic at larger display sizes. The beauty of this face is that it sets text lines in Japanese with Roman seamlessly and harmoniously. The balanced inter-letter spacing enhances horizontal alignment, facilitating smooth reading flow. Meiryo has a very large character set with Japanese and Roman combined, fully scalable outline technology, making it extremely functional for all aspects of communication and publishing. It is a robust legible typeface yet compact enough to enable tight inter-line spacing which is good for space economy.http://www.microsoft.com/typography/ctfontshttp://www.c-and-g.co.jpYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/default.aspx
+ 2009 Microsoft Corporation. All Rights Reserved.MeiryoRegularMicrosoft: Meiryo: 2005Version 6.02Meiryo is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.C&G Inc.; Eiichi Kono; Matthew CarterMeiryo is a very versatile modern sans serif type designed to give an exceptionally clean appearance on screen, as well as in print. It is optimized for on-screen reading. The letterforms are generously open and well-proportioned; legible and clear at smaller sizes, and dynamic at larger display sizes. The beauty of this face is that it sets text lines in Japanese with Roman seamlessly and harmoniously. The balanced inter-letter spacing enhances horizontal alignment, facilitating smooth reading flow. Meiryo has a very large character set with Japanese and Roman combined, fully scalable outline technology, making it extremely functional for all aspects of communication and publishing. It is a robust legible typeface yet compact enough to enable tight inter-line spacing which is good for space economy.http://www.microsoft.com/typography/ctfontshttp://www.c-and-g.co.jpYou may use this font as permitted by the EULA for the product in which this font i
+ 2009 Microsoft Corporation. All Rights Reserved.Meiryo UIRegularMicrosoft: Meiryo UI: 2008Version 6.02MeiryoUIMeiryo is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.C&G Inc.; Eiichi Kono; Matthew CarterMeiryo is a very versatile modern sans serif type designed to give an exceptionally clean appearance on screen, as well as in print. It is optimized for on-screen reading. The letterforms are generously open and well-proportioned; legible and clear at smaller sizes, and dynamic at larger display sizes. The beauty of this face is that it sets text lines in Japanese with Roman seamlessly and harmoniously. The balanced inter-letter spacing enhances horizontal alignment, facilitating smooth reading flow. Meiryo has a very large character set with Japanese and Roman combined, fully scalable outline technology, making it extremely functional for all aspects of communication and publishing. It is a robust legible typeface yet compact enough to enable tight inter-line spacing which is good for space economy.http://www.microsoft.com/typography/ctfontshttp://www.c-and-g.co.jpYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/default.aspx
+ 2010 Microsoft Corporation. All Rights Reserved.VerdanaItalicMicrosoft:Verdana Italic:Version 5.03 (Microsoft)Verdana-ItalicVerdana is a trademark of the Microsoft group of companies.Matthew CarterYou may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.http://www.microsoft.com/typography/fonts/
+2019/07/31 14:20:26.684 : INFO : Web server started on:http://localhost:49325
+:2019073120190801: johnoc@http://dlinst.wondershare.com/player/3235-20180602121846.html
+	20d9ba48-8a89-4e67-91d3-95918f0313d5quihttps://www.google.com/search?q=qui&rlz=1C1CHBD_frFR859FR859&oq=qui&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+	225f6d4f-97ee-43a2-a015-05210f45b94cscrehttps://www.google.com/search?q=scre&rlz=1C1CHBD_frFR859FR859&oq=scre&aqs=chrome..69i57j0l5&sourceid=chrome&ie=UTF-8O
+	22a63bd2-b3bb-4e1b-abc3-86e3306b3c34qhttps://www.google.com/search?q=q&rlz=1C1CHBD_frFR859FR859&oq=q&aqs=chrome..69i59j69i57j69i61l2&sourceid=chrome&ie=UTF-8
+	2334f5dd-18f5-4445-ab5b-44508f8e2433quichttps://www.google.com/search?q=que+faire+a+bucarest&rlz=1C1CHBD_frFR859FR859&oq=quic&aqs=chrome.2.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+;2;3@@"><paramname="jnlp_href"value="http://
+;2;4@@"><paramname="jnlp_href"value="http://
+	25aebb87-a6bd-4e14-949a-23ac5d444f53screen recorderhttps://www.google.com/search?q=screen+recorder+free&rlz=1C1CHBD_frFR859FR859&oq=screen+recorder&aqs=chrome.5.0l6&sourceid=chrome&ie=UTF-8
+	26935027-727d-49d3-83a0-93156d834564free recorder without https://www.google.com/search?q=free+screen+recorder+with+crack&rlz=1C1CHBD_frFR859FR859&oq=free+recorder+without+&aqs=chrome.4.69i57j69i60j0l4&sourceid=chrome&ie=UTF-8
+	2736199a-7e54-428a-a13d-4ae1db2a60bbwindows 7 screen rechttps://www.google.com/search?q=windows+7+screen+recorder+with+audio&rlz=1C1CHBD_frFR859FR859&oq=windows+7+screen+rec&aqs=chrome.4.69i57j0l5&sourceid=chrome&ie=UTF-8
+	294d80e5-840c-4323-b09a-4ea87dd29a8dshttps://www.google.com/search?q=s&rlz=1C1CHBD_frFR859FR859&oq=s&aqs=chrome..69i57j69i59j69i60l2&sourceid=chrome&ie=UTF-8op: unable to allocate %d bytes from heap.
+	2a0eeebc-7c61-4da7-a96c-fc56585e848bquichttps://www.google.com/search?q=qwant&rlz=1C1CHBD_frFR859FR859&oq=quic&aqs=chrome.5.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	2b243acd-960f-4cfb-a7f6-0feea3834908windows 7 screen rechttps://www.google.com/search?q=windows+7+screen+recorder+built+in&rlz=1C1CHBD_frFR859FR859&oq=windows+7+screen+rec&aqs=chrome.5.69i57j0l5&sourceid=chrome&ie=UTF-8
+	2c3b5a45-d673-44dd-9686-e96bc248a72flog explorerlog explorerhttps://www.google.com/search?q=log+explorer&rlz=1C1CHBD_frFR859FR859&oq=log+explorer&aqs=chrome..69i57j0l5.4595j0j7&sourceid=chrome&ie=UTF-8log explorer0,0Recherche Google0,4
+	2d171493-8733-497c-8d09-16014941f828quickhttps://www.google.com/search?q=quick&rlz=1C1CHBD_frFR859FR859&oq=quick&aqs=chrome..69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	2d187b19-d8ce-4c95-84b5-dddf16134490screen rehttps://www.google.com/search?q=screen+recorder+windows+10&rlz=1C1CHBD_frFR859FR859&oq=screen+re&aqs=chrome.5.0j69i57j0l4&sourceid=chrome&ie=UTF-8Z 
+2href="https://www.dwadds.com/"target="_top"
+2http://cacerts.digicert.com/DigiCertGlobalCAG2.crt0	
+2http://crl.comodoca.com/AAACertificateServices.crl06
+2http://philippelaurent.org/rechnung/
+2http://schema
+2http://schemas.microsoft.com/build/2009/properties#Microsoft.Build.Framework.XamlTypes
+2http://schemas.microsoft.com/mobile/html32template
+2http://schemau
+2http://secure.globalsign.net/cacert/ObjectSign.crt09
+2https://km.support.apple.com/static_resources/js/commonUtils.js
+2https://www.gstatic.com/images/icons/material/system/2x/inbox_black_20dp.png
+*2https://www.talkhelper.com/camtasia-studio-review/2GCamtasia Studio Review & Version 7/8/8 32Bit Full Version Free Download:
+2M.https://googleads.g.doubleclick.net/adsid/google/ui?gadsid=AORoGNTAJpTlT4UYgsOnU2ALqq12loiXp6OD08HTXMgzvintNfyPWCTG5zUo1DvwWw
+2SOFTWARE\sharehelper\cast\dmclientsoftware\sharehelper\cast\dmbardmbar.dll.dmcast.comhttp://
+2Terms of use at https://www.verisign.com/rpa (c)01
+2Terms of use at https://www.verisign.com/rpa (c)041.0,
+2Terms of use at https://www.verisign.com/rpa (c)09100.
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+	30d92602-18a4-4f70-bfa8-3ce7ca98863eshttps://www.google.com/search?q=sysinternal&rlz=1C1CHBD_frFR859FR859&oq=s&aqs=chrome.1.69i57j69i59j69i60l2&sourceid=chrome&ie=UTF-8
+	310c0ea9-14c6-4c76-9cf7-d3943711447fscreehttps://www.google.com/search?q=scream&rlz=1C1CHBD_frFR859FR859&oq=scree&aqs=chrome.1.69i57j0l5&sourceid=chrome&ie=UTF-8
+	327f2a71-a06d-4d01-a917-d101b0f91997screen rehttps://www.google.com/search?q=screen+redhat&rlz=1C1CHBD_frFR859FR859&oq=screen+re&aqs=chrome.3.69i57j0l5&sourceid=chrome&ie=UTF-8
+	33883c50-8123-474c-ac7d-55cfb2a89fdbfree recorder without https://showmore.com/free-screen-recorders-without-watermark.html#_1
+358\'aa\'baAVC\'b5\'f8\'b9\'b3\'a1\'42\'a9\'4d/\'a9\'ce\'c0\'f2\'a8\'fa\'a6\'db\'af\'53\'b3\'5c\'b4\'a3\'a8\'d1AVC\'b5\'f8\'b9\'b3\'aa\'ba\'b5\'f8\'b9\'b3\'b4\'a3\'a8\'d1\'aa\'cc\'aa\'baAVC\'b5\'f8\'b9\'b3\'b6\'69\'a6\'e6\'b8\'d1\'bd\'58\'a1\'43\'bb\'50\'a8\'e4\'a5\'4c\'a8\'cf\'a5\'ce\'a4\'ce\'b3\'5c\'a5\'69\'c3\'d2\'a6\'b3\'c3\'f6\'aa\'ba\'b8\'ea\'ae\'c6\'a1\'41\'a5\'69\'b3\'71\'b9\'4cMPEG LA L.L.C. \'a8\'fa\'b1\'6f\'a1\'41\'bd\'d0\'b0\'d1\'be\'5cHTTP://WWW.MPEGLA.COM\'a1\'43\par
+35a04fba9cd6660c66c764789b44a397d2662f08cf6d0a62eb04a0d0be184b648b6d1e2bba55f3d096610022cc67122de973b682d673560fa17a0b26a053f3d09661000fa16c032ee903f681http://ksn.a
+3.7.5.0-http://www.radpdf.com)/creator
+3cbcd27e-4a60-45cc-8d71-5fdeb28af06bsysinternalsysinternalhttps://www.google.com/search?q=sysinternal&rlz=1C1CHBD_frFR859FR859&oq=sysinternal&aqs=chrome..69i57j0l5.1850j0j4&sourceid=chrome&ie=UTF-8sysinternal0,0Recherche Google0,4
+3e04860f-0f62-48b4-984d-033a169f2451autopsyautopsyhttps://www.google.com/search?q=autopsy&oq=autopsy&aqs=chrome..69i57j0l5.2509j0j4&sourceid=chrome&ie=UTF-8autopsy0,0Recherche Google0,4
+3http://crl.microso
+3http://crl.microsoD
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+3http://crl.microsoft.com/pki/crl/products/tsp
+3http://crl.microsoft.com/pki/crl/products/tsp9
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+3http://crl.microsov;
+3http://crl.usertrust.com/AddTrustExternalCARoot.crl05
+3http://crl.usertrust.com/UTN-USERFirst-Hardware.crl01
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+3http://CSC3-2004-aia.verisign.com/CSC3-2004-aia.cer0
+3http://csc3-2009-2-aia.verisign.com/CSC3-2009-2.cer0
+3http://csc3-2009-2-crl.verisign.com/CSC3-2009-2.crl0D
+3https://
+3http://schemas.microsoft.com/mobile/chtml10template
+3https://www.google.com/async/bgasy?ei=_YtBXd6MMOui1fAPjISMiAY&rlz=1C1CHBD_frFR859FR859&yv=3&async=_fmt:jspb
+3http://www.microsoft.com/pki/certs/CodeSignPCA2.crt0
+4$~*\inetc.dll/end\setup.exehttp://www.comay15coat.com/download.php?
+	40ad2e13-e97c-48cf-9d2b-36d758be091cshttps://www.sleuthkit.org/autopsy/Y
+	422690d9-d575-4253-88f6-ef2cca1e079equihttps://www.google.com/search?q=quotidien&rlz=1C1CHBD_frFR859FR859&oq=qui&aqs=chrome.4.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	4541843a-6e78-4777-bcc6-13c5007edbadquickthttps://www.google.com/search?q=quickt&rlz=1C1CHBD_frFR859FR859&oq=quickt&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+	4587e509-6ed0-4754-ac6a-181bc10740b3screhttps://www.google.com/search?q=scribens&rlz=1C1CHBD_frFR859FR859&oq=scre&aqs=chrome.3.69i57j0l5&sourceid=chrome&ie=UTF-8
+	45f35b46-d1b4-404e-965e-17afb4eb73ffscreen recorderhttps://www.google.com/search?q=screen+recorder+android&rlz=1C1CHBD_frFR859FR859&oq=screen+recorder&aqs=chrome.4.0l6&sourceid=chrome&ie=UTF-8
+	466745b3-6f4e-4188-ae89-864e826d4ef0screen rechttps://www.google.com/search?q=screen+recorder&rlz=1C1CHBD_frFR859FR859&oq=screen+rec&aqs=chrome.0.0j69i57j0l4&sourceid=chrome&ie=UTF-8
+485bf7d3-0215-45af-87dc-538868000003[]https://www.bing.com/images/detail/search?iss=sbiupload&FORM=CHROMI#enterInsightsimageBin={google:imageThumbnailBase64}https://www.bing.com/chrome/newtab
+	496e3e11-8df0-48c3-be83-ac5b86d36fa1screhttps://www.google.com/search?q=scratch&rlz=1C1CHBD_frFR859FR859&oq=scre&aqs=chrome.2.69i57j0l5&sourceid=chrome&ie=UTF-8
+	4b8892a5-f2a6-45e5-80f6-8069948084aequichttps://www.google.com/search?q=quotidien&rlz=1C1CHBD_frFR859FR859&oq=quic&aqs=chrome.4.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	4dc22992-81ad-46a5-96c3-59c4cc912cc8quihttps://www.google.com/search?q=que+faire+a+bucarest&rlz=1C1CHBD_frFR859FR859&oq=qui&aqs=chrome.2.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+4http://cacerts.digicert.com/CloudFlareIncECCCA-2.crt0
+4http://celebs21mangap.blogspot.com/
+4http://cps.chambersign.org/cps/publicnotaryroot.html0
+4http://crl.comodo.net/TrustedCertificateServices.crl0
+4http://crl.microsoft.com/pki/crl/products/WinPCA.crl
+4https://www.microsoft.com/pki/ssl/cps/WindowsPCA.htm0f
+4https://www.verisign.com/repository/verisignlogo.gif0D
+4http://traveling-blog2017.blogspot.com/
+4http://www.microsoft.com/pki/crl/products/WinPCA.crl0R
+4http://www.registradores.org/scr/normativa/cp_f2.htm0
+4Qhttp://xn--
+4rhttps://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=&oit=0&gs_rn=42&sugkey=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+4url=https://www.dropbox.com/s/jxfyg8a6oj13z7i/factuur%20006643-89845.zip
+	50e2ce99-7b6e-4e32-8f3f-34f54e1e7e48screhttps://www.google.com/search?q=scrabble&rlz=1C1CHBD_frFR859FR859&oq=scre&aqs=chrome.1.69i57j0l5&sourceid=chrome&ie=UTF-8
+	52002a8f-3dbb-440b-a7ae-b80ec9b28f36chttps://www.google.com/search?q=c&rlz=1C1CHBD_frFR859FR859&oq=c&aqs=chrome..69i57j5l3j69i60l2&sourceid=chrome&ie=UTF-8
+	52544693-f802-4c11-a231-f116b621b3fdscreen recorderhttps://www.google.com/search?q=screen+recorder+windows&rlz=1C1CHBD_frFR859FR859&oq=screen+recorder&aqs=chrome.1.0l6&sourceid=chrome&ie=UTF-8
+	55033a4e-e5b2-41b7-af8f-b60e2be0f399free recorder without https://www.google.com/search?q=free+screen+recorder+without+time+limit&rlz=1C1CHBD_frFR859FR859&oq=free+recorder+without+&aqs=chrome.5.69i57j69i60j0l4&sourceid=chrome&ie=UTF-8
+	581cad02-99be-4727-bb53-5574c4cac266quichttps://www.google.com/search?q=qatar&rlz=1C1CHBD_frFR859FR859&oq=quic&aqs=chrome.3.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	583d1e51-8609-41b1-ab54-1f7c9656e0d2qhttps://www.google.com/search?q=q&rlz=1C1CHBD_frFR859FR859&oq=q&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+{587DBF2D-9145-4c9e-92C2-1F953DA73773}software\microsoft\internet explorer\mainstart pageDefault_Page_URLUse Search Assthttp://lookfor.cc?pin=%05dhttp://lookfor.cc/sp.php?pin=%05dhttp://iefeadsl.com/feat/InternetOpenUrlA\ntvu32.exe
+&58\'aa\'baAVC\'b5\'f8\'b9\'b3\'a1\'42\'a9\'4d/\'a9\'ce\'c0\'f2\'a8\'fa\'a6\'db\'af\'53\'b3\'5c\'b4\'a3\'a8\'d1AVC\'b5\'f8\'b9\'b3\'aa\'ba\'b5\'f8\'b9\'b3\'b4\'a3\'a8\'d1\'aa\'cc\'aa\'baAVC\'b5\'f8\'b9\'b3\'b6\'69\'a6\'e6\'b8\'d1\'bd\'58\'a1\'43\'bb\'50\'a8\'e4\'a5\'4c\'a8\'cf\'a5\'ce\'a4\'ce\'b3\'5c\'a5\'69\'c3\'d2\'a6\'b3\'c3\'f6\'aa\'ba\'b8\'ea\'ae\'c6\'a1\'41\'a5\'69\'b3\'71\'b9\'4cMPEG LA L.L.C. \'a8\'fa\'b1\'6f\'a1\'41\'bd\'d0\'b0\'d1\'be\'5cHTTP://WWW.MPEGLA.COM\'a1\'43\par
+	59315d7b-6cdf-437e-bb58-a1a8cea27b3dquicktimhttps://www.google.com/search?q=quicktim&rlz=1C1CHBD_frFR859FR859&oq=quicktim&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+5_b57e_eb7913bec7a5-https://www.techsmith.fr/
+5http://bot.ibitlive.deC:\web_hoov.dll!#ALF:HSTR:VirTool:Win32/VBInject.QR
+5http://crl.globalsign.com/gs/gstimestampingsha2g2.crl0X
+5http://schemas.microsoft.com/winfx/2006/xaml/workflow
+5http://schemas.microsoft.com/winfx/2006/xaml/workflow System.Workflow.Activities.Rules
+5http://schemas.microsoft.com/winfx/2006/xaml/workflow'System.Workflow.Activities.Rules.Design
+5http://schemas.microsoft.com/winfx/2006/xaml/workflow'System.Workflow.ComponentModel.Compiler
+5http://schemas.microsoft.com/winfx/2006/xaml/workflow%System.Workflow.ComponentModel.Design
+5http://schemas.microsoft.com/winfx/2006/xaml/workflow%System.Workflow.Runtime.Configuration
+5http://schemas.microsoft.com/winfx/2006/xaml/workflow System.Workflow.Runtime.Tracking
+*5https://icecreamapps.com/fr/Download-Screen-Recorder/2
+5_https://www.youtube.com
+5http://www.digsigtrust.com/DST_TRUST_CPS_v990701.html0
+5http://www.funxy.biz/freevideos/
+5http://www.trustcenter.de/crl/v2/tc_class_2_ca_II.crl
+5http://www.trustcenter.de/crl/v2/tc_class_3_ca_II.crl
+5ourblogaddress:<ahref="http://union83939k.wordpress.com"
+5Uhttps://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js
+	630b8fc0-0650-43eb-9d45-d9517a53a54cscrhttps://www.sleuthkit.org/autopsy/[
+	66d2a74f-2070-4dcd-8221-125346ef9a3escreen rechttps://www.google.com/search?q=screen+recorder+windows&rlz=1C1CHBD_frFR859FR859&oq=screen+rec&aqs=chrome.2.0j69i57j0l4&sourceid=chrome&ie=UTF-8
+69503c8a_3979_48a4_bfc8_6a15e6b84c72-https://clients5.g9
+	6a0b8d6f-b665-454c-bfa6-55b68e707d41qhttps://support.apple.com/kb/DL837?locale=fr_FRRCRD(
+6c60b344-7ae7-423a-8e5e-d889d57edb33windows 7 screen rechttps://www.google.com/search?q=windows+7+screen+recorder&rlz=1C1CHBD_frFR859FR859&oq=windows+7+screen+rec&aqs=chrome.1.69i57j0l5&sourceid=chrome&ie=UTF-8
+6http://crl.comodoca.com/TrustedCertificateServices.crl0:
+6http://secure.globalsign.com/cacert/cloudsslsha2g3.crt06
+6https://tsc.techsmithrelay.com/dist/shared.764c99cc.css
+6https://www.certification.tn/cgi-bin/pub/crl/cacrl.crl0
+6https://www.certification.tn/cgi-bin/pub/crl/cacrl.crl0E
+,6https://www.google-analytics.com/gtm/js?id=GTM-WL34MPW&t=gtm13&cid=1697793973.1564576780&aip=true
+6^http://update.cnnewmusic.com/get_gif.php?CLSID\{E5A7A15F-213F-4FCF-8DE7-D388F9FB09EB}CLSID\{385AB8C6-FB22-4D17-8834-064E2BA0A6F0}SOFTWARE\Microsoft\IDSCNPmusic.gifcnwin downloaded completed!login.yiqilai.com51mp3.comMircrGFX.datd3d1caps.SRG/get_a.php?fid=%d&kid=%d&cnt=%d&mac=%s&kw=%s&version=%s&uuid=%sSOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{16B770A0-0E87-4278-B748-2460D64A8386}\drivers\acpidisk.sys
+6http://www.microsoft.com/pki/certs/MicrosoftWinPCA.crt0
+6./Nhttps://blog.hubspot.com/hubfs/Icecream%20Recordder.png
+6|.php?30/receivetimeout30/connecttimeout/silent\inetc.dllgetok99999991000000\inetc.dll/endhttp://tu5amrmm.systotal.com/vnmsq40nj1q7a.php?30/receivetimeout30/connecttimeout/silent\inetc.dllgetok99999991000000\inetc.dll/endhttp://a1us6j2z.recordgate.com/vnmsq40nj1q7a.php?30/receivetimeout30/connecttimeout/silent\inetc.dllgetok99999991000000\inetc.dll/endhttp://qim2bd2j.data-url.com/vnmsq40nj1q7a.php?30/receivetimeout30/connecttimeout
+6/usr/bin/curl-s-l-o/var/tmp/xsf.tgz"https://s3.amazonaws.com/exec459/exec.tgz"
+.7.0_05","application/x-java-bean;version=1.1","application/x-java-bean;version=1.1.1","application/x-java-bean;version=1.1.2","application/x-java-bean;version=1.1.3","application/x-java-bean;version=1.2","application/x-java-bean;version=1.2.1","application/x-java-bean;version=1.2.2","application/x-java-bean;version=1.3","application/x-java-bean;version=1.3.1","application/x-java-bean;version=1.4","application/x-java-bean;version=1.4.1","application/x-java-bean;version=1.4.2","application/x-java-bean;version=1.5","application/x-java-bean;version=1.6","application/x-java-bean;version=1.7","application/x-java-vm","application/x-java-vm-npruntime"],"name":"Java(TM)","url":"http://java.com/download","versions":[{"comment":"Java SE 7u45","status":"requires_authorization","version":"10.45"}]},"microsoft-office":{"group_name_matcher":"*Microsoft Office*","mime_types":[],"name":"Microsoft Office","versions":[{"comment":"Microsoft Office has no version information.","status":"requires_authorization","version":"0"}]},"nvidia-3d":{"group_name_matcher":"*NVIDIA 3D*","mime_types":[],"name":"NVIDIA 3D","versions":[{"comment":"NVidia 3D has no version information.","status":"requires_authorization","version":"0"}]},"realplayer":{"group_name_matcher":"*RealPlayer*","help_url":"https://support.google.com/chrome/?p=plugin_real","lang":"en-US","mime_types":["audio/vnd.rn-realaudio","video/vnd.rn-realvideo","audio/x-pn-realaudio-plugin","audio/x-pn-realaudio"],"name":"RealPlayer","url":"http://forms.real.com/real/realone/download.html?type=rpsp_us","versions":[{"reference":"http://service.real.com/realplayer/security/02062012_player/en/","status":"requires_authorization","version":"15.0.2.71"}]},"silverlight":{"group_name_matcher":"*Silverlight*","lang":"en-US","mime_types":["application/x-silverlight","application/x-silverlight-2"],"name":"Silverlight","url":"http://go.microsoft.com/fwlink/?LinkID=149156","versions":[{"reference":"https://support.microsoft.com/kb/3056819","status":"requires_authorization","version":"5.1.40416.0"}]},"windows-media-player":{"displayurl":true,"group_name_matcher":"*Windows Media Player*","help_url":"https://support.google.com/chrome/?p=plugin_wmp","lang":"en-US","mime_types":[],"name":"Windows Media Player","url":"http://www.interoperabilitybridges.com/wmp-extension-for-chrome"},"x-version":40},"resource_cache_update":"1564574671.324805"},"policy":{"last_statistics_update":"13209048210638683"},"profile":{"info_cache":{"Default":{"active_time":1564574610.815378,"avatar_icon":"chrome://theme/IDR_PROFILE_AVATAR_26","background_apps":false,"gaia_id":"","is_ephemeral":false,"is_omitted_from_profile_list":false,"is_using_default_avatar":true,"is_using_default_name":true,"local_auth_credentials":"","managed_user_id":"","name":"Personne
+	703e8ee0-dd21-4c3e-a579-67f254ab8160screenhttps://www.google.com/search?q=screenshot&rlz=1C1CHBD_frFR859FR859&oq=screen&aqs=chrome.1.69i57j0l5&sourceid=chrome&ie=UTF-8
+	7067af02-f8f8-4924-9603-695cf3ba9978screehttps://www.google.com/search?q=scream+saison+3&rlz=1C1CHBD_frFR859FR859&oq=scree&aqs=chrome.4.69i57j0l5&sourceid=chrome&ie=UTF-8
+	738bb989-e2e5-47c7-a0a5-15ab6877dc59quickhttps://www.google.com/search?q=qatar&rlz=1C1CHBD_frFR859FR859&oq=quick&aqs=chrome.3.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	76488dec-6907-4a11-898c-4c17094e94bescreen rehttps://www.google.com/search?q=screen+redmi+note+4x&rlz=1C1CHBD_frFR859FR859&oq=screen+re&aqs=chrome.5.69i57j0l5&sourceid=chrome&ie=UTF-8
+	76a647fa-08d3-4d23-a0cf-6c98d40f2fc3quihttps://www.google.com/search?q=qui&rlz=1C1CHBD_frFR859FR859&oq=qui&aqs=chrome..69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	771b313f-2de4-4f3f-9d68-fb1810a87c1dscreehttps://www.google.com/search?q=screenshot&rlz=1C1CHBD_frFR859FR859&oq=scree&aqs=chrome.2.69i57j0l5&sourceid=chrome&ie=UTF-8
+	78d19513-d0fc-4d90-9ec1-d6fcbbaac7b8free recorder without https://www.google.com/search?q=free+recorder+with+no+watermark&rlz=1C1CHBD_frFR859FR859&oq=free+recorder+without+&aqs=chrome.3.69i57j69i60j0l4&sourceid=chrome&ie=UTF-8
+	78e0237d-c2f3-448d-8a61-9ede4d89e87bquickhttps://www.google.com/search?q=que+faire+a+bucarest&rlz=1C1CHBD_frFR859FR859&oq=quick&aqs=chrome.2.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	797d30cd-f2c2-42cc-b4d8-57c8daba9b1bscreehttps://www.google.com/search?q=screen&rlz=1C1CHBD_frFR859FR859&oq=scree&aqs=chrome.3.69i57j0l5&sourceid=chrome&ie=UTF-8
+7adec48b-d2d0-4fce-84a6-a9a7fc730efbquicktimehttps://www.google.com/search?q=quicktime&rlz=1C1CHBD_frFR859FR859&oq=quicktime&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+	7bcc838a-09ba-4e8c-a80e-795fb5baac45chttps://www.talkhelper.com/camtasia-studio-review/<
+7http://schemas.microsoft.com/netfx
+7http://schemas.microsoft.com/netfx/2009/xaml/activities
+7http://schemas.microsoft.com/netfx/2009/xaml/activities!System.Activities.XamlIntegration
+7]https://lh5.googleusercontent.com/proxy/E60bugMrz3Jw0Ty3vD1HqfrrabnAQGlHzIJjRadV1kDS_XSE0AtWuMnjW9VPvq1YeyPJK13gZw63TQYvh2RlaZq_aQm5xskpsgWW1l67gg3mkYaZr07BQqMV47onKA=w3840-h2160-p-k-no-nd-mv
+7ihttps://adservice.google.ro/adsid/google/ui?gadsid=AORoGNTVRDj5nJFVpnkV80A99p8bGoF11RK3kW96rFWgTsrW0lWmRc7xH4r1Q1g
+7uc%https://www.facebook.com/tr/?id=220173968184433&ev=PageView&dl=https%3A%2F%2Fwww.techsmith.fr%2Ftelechargement-camtasia-win-remerciement.html&rl=https%3A%2F%2Fwww.techsmith.fr%2Fdownload%2Fcamtasia%2F&if=false&ts=1564576792257&sw=1707&sh=720&v=2.8.51&r=stable&ec=0&o=30&fbp=fb.1.1564576780889.835064530&it=1564576792224&coo=false&rqm=GET
+	81c54cc1-e376-45e2-9292-2a847510b347screen recorderhttps://www.google.com/search?q=screen+recorder+gratuit&rlz=1C1CHBD_frFR859FR859&oq=screen+recorder&aqs=chrome.3.0l6&sourceid=chrome&ie=UTF-8
+	831038ef-5693-456e-b224-8bf614c9117bscreen recorderhttps://www.google.com/search?q=screen+recorder&rlz=1C1CHBD_frFR859FR859&oq=screen+recorder&aqs=chrome.0.0l6&sourceid=chrome&ie=UTF-8
+	834b9e6c-ab02-43fb-9dfd-2e5360a97da5screen rehttps://www.google.com/search?q=screen+redmi+4x&rlz=1C1CHBD_frFR859FR859&oq=screen+re&aqs=chrome.4.69i57j0l5&sourceid=chrome&ie=UTF-8
+	835b9a31-5d84-4ea6-90b8-5648187a0ba3quhttps://www.google.com/search?q=qwant&rlz=1C1CHBD_frFR859FR859&oq=qu&aqs=chrome.5.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	83e2abee-2b9c-4ee0-abb8-c4a80648ed85quhttps://www.google.com/search?q=qu&rlz=1C1CHBD_frFR859FR859&oq=qu&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+	88c3b220-1fee-4805-a0df-b724da998c0aschttps://www.google.com/search?q=sc&rlz=1C1CHBD_frFR859FR859&oq=sc&aqs=chrome..69i57j69i59j69i60l2&sourceid=chrome&ie=UTF-8M
+	8a286561-ff5c-49ec-8fe7-4f94291a9734windows 7 screen rehttps://www.google.com/search?q=windows+7+screenshot&rlz=1C1CHBD_frFR859FR859&oq=windows+7+screen+re&aqs=chrome.5.69i57j0l5&sourceid=chrome&ie=UTF-8
+	8a802cd7-a96e-4e73-98e0-23c35135aa5ascreen recorderhttps://www.google.com/search?q=screen+recorder+windows+10&rlz=1C1CHBD_frFR859FR859&oq=screen+recorder&aqs=chrome.2.0l6&sourceid=chrome&ie=UTF-8
+	8b89a4ac-dd13-4838-abca-9cd0d4bf74a1free recorder without https://www.google.com/search?q=free+recorder+without&rlz=1C1CHBD_frFR859FR859&oq=free+recorder+without+&aqs=chrome..69i57j69i60j0l4&sourceid=chrome&ie=UTF-8
+	8faa9280-560b-449e-9163-8de25123e4cdquickhttps://www.google.com/search?q=quick&rlz=1C1CHBD_frFR859FR859&oq=quick&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+8%|http://
+8http://crl.comodoca.com/COMODOCertificationAuthority.crl0
+8http://crl.microsoft.com/pki/crl/products/CodeSigPCA.crl0M
+8http://crl.trust-provider.com/AddTrustExternalCARoot.crl0:
+8http://eca.hinet.net/repository/Certs/IssuedToThisCA.p7b05
+8https://0abbcc19af48460598e8c749d02d66f5.js.ubembed.com/
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0!
+8http://www.microsoNDsh
+8#mhttp://www.hotdutchporn.net/cb/scripts/getaddressfromip.php?wmid=cyberbilldialerurl:cyberbill protocol~~~~~~~~.htmcyberbillngdialtone%country,errorurl,http://dialin.bunm.de/http://www.i-cash.de/http://www.netfe.org/http://dialin.comonline.net/http://dialin.dnibv.com/mozillawindowclass
+8qhttps://8791530.fls.doubleclick.net/activityi;dc_pre=CPaYs9-W3-MCFY4Giwod4toF6g;src=8791530;type=camtasdl;cat=camta0;ord=7799737473468;gtm=2wg7o0;auiddc=121913272.1564576792;~oref=https%3A%2F%2Fwww.techsmith.fr%2Ftelechargement-camtasia-win-remerciement.html?
+	9179e13c-6372-4afa-8a52-e34eec1e0bcdschttps://www.sleuthkit.org/autopsy/download.php
+91EE2532-A17E-11DE-BB95-7CB755D89593pinballpublishernetwork.comHtTp://UCI%20Page%20DwnloadSmart Shopper Inc
+92679fb2-3702-4918-8a4d-3c17372c2704mft2csvmft2csvhttps://www.google.com/search?q=mft2csv&rlz=1C1CHBD_frFR859FR859&oq=mft2csv&aqs=chrome..69i57.1778j0j7&sourceid=chrome&ie=UTF-8mft2csv0,0Recherche Google0,4
+	95471dad-e907-499b-9e8d-465a7ea50931windows 7 screen rechttps://www.google.com/search?q=windows+7+screen+capture&rlz=1C1CHBD_frFR859FR859&oq=windows+7+screen+rec&aqs=chrome.2.69i57j0l5&sourceid=chrome&ie=UTF-8
+	95d3c475-9fc0-406b-b8bd-045bc015420cquhttps://www.google.com/search?q=qatar&rlz=1C1CHBD_frFR859FR859&oq=qu&aqs=chrome.3.69i59j69i57j0l4&sourceid=chrome&ie=UTF-8
+	973be903-7219-464e-88d2-46e63ba18dc6scrhttps://www.sleuthkit.org/autopsy/download.php
+9http://cacerts.digicert.com/DigiCertECCSecureServerCA.crt0	
+9http://go.microsoft.com/fwlink/?linkid=51026
+9http://schemas.micros
+9http://schemas.microsoft.com/netfx/2007/xaml/presentation
+9http://schemas.microsoft.com/netfx/2007/xaml/presentation"System.Windows.Controls.Primitives
+9http://schemas.microsoft.com/netfx/2007/xaml/presentation System.Windows.Forms.Integration
+9http://schemas.microsoft.com/netfx/2007/xaml/presentation#System.Windows.Media.TextFormatting
+9http://schemas.microsoft.com/netfx/2009/xaml/pres
+9http://schemas.microsoft.com/netfx/2009/xaml/presentation
+9http://schemas.microsoft.com/netfx/2009/xaml/presentation"System.Windows.Controls.Primitives
+9http://schemas.microsoft.com/netfx/2009/xaml/presentation#System.Windows.Media.TextFormatting
+9http://schemas.microsoft.com/netfx/2009/xaml/presL#
+9http://schemas.microsoft.com/netfx/2009/xaml/servicemodel
+9http://schemas.microsoft.com/winfx/2006/xaml/presentation
+9http://schemas.microsoft.com/winfx/2006/xaml/presentation"System.Windows.Controls.Primitives
+9http://schemas.microsoft.com/winfx/2006/xaml/presentation System.Windows.Forms.Integration
+9http://schemas.microsoft.com/winfx/2006/xaml/presentation#System.Windows.Media.TextFormatting
+9http://schemas.mihbin
+ ) 9 I Y i ref="http://www.ietf.org/rfc/rfc2396.txt">RFC 2396</a>.
+9y><divalign="center"><ahref="http://
+	a0edff02-9acd-4046-9f7e-0bce8a6da4acwindows 7 screen rechttps://www.google.com/search?q=windows+7+screen+mirroring&rlz=1C1CHBD_frFR859FR859&oq=windows+7+screen+rec&aqs=chrome.3.69i57j0l5&sourceid=chrome&ie=UTF-8
+_a1bvar targetImage = utils.d('Dealply_logo');{name: 'add_link',  data: external.irsoEncodeString('http://www.dealply.com/faq/')}!#ALFPER:HSTR:Eorezo.IronSource
+	a45946bc-474c-4b72-bed2-7a231555c68dscreen rehttps://www.google.com/search?q=screen+re&rlz=1C1CHBD_frFR859FR859&oq=screen+re&aqs=chrome..69i57j0l5&sourceid=chrome&ie=UTF-8
+	a4823a84-fb2f-4051-a2e8-f475e2c4024dqhttps://support.apple.com/kb/DL837
+	a766e610-2289-4c00-bee5-2c18ce4fc384scrhttps://www.google.com/search?q=scr&rlz=1C1CHBD_frFR859FR859&oq=scr&aqs=chrome..69i57j69i59j69i60l2&sourceid=chrome&ie=UTF-8N
+	a9abb7e4-3b08-4184-bcf3-55f787226a6ashttps://www.sleuthkit.org/autopsy/download.php
+aahttp://
+\abc123.pid209.167.111.110222.133.3.210216.95.196.22iexplore.exe  http://%s/dc/%d/%d/%d/%d/%d/html%d.htmlin installmyself (moving file)ninstalling over:update.exe updateiexplore.exe  %s/drf%d.htmlsoftware\microsoft\windows\currentversion\runlexmark_x79-55lsasss.exeprocess32firstprocess32nextregopenkeyexaregsetvalueexafindnextfileafindfirstfileaad-watch.exeisafe.execa.execavrid.exeavp.exeavciman.exeavengine.exepavfnsvr.exepavsrv51.exepnmsrv.exepskmssvc.exesrvload.exetpsrv.exewebproxy.exevir.exeswdoctor.exemxtask.exewmiprvse.exehsockpe.exevrfwsvc.exevrmonnt.exefirewallntservice.exespysweeperui.exessu.exewdfdataservice.exewebrootdesktopfirewall.exevsmon.exezlclient.exemcagent.exemcdetect.exemcshield.exemctskshd.exemcvsescn.exempfagent.exemscifapp.exemskagent.exeoasclnt.exe
+access-control-allow-origin:https://connect.facebook.net
+access-control-allow-origin:https://support.techsmith.com
+access-control-allow-origin:https://www.techsmith.fr
+access-control-allow-origin:http://www.googletagmanager.com

@@ -1,0 +1,13 @@
+0x1b1fed68	䒀뾐sers\johnoc\AppData\Roaming\Microsoft\Windows\Recent\invoice.lnk
+0x4cd8fd68	䒀뾐sers\johnoc\AppData\Roaming\Microsoft\Windows\Recent\invoice.lnk
+0x7ce10d70	\Users\johnoc\Downloads\invoice\invoice.docm
+0x7d04f678	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRF{0184EAA1-3D66-4867-AE64-052A4DD92752}.tmp
+0x7d122ba8	\Users\johnoc\AppData\Roaming\Microsoft\Word\AutoRecovery save of invoice.asd
+0x7d2ccf10	\Users\johnoc\Downloads\invoice\invoice.docm
+0x7df41988	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRS{06358FB3-4236-4566-8BC5-AF74EE6DBEA6}.tmp
+0x7f089c68	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRS{4455C7CA-CAD7-41DB-A0DA-AF422766BBEE}.tmp
+0x7f1526d0	\Users\johnoc\AppData\Local\Temp\rad41020.tmp\rfhyMVOQxfc.exe
+0x7f2bc740	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRF{0AC791AC-ADBF-42BC-AC4F-6D7BE96825D9}.tmp
+0x7f2f8f80	\Users\johnoc\AppData\Local\Temp\~DFAF1E8F257B454ED8.TMP
+0x7f30b6c8	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRS{5B449329-E9E6-44C5-AF15-C1D480CED8A8}.tmp
+0x7f38fb58	\Users\johnoc\AppData\Local\Temp\rad5163B.tmp.exe

@@ -1,0 +1,6 @@
+d/d 11170-144-1:	All Users
+d/d 456-144-5:	Default
+d/d 11171-144-1:	Default User
+r/r 11169-128-1:	desktop.ini
+d/d 47-144-5:	johnoc
+d/d 492-144-5:	Public

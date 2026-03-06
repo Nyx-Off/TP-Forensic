@@ -1,0 +1,2430 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:    0.00		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.57		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   35.64		Scanning layer_name using PdbSignatureScannerProgress:   35.74		Scanning layer_name using PdbSignatureScannerProgress:   35.84		Scanning layer_name using PdbSignatureScannerProgress:   35.94		Scanning layer_name using PdbSignatureScannerProgress:   36.04		Scanning layer_name using PdbSignatureScannerProgress:   36.43		Scanning layer_name using PdbSignatureScannerProgress:   36.62		Scanning layer_name using PdbSignatureScannerProgress:   37.60		Scanning layer_name using PdbSignatureScannerProgress:   37.99		Scanning layer_name using PdbSignatureScannerProgress:   38.38		Scanning layer_name using PdbSignatureScannerProgress:   38.87		Scanning layer_name using PdbSignatureScannerProgress:   39.55		Scanning layer_name using PdbSignatureScannerProgress:   40.43		Scanning layer_name using PdbSignatureScannerProgress:   63.38		Scanning layer_name using PdbSignatureScannerProgress:   63.48		Scanning layer_name using PdbSignatureScannerProgress:   63.57		Scanning layer_name using PdbSignatureScannerProgress:   63.67		Scanning layer_name using PdbSignatureScannerProgress:   63.77		Scanning layer_name using PdbSignatureScannerProgress:   63.87		Scanning layer_name using PdbSignatureScannerProgress:   63.96		Scanning layer_name using PdbSignatureScannerProgress:   64.36		Scanning layer_name using PdbSignatureScannerProgress:   64.45		Scanning layer_name using PdbSignatureScannerProgress:   64.55		Scanning layer_name using PdbSignatureScannerProgress:   65.14		Scanning layer_name using PdbSignatureScannerProgress:   65.62		Scanning layer_name using PdbSignatureScannerProgress:   65.72		Scanning layer_name using PdbSignatureScannerProgress:   65.82		Scanning layer_name using PdbSignatureScannerProgress:   66.02		Scanning layer_name using PdbSignatureScannerProgress:   66.41		Scanning layer_name using PdbSignatureScannerProgress:   66.70		Scanning layer_name using PdbSignatureScannerProgress:   66.89		Scanning layer_name using PdbSignatureScannerProgress:   67.38		Scanning layer_name using PdbSignatureScannerProgress:   67.58		Scanning layer_name using PdbSignatureScannerProgress:   67.68		Scanning layer_name using PdbSignatureScannerProgress:   67.77		Scanning layer_name using PdbSignatureScannerProgress:   67.87		Scanning layer_name using PdbSignatureScannerProgress:   67.97		Scanning layer_name using PdbSignatureScannerProgress:   68.07		Scanning layer_name using PdbSignatureScannerProgress:   68.16		Scanning layer_name using PdbSignatureScannerProgress:   68.26		Scanning layer_name using PdbSignatureScannerProgress:   68.36		Scanning layer_name using PdbSignatureScannerProgress:   68.46		Scanning layer_name using PdbSignatureScannerProgress:   68.55		Scanning layer_name using PdbSignatureScannerProgress:   68.65		Scanning layer_name using PdbSignatureScannerProgress:   68.75		Scanning layer_name using PdbSignatureScannerProgress:   68.95		Scanning layer_name using PdbSignatureScannerProgress:   69.04		Scanning layer_name using PdbSignatureScannerProgress:   69.34		Scanning layer_name using PdbSignatureScannerProgress:   69.43		Scanning layer_name using PdbSignatureScannerProgress:   69.53		Scanning layer_name using PdbSignatureScannerProgress:   69.63		Scanning layer_name using PdbSignatureScannerProgress:   69.73		Scanning layer_name using PdbSignatureScannerProgress:   70.21		Scanning layer_name using PdbSignatureScannerProgress:   70.41		Scanning layer_name using PdbSignatureScannerProgress:   70.70		Scanning layer_name using PdbSignatureScannerProgress:   70.90		Scanning layer_name using PdbSignatureScannerProgress:   71.19		Scanning layer_name using PdbSignatureScannerProgress:   71.29		Scanning layer_name using PdbSignatureScannerProgress:   71.68		Scanning layer_name using PdbSignatureScannerProgress:   71.78		Scanning layer_name using PdbSignatureScannerProgress:   71.88		Scanning layer_name using PdbSignatureScannerProgress:   71.97		Scanning layer_name using PdbSignatureScannerProgress:   72.17		Scanning layer_name using PdbSignatureScannerProgress:   72.75		Scanning layer_name using PdbSignatureScannerProgress:   74.02		Scanning layer_name using PdbSignatureScannerProgress:   74.22		Scanning layer_name using PdbSignatureScannerProgress:   74.32		Scanning layer_name using PdbSignatureScannerProgress:   75.20		Scanning layer_name using PdbSignatureScannerProgress:   76.27		Scanning layer_name using PdbSignatureScannerProgress:   79.30		Scanning layer_name using PdbSignatureScannerProgress:   82.81		Scanning layer_name using PdbSignatureScannerProgress:   84.86		Scanning layer_name using PdbSignatureScannerProgress:   85.64		Scanning layer_name using PdbSignatureScannerProgress:   87.30		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+Offset	Name
+
+0x5401278	\Windows\assembly\NativeImages_v2.0.50727_32\napcrypt\09b65f9c3f78e6ef3e259af945e937b9\napcrypt.ni.dll
+0x5401330	⊨뾎꨹dows\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\00c6b5bbc39e13caabaf08e21251da39\Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v10.0.ni.dll
+0x54016c0	\Program Files\QuickTime\QTSystem\QuickTimeCapture.Resources\QuickTimeCapture.qtr
+0x56477ec	
+0x5647a8c	
+0x5a9a398	ந酤ꦠ酳rs\johnoc\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\be3dc4005b863219_0
+0x5a9a4b8	\Windows\System32\cryptbase.dll
+0x5a9a728	\Windows\System32\sspicli.dll
+0x5a9ab38	\Windows\System32
+0x5a9ae18	둀귄㘨飚dows\winsxs\Manifests\x86_policy.9.0.microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_f480bfaef65491a5.manifest
+0x7d061e8	\Device\HarddiskVolume1\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x7d06b70	\$Mft
+0x7d06f80	㶀鸂㱨鸂dows\assembly\GAC_MSIL\UIAutomationTypes\3.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+0x7e111c8	\$Directory
+0x7e11698	\Windows\System32\FXSAPI.dll
+0x7e11958	\Windows\System32\wuapi.dll
+0x7e11d68	Āꑝꩰ蒂dows\assembly\NativeImages_v4.0.30319_32\Temp\b0c-0\System.Workflow.ComponentModel.dll
+0x8318850	ᮈꂐ⮈锯gram Files\QuickTime\QTSystem\QuickTimeAudioSupport.Resources\es.lproj\QuickTimeAudioSupportLocalized.qtr
+0x8318908	㔹䙆㙁㐶㕁㑄䅄㈳䅁䐸㝃㕆䐴㑃C:\Program Files\QuickTime\QTSystem\QuickTimeEssentials.Resources\ru.lproj\QuickTimeEssenti
+0xa5a6aa0	\Windows\System32\localspl.dll
+0xa5a6ba0	\Windows\Registration\R000000000006.clb
+0xa5a6f80	\$Directory
+0xaa3f2d8	\Windows\assembly\NativeImages_v2.0.50727_32\PresentationBuildTa#\c0a8f3f379d7a62a032783cc4e04a4dd\PresentationBuildTasks.ni.dll
+0xaa3fa60	\Program Files\Microsoft Office\Office15\1033\MAPISHELLR.DLL
+0xaa3fce0	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Private Character Editor.lnk
+0xc6a70a0	\Windows\System32\authui.dll
+0xc6a7158	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+0xc6a75f0	\Windows\Registration\R000000000006.clb
+0xc6a79f0	\$Directory
+0xc6a7f80	�蹩ㅰ껔dows\Microsoft.NET\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll
+0xc6e51c8	\$Directory
+0xc6e5698	\Windows\System32\FXSAPI.dll
+0xc6e5958	\Windows\System32\wuapi.dll
+0xc6e5d68	Āꑝꩰ蒂dows\assembly\NativeImages_v4.0.30319_32\Temp\b0c-0\System.Workflow.ComponentModel.dll
+0xcb56188	
+0xcbad990	\Windows\System32\msidle.dll
+0xcbade00	\Windows\System32\en-US\KernelBase.dll.mui
+0xd3be170	\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.VisualC\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualC.Dll
+0xd3be468	\$Directory
+0xd3bed58	印뾟rogram Files\QuickTime\QTSystem\QuickTimeAudioSupport.Resources\zh_CN.lproj\QuickTimeAudioSupportLocalized.dll
+0xeb83398	ந酤ꦠ酳rs\johnoc\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\be3dc4005b863219_0
+0xeb834b8	\Windows\System32\cryptbase.dll
+0xeb83728	\Windows\System32\sspicli.dll
+0xeb83b38	\Windows\System32
+0xeb83e18	둀귄㘨飚dows\winsxs\Manifests\x86_policy.9.0.microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_f480bfaef65491a5.manifest
+0xed80748	◈锱쯈飓dows\Fonts\ARIALUNI.TTF
+0xee50288	
+0xf124458	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0xf124710	䀈ꅁsers\desktop.ini
+0xf124f10	\Windows\System32\SearchProtocolHost.exe
+0xf2d9d70	ຨ舑indows\assembly\NativeImages_v4.0.30319_32\PresentationCore\3963e9ce8d44f5
+0xf763a08	\$Directory
+0xf763b50	\Program Files\Common Files\microsoft shared\OFFICE15\1033\MSOINTL.DLL
+0x10ffa668	\$Directory
+0x10ffa7d0	Ө뾕ジꂓgram Files\Common Files\microsoft shared\ink\en-US\mip.exe.mui
+0x110119a8	KtmLog
+0x11011b10	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x11011f80	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x11389bf0	\Users\johnoc\AppData\Local\Microsoft\Credentials
+0x11389ca8	\Windows\System32\rstrui.exe
+0x1221ef80	\Program Files\Microsoft Office\Office15\MSWORD.OLB
+0x12653620	렠飙롰蹰dows\assembly\GAC_MSIL\ehiExtens\6.1.0.0__31bf3856ad364e35\ehiExtens.dll
+0x12653740	Store\MACHINE\SOFTWARE\Policies\Microso
+0x12653838	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010003.wsb
+0x131bfd68	幈醓indows\System32\en-US\accessibilitycpl.dll.mui
+0x131bff80	\$Directory
+0x14598668	\$Directory
+0x145987d0	Ө뾕ジꂓgram Files\Common Files\microsoft shared\ink\en-US\mip.exe.mui
+0x1542b7a0	\$Directory
+0x1542b8d8	\Windows\System32\config\RegBack\SYSTEM
+0x15c29f80	䜐镶줰與dows\assembly\NativeImages_v4.0.30319_32\Temp\840-0\Microsoft.VisualBasic.Compatibility.dll
+0x160e72f8	⢨ꨣindows\assembly\NativeImages_v2.0.50727_32\System.Windows.Forms\3afcd5168c7a6cb02eab99d7fd71e102\System.Windows.Forms.ni.dll
+0x165e1ec8	\Windows\System32\en-US\ActionCenter.dll.mui
+0x165e1f80	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x167bee60	\$Directory
+0x167bef80	㸠餢囐귕dows\System32\drivers\mssmbios.sys
+0x16ac13c0	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Control Panel.lnk
+0x16ac1a28	㐰ꂕindows\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\a933cd1241698e4d13d80c8cb31d7055\System.Data.Services.Client.ni.dll
+0x177e82b0	\Windows\System32\en-US\zipfldr.dll.mui
+0x177e84c0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010002.wid
+0x177e88f0	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Data.Services.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Services.Design.dll
+0x177e8ad8	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.ci
+0x177e8b90	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.wid
+0x17bfda08	\Windows\System32\fveui.dll
+0x17bfdcc8	\Windows\System32\WMVCORE.DLL
+0x17bfdf80	\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0\9.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0.dll
+0x182a1cb0	\Windows\System32\bitsigd.dll
+0x182a1d68	\Endpoint
+0x182a1f80	\Windows\System32\en-US\mshtml.dll.mui
+0x187359a8	KtmLog
+0x18735b10	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x18735f80	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x1882a1f8	\Windows\System32\config\systemprofile\AppData\Roaming\Microsoft\SystemCertificates\My
+0x188dc220	\Windows\assembly\GAC_32\naphlpr\6.1.0.0__31bf3856ad364e35\NAPHLPR.DLL
+0x188dc358	\Windows\assembly\NativeImages_v4.0.30319_32\Temp\9f0-0\Microsoft.Transactions.Bridge.dll
+0x188dcf80	襈ꋄsers\johnoc\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\ac35d85fa6bf4743_0
+0x18cd6ec8	\Windows\System32\en-US\ActionCenter.dll.mui
+0x18cd6f80	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x18d891f8	\Windows\System32\config\systemprofile\AppData\Roaming\Microsoft\SystemCertificates\My
+0x19472350	\ProtectedPrefix\LocalService
+0x19472408	\ProtectedPrefix\Administrators
+0x194724c0	\ProtectedPrefix\Administrators
+0x19472578	\Windows\System32\azroles.dll
+0x19801bb0	\Windows\System32\NlsLexicons001a.dll
+0x19bc3268	᧰ꋅindows\assembly\GAC_MSIL\System.Data.Entity.Design\3.5.0.0__b77a5c561934e089\System.Data.Entity.Design.dll
+0x19bc3cb0	\Windows\System32\qmgr.dll
+0x19bc3d68	\Windows\System32\winevt\Logs\Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+0x19c1d540	꟠껃indows\assembly\GAC_MSIL\napsnap\6.1.0.0__31bf3856ad364e35\NAPSNAP.DLL
+0x19c1d8e0	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F5F320A94D4D2B4465D8F17E2BB2D351_EEB091E49A392DEF273207C26B4CB1D3
+0x1a2c28d8	垘꘰rogramData\Microsoft\Windows\Start Menu\Programs\desktop.ini
+0x1a2c2b98	\Windows\Resources\Themes\Aero\Shell\NormalColor\shellstyle.dll
+0x1a9333c8	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\6BADA8974A10C4BD62CC921D13E43B18_D9817BD5013875AD517DA73475345203
+0x1a9336b0	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\CFE86DBBE02D859DC92F1E17E0574EE8_FDB452422670E72EDD3FB3D65568F821
+0x1a933f80	\Program Files\Common Files\microsoft shared\OFFICE15\MSOXMLMF.DLL
+0x1aa6ef40	䮠镯컐舃dows\System32\wups2.dll
+0x1ada6770	\Users\johnoc\Videos\desktop.ini
+0x1ada6908	\Windows\System32\migwiz\wet.dll
+0x1ae2fbb0	\Windows\System32\NlsLexicons001a.dll
+0x1b1fe1b0	\Windows\System32\sppsvc.exe
+0x1b1fe480	\Users\johnoc\AppData\Local\Microsoft\Windows\WER\ReportArchive
+0x1b1fe7e8	\MsFteWds
+0x1b1fec90	\Windows\Microsoft.NET\Framework\v2.0.50727\mscorjit.dll
+0x1b1fed68	䒀뾐sers\johnoc\AppData\Roaming\Microsoft\Windows\Recent\invoice.lnk
+0x1b2756c8	\Windows\Fonts\simsun.ttc
+0x1b275910	\Windows\Fonts\msmincho.ttc
+0x1b275b20	\Windows\Fonts\segoeui.ttf
+0x1b9c92b0	\Windows\System32\en-US\zipfldr.dll.mui
+0x1b9c94c0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010002.wid
+0x1b9c98f0	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Data.Services.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Services.Design.dll
+0x1b9c9ad8	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.ci
+0x1b9c9b90	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.wid
+0x1cdd57e0	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Web.Entity.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Web.Entity.Design.dll
+0x1d4511d0	≀ꂁ䄠귑dows\servicing\Packages\Microsoft-Windows-RasRip-Package~31bf3856ad364e35~x86~en-US~6.1.7601.17514.mum
+0x1d4512a8	\Windows\System32\hcproviders.dll
+0x1d451938	㮸ꪩ냰飆dows\System32\synceng.dll
+0x1d451e58	\Windows\Registration\R000000000006.clb
+0x1d471bf0	\Users\johnoc\AppData\Local\Microsoft\Credentials
+0x1d471ca8	\Windows\System32\rstrui.exe
+0x1f802128	\Windows\System32\drivers\cdrom.sys
+0x1f802280	\Windows\servicing\Packages\Microsoft-Windows-ClipsInTheLibrary-Package~31bf3856ad364e35~x86~~6.1.7601.17514.mum
+0x1f8024b0	TxfLog
+0x1f802c30	\Windows\System32\iscsicpl.dll
+0x1f802f10	逈ꥳ೰귊gramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\SecStore\CiST0000.002
+0x1fb5d940	뼈ꋚ荸蒂dows\assembly\GAC_MSIL\System.Data.Services.Design\3.5.0.0__b77a5c561934e089\System.Data.Services.Design.dll
+0x1fe88420	\Program Files\Microsoft Office\Office15\1033\OUTLLIBR.DLL
+0x1fe88658	\Program Files\Microsoft Office\Office15\1033\WWINTL.DLL
+0x1fe88cc0	酷买镻rs\johnoc\AppData\Roaming\Microsoft\Windows\SendTo\Desktop.ini
+0x1fe88e60	\Program Files\Common Files\microsoft shared\ink\en-US\TipTsf.dll.mui
+0x20283210	\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x20283f80	\$Directory
+0x20646148	\Endpoint
+0x206462a8	쪿indows\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\d391be35fb1ffa896e35f42f325e7c1d\Microsoft.VisualStudio.Tools.Applications.Contract.v9.0.ni.dll
+0x206466f8	\Program Files\Internet Explorer\iexplore.exe
+0x20646a48	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x20646d90	교锧鬸봤dows\System32\eventvwr.exe
+0x20c40e50	\Windows\System32\twext.dll
+0x21c1b6f8	\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 Tools\Telemetry Dashboard for Office 2013.lnk
+0x21daf100	ꑐꨣindows\assembly\GAC_32\Mcx2Dvcs\6.1.0.0__31bf3856ad364e35\Mcx2Dvcs.dll
+0x21dafc08	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.wid
+0x21dafcc0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.dir
+0x21db4210	\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x21db4f80	\$Directory
+0x228434c8	\$Directory
+0x22843878	\Windows\System32\input.dll
+0x232a45d0	\Windows\Fonts\cambria.ttc
+0x232a4890	怈꨹indows\assembly\GAC_MSIL\System.Data.SqlXml\2.0.0.0__b77a5c561934e089\System.Data.SqlXml.dll
+0x233a52a0	ម舑indows\System32\d3d8thk.dll
+0x233a5e68	교蹴indows\assembly\NativeImages_v2.0.50727_32\System.Web.Routing\165d0873203da280298bfcfa50567a0b\System.Web.Routing.ni.dll
+0x2372b1a0	\$Directory
+0x2375bec8	\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll
+0x23c8ba58	犰ꂇindows\servicing\Packages\Microsoft-Windows-Indexing-Service-Package~31bf3856ad364e35~x86~en-US~6.1.7601.17514.mum
+0x23c9aec8	\Windows\Branding\Basebrd\basebrd.dll
+0x244f6568	\Windows\servicing\Packages\Microsoft-Windows-BLB-Client-Package~31bf3856ad364e35~x86~~6.1.7601.17514.mum
+0x244f6620	岀뻐rogramData\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk
+0x24729e60	\$Directory
+0x24729f80	㸠餢囐귕dows\System32\drivers\mssmbios.sys
+0x2477bf80	\Windows\System32\scrrun.dll
+0x248852e8	铜indows\servicing\Packages\Microsoft-Windows-OpticalMediaDisc-Package~31bf3856ad364e35~x86~~6.1.7601.17514.mum
+0x24885b58	吀ꥡindows\Microsoft.NET\assembly\GAC_MSIL\System.Runtime.Serialization.Formatters.Soap\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Serialization.Formatters.Soap.dll
+0x2491ab90	\ProgramData\Microsoft\Search\Data\Applications\Windows\GatherLogs\SystemIndex\SystemIndex.3.Crwl
+0x2491ac88	\Windows\servicing\Packages\Microsoft-Windows-TabletPC-OC-Package~31bf3856ad364e35~x86~en-US~6.1.7601.17514.mum
+0x24d77200	〈ꕷ舒dows\System32\catroot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\ntexe.cat
+0x24d77318	\Windows\assembly\GAC_MSIL\Microsoft.Office.Tools.Excel.v9.0\9.0.0.0__b03f5f7f11d50a3a\Microsoft.Office.Tools.Excel.v9.0.dll
+0x24d77488	\Windows\System32\AltTab.dll
+0x24d77608	槠귟铟dows\assembly\GAC_MSIL\AspNetMMCExt\2.0.0.0__b03f5f7f11d50a3a\AspNetMMCExt.dll
+0x24dde3c0	\Windows\System32\en-US\MdSched.exe.mui
+0x24dde9a8	볈蒂ኀ뾎dows\assembly\GAC_MSIL\Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0\9.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0.dll
+0x24ddef80	\Windows\System32\pnidui.dll
+0x254b7298	Ӹꂆindows\Microsoft.NET\assembly\GAC_MSIL\System.Data.SqlXml\v4.0_4.0.0.0__b77a5c561934e089\System.Data.SqlXml.dll
+0x254b78e0	\Windows\System32\wuaueng.dll
+0x258fd210	\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x258fdf80	\$Directory
+0x2608d9a8	\Endpoint
+0x26a51038	澈酸indows\assembly\GAC_MSIL\Microsoft.Build.Tasks\2.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Tasks.dll
+0x26a51310	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Data.Services.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Services.Design.dll
+0x26a51c80	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.configuration.dll
+0x26be5270	딐鳗indows\System32\en-US\httpapi.dll.mui
+0x26bf3290	\$ConvertToNonresident
+0x26bf3ca0	\Program Files\Microsoft Office\Office15\MSPST32.DLL
+0x276e2308	\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat{cd3cc656-adc7-11e9-bbbb-005056fc02f2}.TMContainer00000000000000000001.regtrans-ms
+0x27d3f258	擨쪮ᮨ鳟dows\assembly\NativeImages_v2.0.50727_32\MIGUIControls\569e273efda8306ec7e22143d5285476\MIGUIControls.ni.dll
+0x27d3fb70	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\7D266D9E1E69FA1EEFB9699B009B34C8_0A9BFDD75B598C2110CBF610C078E6E6
+0x27d3ff80	\Windows\assembly\NativeImages_v4.0.30319_32\System.Printing\eb9369fc9393d2
+0x283562b8	\Windows\System32\normaliz.dll
+0x28356560	\Windows\System32\comdlg32.dll
+0x28356918	\Windows\System32\nsi.dll
+0x28356b00	\Windows\System32\setupapi.dll
+0x28356dd8	\Windows\System32\shlwapi.dll
+0x28356f80	\Device\HarddiskVolume2\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat{cd3cc656-adc7-11e9-bbbb-005056fc02f2}.TM
+0x285fb738	\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat{cd3cc656-adc7-11e9-bbbb-005056fc02f2}.TM.blf
+0x285fbf10	\Windows\System32\en-US\oleaccrc.dll.mui
+0x28938740	⥸뾗怈飇dows\assembly\GAC_MSIL\System.ServiceProcess\2.0.0.0__b03f5f7f11d50a3a\System.ServiceProcess.dll
+0x28938e10	뻈ꄘꂎrs\johnoc\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-4052921086-732667259-1946374124-1000\d59f89d940a2fa39300454dee72c7147_c806b471-09f9-4366-b2e1-d4dfca994319
+0x28c7ba28	\Windows\System32\en-US\gameux.dll.mui
+0x28c7bd10	\Windows\System32\WindowsCodecsExt.dll
+0x28c975f8	\Windows\assembly\GAC_MSIL\TaskScheduler\6.1.0.0__31bf3856ad364e35\TaskScheduler.dll
+0x292311c8	\$Directory
+0x29231698	\Windows\System32\FXSAPI.dll
+0x29231958	\Windows\System32\wuapi.dll
+0x29231d68	Āꑝꩰ蒂dows\assembly\NativeImages_v4.0.30319_32\Temp\b0c-0\System.Workflow.ComponentModel.dll
+0x299ce278	\Program Files\Windows Defender\MpOAV.dll
+0x299ce468	\Users\johnoc\Favorites\Links\desktop.ini
+0x299ce9d8	\Windows\System32\notepad.exe
+0x29ca7b20	\Program Files\Google\Chrome\Application\75.0.3770.142\d3dcompiler_47.dll
+0x29ca7f00	\Windows\Registration\R000000000006.clb
+0x29e01f40	䮠镯컐舃dows\System32\wups2.dll
+0x2a05fc30	\Windows\System32\SearchIndexer.exe
+0x2a870a00	\$MftMirr
+0x2a870c68	\Windows\System32\davhlpr.dll
+0x2af3a460	\Windows\System32\msconfig.exe
+0x2b16f0c0	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x2b16f478	\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.Windows.D#\8ac2425807a71c8133cfe1d40ba9ba67\Microsoft.Windows.Diagnosis.Commands.UpdateDiagRootcause.ni.dll
+0x2b16f5a0	\Windows\assembly\NativeImages_v4.0.30319_32\System.Xaml\035910922f160d
+0x2b16f778	\Windows\System32\en-US\bthprops.cpl.mui
+0x2b330a00	輈꨷indows\assembly\GAC_MSIL\Microsoft.WSMan.Runtime\1.0.0.0__31bf3856ad364e35\Microsoft.WSMan.Runtime.dll
+0x2ba241e0	\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat{cd3cc656-adc7-11e9-bbbb-005056fc02f2}.TMContainer00000000000000000002.regtrans-ms
+0x2ba24650	\$Directory
+0x2ba24a00	\Windows\System32\wwanmm.dll
+0x2bd4c9f0	\ProgramData\Microsoft\Windows Defender\Definition Updates\{4A914D27-2C33-4FD8-9CFD-A97728ECCE77}\mpasdlta.vdm
+0x2bd4cda0	\Windows\assembly\NativeImages_v2.0.50727_32\System.Web.Abstract#\3112fe15b1994ff59b169cf7ce997e71\System.Web.Abstractions.ni.dll
+0x2e437170	\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.VisualC\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualC.Dll
+0x2e437468	\$Directory
+0x2e437d58	印뾟rogram Files\QuickTime\QTSystem\QuickTimeAudioSupport.Resources\zh_CN.lproj\QuickTimeAudioSupportLocalized.dll
+0x304357e0	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Web.Entity.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Web.Entity.Design.dll
+0x30a463c8	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\6BADA8974A10C4BD62CC921D13E43B18_D9817BD5013875AD517DA73475345203
+0x30a466b0	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\CFE86DBBE02D859DC92F1E17E0574EE8_FDB452422670E72EDD3FB3D65568F821
+0x30a46f80	\Program Files\Common Files\microsoft shared\OFFICE15\MSOXMLMF.DLL
+0x314769f0	\ProgramData\Microsoft\Windows Defender\Definition Updates\{4A914D27-2C33-4FD8-9CFD-A97728ECCE77}\mpasdlta.vdm
+0x31476da0	\Windows\assembly\NativeImages_v2.0.50727_32\System.Web.Abstract#\3112fe15b1994ff59b169cf7ce997e71\System.Web.Abstractions.ni.dll
+0x321400a0	\Windows\System32\authui.dll
+0x32140158	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+0x321405f0	\Windows\Registration\R000000000006.clb
+0x321409f0	\$Directory
+0x32140f80	�蹩ㅰ껔dows\Microsoft.NET\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll
+0x32826748	◈锱쯈飓dows\Fonts\ARIALUNI.TTF
+0x32dc35d0	\Windows\Fonts\cambria.ttc
+0x32dc3890	怈꨹indows\assembly\GAC_MSIL\System.Data.SqlXml\2.0.0.0__b77a5c561934e089\System.Data.SqlXml.dll
+0x354e1128	\Windows\System32\drivers\cdrom.sys
+0x354e1280	\Windows\servicing\Packages\Microsoft-Windows-ClipsInTheLibrary-Package~31bf3856ad364e35~x86~~6.1.7601.17514.mum
+0x354e14b0	TxfLog
+0x354e1c30	\Windows\System32\iscsicpl.dll
+0x354e1f10	逈ꥳ೰귊gramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\SecStore\CiST0000.002
+0x35a58298	Ӹꂆindows\Microsoft.NET\assembly\GAC_MSIL\System.Data.SqlXml\v4.0_4.0.0.0__b77a5c561934e089\System.Data.SqlXml.dll
+0x35a588e0	\Windows\System32\wuaueng.dll
+0x36283420	\Program Files\Microsoft Office\Office15\1033\OUTLLIBR.DLL
+0x36283658	\Program Files\Microsoft Office\Office15\1033\WWINTL.DLL
+0x36283cc0	酷买镻rs\johnoc\AppData\Roaming\Microsoft\Windows\SendTo\Desktop.ini
+0x36283e60	\Program Files\Common Files\microsoft shared\ink\en-US\TipTsf.dll.mui
+0x363f21a0	\$Directory
+0x36412188	
+0x36c4d990	\Windows\System32\msidle.dll
+0x36c4de00	\Windows\System32\en-US\KernelBase.dll.mui
+0x393051c8	\$Directory
+0x39305698	\Windows\System32\FXSAPI.dll
+0x39305958	\Windows\System32\wuapi.dll
+0x39305d68	Āꑝꩰ蒂dows\assembly\NativeImages_v4.0.30319_32\Temp\b0c-0\System.Workflow.ComponentModel.dll
+0x3a9b8128	\Windows\System32\drivers\cdrom.sys
+0x3a9b8280	\Windows\servicing\Packages\Microsoft-Windows-ClipsInTheLibrary-Package~31bf3856ad364e35~x86~~6.1.7601.17514.mum
+0x3a9b84b0	TxfLog
+0x3a9b8c30	\Windows\System32\iscsicpl.dll
+0x3a9b8f10	逈ꥳ೰귊gramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\SecStore\CiST0000.002
+0x3c680268	᧰ꋅindows\assembly\GAC_MSIL\System.Data.Entity.Design\3.5.0.0__b77a5c561934e089\System.Data.Entity.Design.dll
+0x3c680cb0	\Windows\System32\qmgr.dll
+0x3c680d68	\Windows\System32\winevt\Logs\Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+0x3cbeb1a0	\$Directory
+0x3da07bf0	\Users\johnoc\AppData\Local\Microsoft\Credentials
+0x3da07ca8	\Windows\System32\rstrui.exe
+0x3e11e1f8	\Windows\System32\config\systemprofile\AppData\Roaming\Microsoft\SystemCertificates\My
+0x3e405a00	\$MftMirr
+0x3e405c68	\Windows\System32\davhlpr.dll
+0x3fc13278	\Windows\assembly\NativeImages_v2.0.50727_32\napcrypt\09b65f9c3f78e6ef3e259af945e937b9\napcrypt.ni.dll
+0x3fc13330	⊨뾎꨹dows\assembly\NativeImages_v2.0.50727_32\Microsoft.VisualStu#\00c6b5bbc39e13caabaf08e21251da39\Microsoft.VisualStudio.Tools.Applications.AddInAdapter.v10.0.ni.dll
+0x3fc136c0	\Program Files\QuickTime\QTSystem\QuickTimeCapture.Resources\QuickTimeCapture.qtr
+0x41ea8278	\Program Files\Windows Defender\MpOAV.dll
+0x41ea8468	\Users\johnoc\Favorites\Links\desktop.ini
+0x41ea89d8	\Windows\System32\notepad.exe
+0x42c0a3c0	\Windows\System32\en-US\MdSched.exe.mui
+0x42c0a9a8	볈蒂ኀ뾎dows\assembly\GAC_MSIL\Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0\9.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0.dll
+0x42c0af80	\Windows\System32\pnidui.dll
+0x434533c8	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\6BADA8974A10C4BD62CC921D13E43B18_D9817BD5013875AD517DA73475345203
+0x434536b0	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\CFE86DBBE02D859DC92F1E17E0574EE8_FDB452422670E72EDD3FB3D65568F821
+0x43453f80	\Program Files\Common Files\microsoft shared\OFFICE15\MSOXMLMF.DLL
+0x434b70a0	\Windows\System32\authui.dll
+0x434b7158	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+0x434b75f0	\Windows\Registration\R000000000006.clb
+0x434b79f0	\$Directory
+0x434b7f80	�蹩ㅰ껔dows\Microsoft.NET\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll
+0x43fef6f8	\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 Tools\Telemetry Dashboard for Office 2013.lnk
+0x468864c8	\$Directory
+0x46886878	\Windows\System32\input.dll
+0x46b6e2b8	\Windows\System32\normaliz.dll
+0x46b6e560	\Windows\System32\comdlg32.dll
+0x46b6e918	\Windows\System32\nsi.dll
+0x46b6eb00	\Windows\System32\setupapi.dll
+0x46b6edd8	\Windows\System32\shlwapi.dll
+0x46b6ef80	\Device\HarddiskVolume2\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat{cd3cc656-adc7-11e9-bbbb-005056fc02f2}.TM
+0x478fef80	䜐镶줰與dows\assembly\NativeImages_v4.0.30319_32\Temp\840-0\Microsoft.VisualBasic.Compatibility.dll
+0x47ad29a8	KtmLog
+0x47ad2b10	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x47ad2f80	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x49640bb0	\Windows\System32\NlsLexicons001a.dll
+0x4978a6f8	\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 Tools\Telemetry Dashboard for Office 2013.lnk
+0x49da4f80	\Windows\System32\scrrun.dll
+0x4aa472e8	铜indows\servicing\Packages\Microsoft-Windows-OpticalMediaDisc-Package~31bf3856ad364e35~x86~~6.1.7601.17514.mum
+0x4aa47b58	吀ꥡindows\Microsoft.NET\assembly\GAC_MSIL\System.Runtime.Serialization.Formatters.Soap\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Serialization.Formatters.Soap.dll
+0x4ac52b90	\ProgramData\Microsoft\Search\Data\Applications\Windows\GatherLogs\SystemIndex\SystemIndex.3.Crwl
+0x4ac52c88	\Windows\servicing\Packages\Microsoft-Windows-TabletPC-OC-Package~31bf3856ad364e35~x86~en-US~6.1.7601.17514.mum
+0x4c7c0a00	\$MftMirr
+0x4c7c0c68	\Windows\System32\davhlpr.dll
+0x4cd8f1b0	\Windows\System32\sppsvc.exe
+0x4cd8f480	\Users\johnoc\AppData\Local\Microsoft\Windows\WER\ReportArchive
+0x4cd8f7e8	\MsFteWds
+0x4cd8fc90	\Windows\Microsoft.NET\Framework\v2.0.50727\mscorjit.dll
+0x4cd8fd68	䒀뾐sers\johnoc\AppData\Roaming\Microsoft\Windows\Recent\invoice.lnk
+0x4ce76288	
+0x4d2359f0	\ProgramData\Microsoft\Windows Defender\Definition Updates\{4A914D27-2C33-4FD8-9CFD-A97728ECCE77}\mpasdlta.vdm
+0x4d235da0	\Windows\assembly\NativeImages_v2.0.50727_32\System.Web.Abstract#\3112fe15b1994ff59b169cf7ce997e71\System.Web.Abstractions.ni.dll
+0x4f541288	
+0x5045b2b0	\Windows\System32\en-US\zipfldr.dll.mui
+0x5045b4c0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010002.wid
+0x5045b8f0	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Data.Services.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Services.Design.dll
+0x5045bad8	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.ci
+0x5045bb90	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.wid
+0x515b01f8	\Windows\System32\config\systemprofile\AppData\Roaming\Microsoft\SystemCertificates\My
+0x51a51748	◈锱쯈飓dows\Fonts\ARIALUNI.TTF
+0x5206e3c0	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Control Panel.lnk
+0x5206ea28	㐰ꂕindows\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\a933cd1241698e4d13d80c8cb31d7055\System.Data.Services.Client.ni.dll
+0x52201a58	犰ꂇindows\servicing\Packages\Microsoft-Windows-Indexing-Service-Package~31bf3856ad364e35~x86~en-US~6.1.7601.17514.mum
+0x52700738	\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat{cd3cc656-adc7-11e9-bbbb-005056fc02f2}.TM.blf
+0x52700f10	\Windows\System32\en-US\oleaccrc.dll.mui
+0x534fe038	澈酸indows\assembly\GAC_MSIL\Microsoft.Build.Tasks\2.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Tasks.dll
+0x534fe310	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Data.Services.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Services.Design.dll
+0x534fec80	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.configuration.dll
+0x5566fa00	輈꨷indows\assembly\GAC_MSIL\Microsoft.WSMan.Runtime\1.0.0.0__31bf3856ad364e35\Microsoft.WSMan.Runtime.dll
+0x558b9770	\Users\johnoc\Videos\desktop.ini
+0x558b9908	\Windows\System32\migwiz\wet.dll
+0x56210a28	\Windows\System32\en-US\gameux.dll.mui
+0x56210d10	\Windows\System32\WindowsCodecsExt.dll
+0x56cd7a00	\$MftMirr
+0x56cd7c68	\Windows\System32\davhlpr.dll
+0x57c4ce50	\Windows\System32\twext.dll
+0x599abd70	ຨ舑indows\assembly\NativeImages_v4.0.30319_32\PresentationCore\3963e9ce8d44f5
+0x5a8f77a0	\$Directory
+0x5a8f78d8	\Windows\System32\config\RegBack\SYSTEM
+0x5bce2270	딐鳗indows\System32\en-US\httpapi.dll.mui
+0x5c450ec8	\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll
+0x5d282b20	\Program Files\Google\Chrome\Application\75.0.3770.142\d3dcompiler_47.dll
+0x5d282f00	\Windows\Registration\R000000000006.clb
+0x5d30e350	\ProtectedPrefix\LocalService
+0x5d30e408	\ProtectedPrefix\Administrators
+0x5d30e4c0	\ProtectedPrefix\Administrators
+0x5d30e578	\Windows\System32\azroles.dll
+0x5dc19220	\Windows\assembly\GAC_32\naphlpr\6.1.0.0__31bf3856ad364e35\NAPHLPR.DLL
+0x5dc19358	\Windows\assembly\NativeImages_v4.0.30319_32\Temp\9f0-0\Microsoft.Transactions.Bridge.dll
+0x5dc19f80	襈ꋄsers\johnoc\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\ac35d85fa6bf4743_0
+0x637c9d70	ຨ舑indows\assembly\NativeImages_v4.0.30319_32\PresentationCore\3963e9ce8d44f5
+0x65275460	\Windows\System32\msconfig.exe
+0x654e71d0	≀ꂁ䄠귑dows\servicing\Packages\Microsoft-Windows-RasRip-Package~31bf3856ad364e35~x86~en-US~6.1.7601.17514.mum
+0x654e72a8	\Windows\System32\hcproviders.dll
+0x654e7938	㮸ꪩ냰飆dows\System32\synceng.dll
+0x654e7e58	\Windows\Registration\R000000000006.clb
+0x67781568	\Windows\servicing\Packages\Microsoft-Windows-BLB-Client-Package~31bf3856ad364e35~x86~~6.1.7601.17514.mum
+0x67781620	岀뻐rogramData\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk
+0x67b0a9a8	\Endpoint
+0x67cb9038	澈酸indows\assembly\GAC_MSIL\Microsoft.Build.Tasks\2.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Tasks.dll
+0x67cb9310	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Data.Services.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Services.Design.dll
+0x67cb9c80	\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.configuration.dll
+0x69535170	\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.VisualC\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualC.Dll
+0x69535468	\$Directory
+0x69535d58	印뾟rogram Files\QuickTime\QTSystem\QuickTimeAudioSupport.Resources\zh_CN.lproj\QuickTimeAudioSupportLocalized.dll
+0x69fcd940	뼈ꋚ荸蒂dows\assembly\GAC_MSIL\System.Data.Services.Design\3.5.0.0__b77a5c561934e089\System.Data.Services.Design.dll
+0x6b1f2f40	䮠镯컐舃dows\System32\wups2.dll
+0x6d3700c0	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x6d370478	\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.Windows.D#\8ac2425807a71c8133cfe1d40ba9ba67\Microsoft.Windows.Diagnosis.Commands.UpdateDiagRootcause.ni.dll
+0x6d3705a0	\Windows\assembly\NativeImages_v4.0.30319_32\System.Xaml\035910922f160d
+0x6d370778	\Windows\System32\en-US\bthprops.cpl.mui
+0x6e2a6a58	犰ꂇindows\servicing\Packages\Microsoft-Windows-Indexing-Service-Package~31bf3856ad364e35~x86~en-US~6.1.7601.17514.mum
+0x6ec04200	〈ꕷ舒dows\System32\catroot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\ntexe.cat
+0x6ec04318	\Windows\assembly\GAC_MSIL\Microsoft.Office.Tools.Excel.v9.0\9.0.0.0__b03f5f7f11d50a3a\Microsoft.Office.Tools.Excel.v9.0.dll
+0x6ec04488	\Windows\System32\AltTab.dll
+0x6ec04608	槠귟铟dows\assembly\GAC_MSIL\AspNetMMCExt\2.0.0.0__b03f5f7f11d50a3a\AspNetMMCExt.dll
+0x6ed670a0	\Windows\System32\authui.dll
+0x6ed67158	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+0x6ed675f0	\Windows\Registration\R000000000006.clb
+0x6ed679f0	\$Directory
+0x6ed67f80	�蹩ㅰ껔dows\Microsoft.NET\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll
+0x6fa590a0	\Windows\System32\authui.dll
+0x6fa59158	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+0x6fa595f0	\Windows\Registration\R000000000006.clb
+0x6fa599f0	\$Directory
+0x6fa59f80	�蹩ㅰ껔dows\Microsoft.NET\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll
+0x710e81c8	\$Directory
+0x710e8698	\Windows\System32\FXSAPI.dll
+0x710e8958	\Windows\System32\wuapi.dll
+0x710e8d68	Āꑝꩰ蒂dows\assembly\NativeImages_v4.0.30319_32\Temp\b0c-0\System.Workflow.ComponentModel.dll
+0x717fbc30	\Windows\System32\SearchIndexer.exe
+0x72210740	⥸뾗怈飇dows\assembly\GAC_MSIL\System.ServiceProcess\2.0.0.0__b03f5f7f11d50a3a\System.ServiceProcess.dll
+0x72210e10	뻈ꄘꂎrs\johnoc\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-4052921086-732667259-1946374124-1000\d59f89d940a2fa39300454dee72c7147_c806b471-09f9-4366-b2e1-d4dfca994319
+0x772a43c0	\Windows\System32\en-US\MdSched.exe.mui
+0x772a49a8	볈蒂ኀ뾎dows\assembly\GAC_MSIL\Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0\9.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Tools.Office.Excel.AddInAdapter.v9.0.dll
+0x772a4f80	\Windows\System32\pnidui.dll
+0x788cf990	\Windows\System32\msidle.dll
+0x788cfe00	\Windows\System32\en-US\KernelBase.dll.mui
+0x789283c0	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Control Panel.lnk
+0x78928a28	㐰ꂕindows\assembly\NativeImages_v2.0.50727_32\System.Data.Service#\a933cd1241698e4d13d80c8cb31d7055\System.Data.Services.Client.ni.dll
+0x794eaa58	犰ꂇindows\servicing\Packages\Microsoft-Windows-Indexing-Service-Package~31bf3856ad364e35~x86~en-US~6.1.7601.17514.mum
+0x7af526f8	\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 Tools\Telemetry Dashboard for Office 2013.lnk
+0x7bc107e8	\Windows\System32\apisetschema.dll
+0x7be8ee38	\$Directory
+0x7beba890	\Users\johnoc\Documents\Imager_Lite_3.1.1\icuuc44.dll
+0x7becc790	\$Directory
+0x7becca68	\$Directory
+0x7bedd038	\Endpoint
+0x7bedd1b8	\Windows\System32\msvcr100.dll
+0x7bedd270	\Windows\System32\msscntrs.dll
+0x7beddcd8	\Windows\System32\msdtcuiu.dll
+0x7bee9dd0	\Windows\System32\msprivs.dll
+0x7beea9c8	\Windows\System32\en-US\wucltux.dll.mui
+0x7beeaf80	\Windows\System32\en-US\fsquirt.exe.mui
+0x7bf11570	\System Volume Information\{3808876b-c176-4e48-b7ae-04046e6cc752}
+0x7bf14028	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000002
+0x7bf14470	\Device\HarddiskVolume2\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x7bf147c0	\$Directory
+0x7bf14868	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000001
+0x7bf5ef80	\$Directory
+0x7bfbc1e8	\$LogFile
+0x7c133de0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\PropMap\CiPT0000.000
+0x7c207250	\Windows\System32\mssprxy.dll
+0x7c207ab8	\Windows
+0x7c207e60	\ProtectedPrefix
+0x7c207f18	\ProtectedPrefix
+0x7c249190	\ProgramData\Microsoft\Windows Defender\IMpService925A3ACA-C353-458A-AC8D-A7E5EB378092.lock
+0x7c3557d8	\ProgramData\Microsoft\Windows Defender\Scans\History\CacheManager\MpSfc.bin
+0x7c38aca8	\Windows\Registration\R000000000006.clb
+0x7c38b4f0	\$Directory
+0x7c38ba60	\$Mft
+0x7c3cb500	\$BitMap
+0x7c3cbd68	\Windows\Registration\R000000000006.clb
+0x7c428398	\Windows\System32\tquery.dll
+0x7c428718	\wkssvc
+0x7c428838	\Windows\System32\hgcpl.dll
+0x7c428ce8	\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\583c7b9f52114c026088bdb9f19f64e8\Microsoft.PowerShell.Commands.Management.ni.dll
+0x7c428e70	\Windows\System32\drivers\monitor.sys
+0x7c460870	\Windows\System32\en-US\urlmon.dll.mui
+0x7c5ecda0	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x7c6f90a8	\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+0x7c76a5e8	\Windows\Fonts\timesbi.ttf
+0x7c76a870	\Windows\System32\schtasks.exe
+0x7c777c38	\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a
+0x7c842150	\$Directory
+0x7c842328	\Program Files\Common Files\microsoft shared\OfficeSoftwareProtectionPlatform\OSPPSVC.EXE
+0x7c857858	\Program Files\Common Files\microsoft shared\ink\ShapeCollector.exe
+0x7c857a98	\Windows\Fonts\seguisym.ttf
+0x7c8f0180	\ProgramData\Microsoft\Windows Defender\Definition Updates\{4A914D27-2C33-4FD8-9CFD-A97728ECCE77}\mpengine.dll
+0x7c942b70	\Windows\System32\wwapi.dll
+0x7c942d70	\Windows\System32\drmv2clt.dll
+0x7c9543e0	\Windows\System32\config\SOFTWARE
+0x7c954708	\$Directory
+0x7c954bb8	\$Directory
+0x7c98c038	\Windows\System32\en-US\ActionCenter.dll.mui
+0x7c98cc18	\$Directory
+0x7ca66a50	\Windows\Temp\vmware-vmsvc.log
+0x7ca66ef0	\$Directory
+0x7cac6cb0	KtmLog
+0x7cac71c8	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.wid
+0x7cac7cd8	\Windows\System32\mf.dll
+0x7cae13e8	\Windows\System32\NlsData0013.dll
+0x7cb43210	\Device\HarddiskVolume1\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x7cb43428	\Device\HarddiskVolume1\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0x7cb43ac0	TxfLog
+0x7cb84878	\Program Files\Internet Explorer\en-US\iexplore.exe.mui
+0x7cc143b8	\Windows\Fonts\msgothic.ttc
+0x7cc14df0	\Windows\Fonts\mingliu.ttc
+0x7cc14f80	\Windows\System32\msv1_0.dll
+0x7cc1dcd8	\Windows\System32\ActionCenter.dll
+0x7cc50438	\Users\johnoc\Saved Games\desktop.ini
+0x7cc50ae0	\ProgramData\Microsoft\Windows Defender\Definition Updates\Updates
+0x7cc6d560	\Program Files\Google\Chrome\Application\75.0.3770.142\chrome_watcher.dll
+0x7cc6da00	\Windows\System32\dciman32.dll
+0x7cc82740	\Windows\System32\en-US\appwiz.cpl.mui
+0x7cc82818	\Windows\System32\wercplsupport.dll
+0x7cc82a98	\$Directory
+0x7cc82b50	\Program Files\Microsoft Office\Office15\1033\MAPIR.DLL
+0x7cc84268	\Windows\Fonts\msyh.ttf
+0x7cc844b0	\Windows\Fonts\msjh.ttf
+0x7cc84690	\Windows\System32\dnsapi.dll
+0x7cc84e58	\Windows\Fonts\meiryo.ttc
+0x7cc86180	\Windows\System32\wdigest.dll
+0x7cc97f80	\Windows\System32\netlogon.dll
+0x7cca31e0	\Windows\System32\mapi32.dll
+0x7cca3710	\Windows\System32\en-US\urlmon.dll.mui
+0x7cca3e48	\$Directory
+0x7cd9aaa0	\Boot\BCD
+0x7cd9ab48	\Windows\System32\config\SOFTWARE.LOG1
+0x7cd9ad68	\Windows\System32\profapi.dll
+0x7cd9af80	\$Directory
+0x7cdfcf80	\Windows\System32\dxva2.dll
+0x7ce00570	\Windows\System32\blackbox.dll
+0x7ce02700	\Windows\Fonts\ARIALNBI.TTF
+0x7ce034c8	\Windows\System32\avifil32.dll
+0x7ce03c68	\Windows\System32\winevt\Logs\Microsoft-Windows-ReliabilityAnalysisComponent%4Operational.evtx
+0x7ce04d30	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu
+0x7ce05160	\Windows\Fonts\timesi.ttf
+0x7ce10338	\$Directory
+0x7ce104a8	\$Directory
+0x7ce10ac0	\Windows\System32\en-US\wdmaud.drv.mui
+0x7ce10ba0	\$Directory
+0x7ce10d70	\Users\johnoc\Downloads\invoice\invoice.docm
+0x7ce10f80	\$Directory
+0x7ce191f8	\Windows\Temp\vmware-vmusr.log
+0x7ce1a038	\Windows\System32\actxprxy.dll
+0x7ce1a3f8	\Windows\System32\msiltcfg.dll
+0x7ce1b798	\Windows\System32\timedate.cpl
+0x7ce1c2f8	\Windows\System32\cryptnet.dll
+0x7ce1c5f8	\Windows\System32\linkinfo.dll
+0x7ce1cba0	\Windows\System32\stobject.dll
+0x7ce1d638	\Windows\System32\TSChannel.dll
+0x7ce1e7b0	\Windows\System32\sqlcese30.dll
+0x7ce1ec88	\Windows\System32\Msdtc\MSDTC.LOG
+0x7ce1ef80	\Windows\Registration\R000000000006.clb
+0x7ce1f268	\Windows\System32\PlaySndSrv.dll
+0x7ce1fd90	\$Directory
+0x7ce200e8	\Windows\System32\SyncCenter.dll
+0x7ce20780	\Windows\System32\SyncCenter.dll
+0x7ce209d8	\Windows\System32\thumbcache.dll
+0x7ce20f80	\Windows\System32\en-US\msdtcVSp1res.dll.mui
+0x7ce218f8	\Windows\System32\UIAnimation.dll
+0x7ce21bb8	\$Directory
+0x7ce224c8	\Windows\System32\EhStorShell.dll
+0x7ce238e8	\Windows\System32\MsCtfMonitor.dll
+0x7ce24c80	\Windows\System32\DisplaySwitch.exe
+0x7ce24e00	\Windows\System32\SearchFolder.dll
+0x7ce252b8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7ce296d8	\$Directory
+0x7ce29b60	\Windows\System32\en-US\wdc.dll.mui
+0x7ce29f80	\Windows\System32\ExplorerFrame.dll
+0x7ce2a470	\Windows\System32\SoundRecorder.exe
+0x7ce2b328	\Windows\System32\en-US\msra.exe.mui
+0x7ce2bb08	\Windows\System32\networkexplorer.dll
+0x7ce2c3d0	\Windows\System32\en-US\msutb.dll.mui
+0x7ce2c518	\Windows\System32\en-US\wmploc.DLL.mui
+0x7ce2d928	\$Directory
+0x7ce2d9e0	\Program Files\DVD Maker\DVDMaker.exe
+0x7ce2df48	\Windows\System32\StructuredQuery.dll
+0x7ce2e038	\Windows\System32\IconCodecService.dll
+0x7ce32108	\Program Files\Windows Sidebar\sidebar.exe
+0x7ce32208	\Program Files\Windows Journal\Journal.exe
+0x7ce33038	\Windows\System32\migwiz\en-US\wet.dll.mui
+0x7ce34170	\$Directory
+0x7ce346c8	\$Directory
+0x7ce34838	\Program Files\Internet Explorer\iexplore.exe
+0x7ce34a90	\Windows\System32\en-US\DeviceCenter.dll.mui
+0x7ce35900	\Program Files\VMware\VMware Tools\sigc-2.0.dll
+0x7ce359f0	\$Directory
+0x7ce35d08	\Program Files\Windows Media Player\wmplayer.exe
+0x7ce36b60	\Windows\System32\ieframe.dll
+0x7ce37380	\Program Files\VMware\VMware Tools\glibmm-2.4.dll
+0x7ce385b8	\Program Files\VMware\VMware Tools\VMToolsHook.dll
+0x7ce39c58	\Endpoint
+0x7ce3ab28	\$Directory
+0x7ce3b4b0	\Program Files\VMware\VMware Tools\TPAutoConnect.exe
+0x7ce3cb98	\$Directory
+0x7ce3e1d0	\Program Files\Common Files\microsoft shared\ink\mip.exe
+0x7ce3e4d0	\Program Files\VMware\VMware Tools\plugins\vmusr\unity.dll
+0x7ce3e6c0	\$Directory
+0x7ce3f3d0	\Program Files\VMware\VMware Tools\plugins\vmusr\vmtray.dll
+0x7ce3f7b8	\Windows\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll
+0x7ce3fc80	\Program Files\VMware\VMware Tools\plugins\vmusr\dndcp.dll
+0x7ce42d38	\Windows\System32\en-US\comres.dll.mui
+0x7ce436f8	\Program Files\Common Files\microsoft shared\ink\tiptsf.dll
+0x7ce45038	\Windows\System32\en-US\KernelBase.dll.mui
+0x7ce45a38	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x7ce46038	\Windows\System32\WindowsPowerShell\v1.0\en-US\powershell.exe.mui
+0x7ce46a10	\Windows\System32\catroot2\edb.log
+0x7ce46f80	\$Directory
+0x7ce47998	\Program Files\VMware\VMware Tools\plugins\vmusr\desktopEvents.dll
+0x7ce482e8	\$Directory
+0x7ce49988	\Windows\assembly\NativeImages_v2.0.50727_32\System.ServiceProce#\20008c75bb41e2febf84d4d4aea5b4e8\System.ServiceProcess.ni.dll
+0x7ce4d530	\$Directory
+0x7ce503c8	\Program Files\QuickTime\QTSystem\CoreVideo.qt
+0x7ce504b0	\$Directory
+0x7ce51520	\Windows\System32\en-US\shell32.dll.mui
+0x7ce515d8	\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+0x7ce52658	\$Directory
+0x7ce52710	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x7ce530f8	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x7ce54dc8	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x7ce54f10	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x7ce55bb8	\$Directory
+0x7ce56820	\Users\johnoc\Documents\Imager_Lite_3.1.1\ad_globals.dll
+0x7ce56970	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7ce583f8	\wkssvc
+0x7ce58930	\Windows\Registration\R000000000006.clb
+0x7ce593e8	\$Directory
+0x7ce59630	\Users\johnoc\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x7ce59b00	\$Directory
+0x7ce5b3e8	\Windows\System32\winevt\Logs\Microsoft-Windows-Known Folders API Service.evtx
+0x7ce5d0b0	\$Directory
+0x7ce5dba8	\Windows\System32\winevt\Logs\Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+0x7ce61a80	\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sorttbls.nlp
+0x7ce61f80	\MsFteWds
+0x7ce62c38	\$Directory
+0x7ce62d80	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x7ce63970	\Windows\System32\winevt\Logs\Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx
+0x7ce66b28	\$Directory
+0x7ce66c70	\Windows\winsxs\x86_microsoft.vc90.mfcloc_1fc8b3b9a1e18e3b_9.0.30729.6161_none_49768ef57548175e\MFC90ENU.DLL
+0x7ce672f8	\Windows\winsxs\x86_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_581cd2bf5825dde9\comctl32.dll.mui
+0x7ce69958	\$Directory
+0x7ce8d688	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\7B2238AACCEDC3F1FFE8E7EB5F575EC9
+0x7ce8dea8	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\955CAB6FF6A24D5820D50B5BA1CF79C7_AD9E7615297A3A83320AACE5801A04F9
+0x7ce90960	\Windows\System32\schedcli.dll
+0x7ce90a18	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x7ce90c30	\Windows\System32\dssenh.dll
+0x7ce90f80	\Windows\System32\security.dll
+0x7ce9c548	\Windows\System32\en-US\wuaueng.dll.mui
+0x7cea6038	\Windows\System32\wbem\WMIADAP.exe
+0x7cea62e8	\Windows\System32\en-US\DfrgUI.exe.mui
+0x7cea65d0	\Windows\System32\SearchFilterHost.exe
+0x7cea6800	\Windows\System32\provthrd.dll
+0x7cea6c80	\Windows\System32\en-US\hgcpl.dll.mui
+0x7ceb4520	\Endpoint
+0x7ceb8da8	\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80
+0x7cebe3e8	\Windows\System32\dsound.dll
+0x7ceffdc0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010003.dir
+0x7cf1ac30	\Windows\System32\en-US\gameux.dll.mui
+0x7cf546c8	\Windows\System32\mspatcha.dll
+0x7cf57c28	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F5F320A94D4D2B4465D8F17E2BB2D351_DDF562EBDDF2102641AD26ADF64754F7
+0x7cf57f10	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\C46E7B0F942663A1EDC8D9D6D7869173_6043FC604A395E1485AF7AC16D16B7CE
+0x7cf6a038	\$Directory
+0x7cf6a918	\Windows\System32\en-US\winmm.dll.mui
+0x7cf6ad10	\PROGRA~1\MICROS~1\Office15\OLMAPI32.DLL
+0x7cfa3628	\Windows\System32\NlsLexicons000c.dll
+0x7cfa3910	\$Directory
+0x7cfa3c60	\$Directory
+0x7cfa5db8	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F5F320A94D4D2B4465D8F17E2BB2D351_9F475AAE5DB9CA8BCD233F4B30DDB22E
+0x7cfb9f50	\Windows\System32\QUTIL.DLL
+0x7cfba9d8	\Windows\Microsoft.NET\Framework\v2.0.50727\mscorsvc.dll
+0x7cfbacc0	\Windows\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe
+0x7cfbe670	\$Mft
+0x7cfbed90	\srvsvc
+0x7d001e48	\Endpoint
+0x7d002af0	\Endpoint
+0x7d002ec8	\Endpoint
+0x7d002f80	\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+0x7d003f80	\Endpoint
+0x7d004b18	\Endpoint
+0x7d0069d8	\Windows\System32\clusapi.dll
+0x7d0078a0	\Windows\System32\en-US\imageres.dll.mui
+0x7d008968	\Endpoint
+0x7d008ce0	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Cache\data_1
+0x7d009448	\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe
+0x7d00aac0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d00ac78	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d00f1e0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d00f360	\Program Files\VMware\VMware Tools\VMware VGAuth\libeay32.dll
+0x7d00f418	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d00f7c0	\Program Files\VMware\VMware Tools\VMware VGAuth\ssleay32.dll
+0x7d00f9f8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d00fbe0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d00fec8	\Program Files\VMware\VMware Tools\VMware VGAuth\pcre.dll
+0x7d00ff80	\Program Files\VMware\VMware Tools\VMware VGAuth\iconv.dll
+0x7d0102d8	\Windows\System32\trkwks.dll
+0x7d010460	\$Directory
+0x7d0107b8	\Windows\System32\sysmain.dll
+0x7d011038	\Program Files\VMware\VMware Tools\VMware VGAuth\intl.dll
+0x7d011190	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d011248	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d011458	\Program Files\VMware\VMware Tools\VMware VGAuth\xerces-c_3_1.dll
+0x7d011510	\Program Files\VMware\VMware Tools\VMware VGAuth\xsec_1_6.dll
+0x7d012168	\Program Files\VMware\VMware Tools\VMware VGAuth\glib-2.0.dll
+0x7d012f38	\Windows\System32
+0x7d0144e8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d017630	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d0186c8	\ProgramData\VMware\VMware VGAuth\logfile.txt.0
+0x7d018c20	\$Directory
+0x7d019ae8	\Windows\Fonts\tahomabd.ttf
+0x7d019f20	\Windows\System32\dbghelp.dll
+0x7d01cb60	\Windows\Fonts\consola.ttf
+0x7d01e998	\trkwks
+0x7d01ea50	\trkwks
+0x7d01eb08	\Program Files\VMware\VMware Tools\vmtoolsd.exe
+0x7d01ebc0	\trkwks
+0x7d0209b0	\Windows\System32\wbem\wmiutils.dll
+0x7d021788	\Windows\System32
+0x7d0218c8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d023238	\Program Files\VMware\VMware Tools\glib-2.0.dll
+0x7d0234f0	\$Directory
+0x7d023940	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d023be8	\Program Files\VMware\VMware Tools\intl.dll
+0x7d023dc8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d0242f0	\Program Files\VMware\VMware Tools\pcre.dll
+0x7d025160	\Windows\System32\winusb.dll
+0x7d0274a8	\Program Files\VMware\VMware Tools\gobject-2.0.dll
+0x7d027720	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d02b730	\Windows\System32\mscoree.dll
+0x7d02baa8	\Windows\System32\drt.dll
+0x7d02bd48	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d02d038	\Windows\System32\PeerDistSvc.dll
+0x7d02e960	\Windows\System32\en-US\NetworkExplorer.dll.mui
+0x7d02ea18	\Windows\System32\bitsperf.dll
+0x7d02eb60	\Windows\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll
+0x7d02ee10	\Windows\System32\perfnet.dll
+0x7d02f5d0	\Program Files\VMware\VMware Tools\vmtools.dll
+0x7d02f928	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d02fa30	\Program Files\VMware\VMware Tools\icudt44l.dat
+0x7d030d98	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d035428	\Windows\System32\DXP.dll
+0x7d036cd8	\Windows\System32\wbem\WMIsvc.dll
+0x7d036d90	\Windows\System32\wbemcomn.dll
+0x7d037270	\Program Files\VMware\VMware Tools\hgfs.dll
+0x7d0374a8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d037ec8	\Windows\System32\vsocklib.dll
+0x7d037f80	\Windows\System32\mpr.dll
+0x7d038038	\Windows\System32\wbem\MOF
+0x7d038270	\Program Files\VMware\VMware Tools\plugins\common\hgfsUsability.dll
+0x7d0385c0	\$Directory
+0x7d042470	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d042528	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d0425e0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d042838	\Windows\System32\C_1253.NLS
+0x7d0429c0	\Program Files\VMware\VMware Tools\plugins\common\vix.dll
+0x7d042f80	\Program Files\VMware\VMware Tools\plugins\common\hgfsServer.dll
+0x7d0437d8	\Program Files\VMware\VMware Tools\plugins\vmsvc\autoLogon.dll
+0x7d043890	\Program Files\VMware\VMware Tools\plugins\vmsvc\deployPkgPlugin.dll
+0x7d043a60	\Program Files\VMware\VMware Tools\plugins\common\thinprint.dll
+0x7d043d50	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d044290	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d044348	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d044400	\Program Files\VMware\VMware Tools\plugins\vmsvc\diskWiper.dll
+0x7d0448c8	\$Directory
+0x7d044b00	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d046dd0	\Windows\System32\browser.dll
+0x7d047670	\Windows\System32\resutils.dll
+0x7d0477f0	\Windows\System32\wbem\fastprox.dll
+0x7d047bf8	\Windows\System32\sscore.dll
+0x7d047cf8	\Windows\System32\wbem\Repository\OBJECTS.DATA
+0x7d047e68	\Windows\System32\wbem\Repository\MAPPING3.MAP
+0x7d0480b8	\Windows\Fonts\StaticCache.dat
+0x7d048268	\Windows\System32\Syncreg.dll
+0x7d048608	\
+0x7d0497f0	\Windows\System32\ntdsapi.dll
+0x7d049be8	\Windows\System32\wbem\WmiDcPrv.dll
+0x7d04af80	\Windows\System32\wbem\wbemprox.dll
+0x7d04b038	\Windows\System32\msxml6.dll
+0x7d04b358	\Windows\System32\msxml6r.dll
+0x7d04b510	\Windows\System32\en-US\KernelBase.dll.mui
+0x7d04bd08	\Windows\SoftwareDistribution\ReportingEvents.log
+0x7d04c168	\$Directory
+0x7d04e6b8	\Windows\System32\wbem\WinMgmtR.dll
+0x7d04eca8	\Windows\System32\wbem\NCProv.dll
+0x7d04f678	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRF{0184EAA1-3D66-4867-AE64-052A4DD92752}.tmp
+0x7d04fac8	\Endpoint
+0x7d04ff80	\Endpoint
+0x7d051f80	\browser
+0x7d052ab8	\Users\johnoc\ntuser.dat.LOG2
+0x7d052f80	\Windows\System32\dfrgui.exe
+0x7d053038	\Windows\System32\netcfgx.dll
+0x7d053308	\Windows\System32\wbem\wbemcore.dll
+0x7d053df8	\Windows\System32\nci.dll
+0x7d056178	\Windows\System32\wmdrmdev.dll
+0x7d0595f0	\Windows\System32\en-US\iscsicpl.dll.mui
+0x7d0597a0	\Windows\System32\wbem\esscli.dll
+0x7d059db8	\Windows\System32\wbem\wbemsvc.dll
+0x7d05b5d8	\Windows\System32\hnetcfg.dll
+0x7d05cb70	\Windows\System32\wbem\Repository\MAPPING2.MAP
+0x7d0627b0	\$MftMirr
+0x7d064510	\Windows\System32\rascfg.dll
+0x7d0658d0	\$Directory
+0x7d065e20	\Program Files\Windows Sidebar\sidebar.exe
+0x7d066410	\Windows\System32\wbem\WmiPrvSD.dll
+0x7d066770	\Windows\System32\wbem\Repository\INDEX.BTR
+0x7d066ad8	\$Directory
+0x7d066b90	\Windows\System32\wbem\Repository\MAPPING1.MAP
+0x7d066e58	\Windows\System32\mprapi.dll
+0x7d069c88	\Endpoint
+0x7d072c80	\srvsvc
+0x7d0764a0	\Windows\System32\ELSCore.dll
+0x7d0769f8	\Windows\System32\tdh.dll
+0x7d076ab0	\ProgramData\Microsoft\Search\Data\Applications\Windows\tmp.edb
+0x7d07b328	\Windows\System32\rasadhlp.dll
+0x7d07b498	\Endpoint
+0x7d07baf8	\Windows\System32\drivers\etc\hosts
+0x7d07cb98	\Windows\System32\RstrtMgr.dll
+0x7d07cd50	\Windows\System32\MdSched.exe
+0x7d07de78	\Endpoint
+0x7d07ecb8	\Windows\System32\NlsData000c.dll
+0x7d07ef10	\Windows\System32\ieframe.dll
+0x7d07fd08	\Windows\System32\d3d9.dll
+0x7d07ff80	\Windows\System32\Wpc.dll
+0x7d081258	\Program Files\Microsoft Office\Office15\MAPISHELL.DLL
+0x7d082110	\$Directory
+0x7d0822c8	\Users\johnoc\Favorites\desktop.ini
+0x7d082f80	\Windows\System32\wscapi.dll
+0x7d083578	\Windows\System32\msi.dll
+0x7d0895f0	\Windows\System32\wpdbusenum.dll
+0x7d089e90	\Windows\System32\conhost.exe
+0x7d08aaa8	\Windows\System32\wdi.dll
+0x7d08cd18	\Windows\System32\browcli.dll
+0x7d09fbf0	\ProgramData\Microsoft\Network\Downloader\qmgr0.dat
+0x7d09fca8	\Windows\System32\en-US\conhost.exe.mui
+0x7d0a0318	\Windows\System32\aepic.dll
+0x7d0a0988	\Windows\System32\wer.dll
+0x7d0a1438	\Windows\System32
+0x7d0a16e0	\Windows\System32\perftrack.dll
+0x7d0a20f0	\Program Files\Google\Chrome\Application\75.0.3770.142\chrome.dll
+0x7d0a24e8	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Ease of Access.lnk
+0x7d0a3338	\Windows\System32\PortableDeviceConnectApi.dll
+0x7d0a4b30	\Windows\System32\npmproxy.dll
+0x7d0a5eb8	\Windows\System32\mobsync.exe
+0x7d0a6988	\Windows\System32\PortableDeviceApi.dll
+0x7d0a7be8	\Windows\System32\sfc.dll
+0x7d0a7ea0	\Windows\System32\sfc_os.dll
+0x7d0aba68	\Windows\System32\bthserv.dll
+0x7d0b10a0	\Windows\System32\WinSCard.dll
+0x7d0b6038	\Endpoint
+0x7d0cd618	\Windows\System32\en-US\user32.dll.mui
+0x7d0ce0e8	\ProgramData\Microsoft\Windows\Start Menu
+0x7d0cfb10	\Endpoint
+0x7d0d03d0	\Windows\System32\winevt\Logs\Microsoft-Windows-OfflineFiles%4Operational.evtx
+0x7d0d26b0	\Windows\System32\winevt\Logs\Microsoft-Windows-NCSI%4Operational.evtx
+0x7d0d3248	\Winsock2\CatalogChangeListener-208-0
+0x7d0d3578	\Windows\System32\winevt\Logs\Microsoft-Windows-GroupPolicy%4Operational.evtx
+0x7d0d3ac8	\Windows\System32\diagperf.dll
+0x7d0d3f80	\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe
+0x7d0d4b78	\Windows\System32\winevt\Logs\Microsoft-Windows-BranchCacheSMB%4Operational.evtx
+0x7d0d86d8	\Windows\System32\en-US\uxtheme.dll.mui
+0x7d0d8c98	\browser
+0x7d0d9220	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.ci
+0x7d0d9568	\Windows\System32\Speech\SpeechUX\en-us\sapi.cpl.mui
+0x7d0d97e0	\Windows\System32\sppuinotify.dll
+0x7d11d788	\Windows\System32\cmd.exe
+0x7d11d840	\Windows\System32
+0x7d11d8f8	\Windows\System32\IPSECSVC.DLL
+0x7d11ea70	\browser
+0x7d1203b0	\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80
+0x7d121c18	\Windows\System32\wbem\ntevt.dll
+0x7d121cd0	\Windows\System32\framedyn.dll
+0x7d122ba8	\Users\johnoc\AppData\Roaming\Microsoft\Word\AutoRecovery save of invoice.asd
+0x7d123300	\Windows\System32\winspool.drv
+0x7d123998	\Windows\System32\msvcp60.dll
+0x7d123ce0	\Windows\System32\TPSvc.dll
+0x7d124900	\Windows\System32\oledlg.dll
+0x7d124e28	\Windows\Fonts\arial.ttf
+0x7d125370	\$Directory
+0x7d1272f8	\Windows\System32\winevt\Logs\Microsoft-Windows-Dhcpv6-Client%4Admin.evtx
+0x7d128530	\Windows\System32\en-US\KernelBase.dll.mui
+0x7d128d00	\Windows\System32\wscsvc.dll
+0x7d148ae8	\Windows\System32\wlanutil.dll
+0x7d148c98	\Windows\System32\recdisc.exe
+0x7d14a540	\$Directory
+0x7d14af80	\Windows\System32\FwRemoteSvr.dll
+0x7d14b4e8	\Windows\System32\wshbth.dll
+0x7d14bb70	\Windows\System32\winrnr.dll
+0x7d14f198	\Endpoint
+0x7d14fd58	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d150598	\Windows\System32\pnrpnsp.dll
+0x7d150d90	\Windows\System32\msvcirt.dll
+0x7d150e48	\Windows\System32\NapiNSP.dll
+0x7d152100	\Endpoint
+0x7d152648	\Endpoint
+0x7d152898	\Winsock2\CatalogChangeListener-7a8-0
+0x7d152d58	\Windows\System32\pmcsnap.dll
+0x7d154848	\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+0x7d154aa8	\Windows\System32\en-US\urlmon.dll.mui
+0x7d154d90	\Windows\System32\en-US\msimsg.dll.mui
+0x7d1560b0	\Program Files\Microsoft Office\Office15\WINWORD.EXE
+0x7d157758	\Windows\System32\en-US\odbcint.dll.mui
+0x7d159b28	\Windows\System32\sppc.dll
+0x7d15f100	\Endpoint
+0x7d15fab8	\Endpoint
+0x7d15fde8	\Windows\System32\en-US\KernelBase.dll.mui
+0x7d163118	\Windows\System32\en-US\setupapi.dll.mui
+0x7d1656e0	\Windows\System32\wdc.dll
+0x7d165940	\Windows\System32\slwga.dll
+0x7d165eb8	\Windows\System32\wsecedit.dll
+0x7d166428	\Windows\Registration\R000000000006.clb
+0x7d16fd10	\Program Files\Microsoft Office\Office15\DBGHELP.DLL
+0x7d16ff80	\Windows\Registration\R000000000006.clb
+0x7d1704e0	\Windows\System32\netshell.dll
+0x7d1708b0	\Windows\System32\wmdrmdev.dll
+0x7d173d90	\Windows\System32\framedynos.dll
+0x7d173f40	\Windows\System32\wbem\cimwin32.dll
+0x7d178100	\ProgramData\Microsoft\Windows Defender\Support\MPLog-07132009-215552.log
+0x7d179780	\Windows\System32\d2d1.dll
+0x7d17c890	\ProgramData\Microsoft\Windows\DRM\blackbox.bin
+0x7d17cdc8	\Windows\System32\xolehlp.dll
+0x7d17dcb8	\Program Files\Microsoft Office\Office15\OUTLMIME.DLL
+0x7d17e290	\Program Files\Microsoft Office\Office15\WWLIB.DLL
+0x7d17e528	\Windows\WindowsUpdate.log
+0x7d17e7c8	\Windows\System32\msdtcprx.dll
+0x7d17eec8	\$Directory
+0x7d17f5a8	\Windows\Fonts\arialbi.ttf
+0x7d17fa08	\Windows\System32\RASMM.dll
+0x7d17fb20	\Windows\System32\mtxclu.dll
+0x7d17fc60	\Program Files\Windows Defender\MpSvc.dll
+0x7d180320	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F5F320A94D4D2B4465D8F17E2BB2D351_E7EA9C854439A1102BA410B24852E165
+0x7d1805b8	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F5F320A94D4D2B4465D8F17E2BB2D351_3A5546B15DBF395A919652E385563E36
+0x7d18d408	\Windows\System32\en-US\shell32.dll.mui
+0x7d18f468	\Windows\System32\msdtc.exe
+0x7d18faf0	\Windows\System32
+0x7d190b48	\Windows\System32\msdtctm.dll
+0x7d190c00	\Windows\System32\msdtclog.dll
+0x7d1927c8	\Windows\System32
+0x7d193660	\Windows\System32\msdtcVSp1res.dll
+0x7d19f500	\Windows\System32\en-US\msdtc.exe.mui
+0x7d1a23c8	\Program Files\Common Files\microsoft shared\OfficeSoftwareProtectionPlatform\OSPPC.DLL
+0x7d1a2860	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Network Action Predictor
+0x7d1a4a00	\Windows\System32\winevt\Logs\DebugChannel.etl
+0x7d1a6b90	\$Directory
+0x7d1a7c78	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F5F320A94D4D2B4465D8F17E2BB2D351_D4F28CA09C5968033BE4D6463BA959E2
+0x7d1aa380	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x7d1af700	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Web Data
+0x7d1afd90	\Program Files\Common Files\microsoft shared\OFFICE15\RICHED20.DLL
+0x7d1b25a0	\Program Files\Common Files\microsoft shared\OFFICE15\Cultures\OFFICE.ODF
+0x7d1b2888	\Program Files\Google\Chrome\Application\75.0.3770.142\chrome_child.dll
+0x7d1b2a70	\Program Files\Google\Chrome\Application\75.0.3770.142\natives_blob.bin
+0x7d1b2c10	\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 Tools\Office 2013 Upload Center.lnk
+0x7d1b53f8	\Windows\System32\C_1255.NLS
+0x7d1b6f80	\Windows\System32\en-US\sxs.dll.mui
+0x7d1c5228	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af
+0x7d1ca3e0	\$Directory
+0x7d1cff80	\Users\johnoc\Documents\Imager_Lite_3.1.1\boost_thread-vc100-mt-1_49.dll
+0x7d1da820	\Windows\System32\FntCache.dll
+0x7d1daf80	\Users\johnoc\Documents\Imager_Lite_3.1.1\ADIsoDLL.dll
+0x7d1db8e0	\Windows\System32\en-US\lsm.exe.mui
+0x7d1db998	\Windows\System32\lsm.exe
+0x7d1dc408	\Program Files\Common Files\microsoft shared\OFFICE15\MSO.DLL
+0x7d1dc4c0	\Windows\System32\C_10000.NLS
+0x7d1dcb38	\Windows\System32\msvcp100.dll
+0x7d1ffb58	\Users\johnoc\AppData\Local\Google\Chrome\User Data\BrowserMetrics\BrowserMetrics-5D418392-2D4.pma
+0x7d206460	\Windows\System32\radardt.dll
+0x7d207220	\Windows\System32\vbscript.dll
+0x7d2086f8	\Windows\System32\taskhost.exe
+0x7d209350	\$Directory
+0x7d20e8e8	\Windows\System32\config\TxR\{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.1.regtrans-ms
+0x7d20fcc8	\$Directory
+0x7d211300	\Windows\System32\davclnt.dll
+0x7d211e18	\Windows\System32\sqlceoledb30.dll
+0x7d212200	\Windows\Fonts\sserife.fon
+0x7d212af0	\Windows\System32\msimsg.dll
+0x7d213238	\$Directory
+0x7d2146c8	\Windows\inf\oem10.PNF
+0x7d214ec0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010003.ci
+0x7d2167c0	\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80
+0x7d217f80	\Windows\System32\MPSSVC.dll
+0x7d218200	\Windows\System32\rasman.dll
+0x7d2183b0	\Windows\System32\rasapi32.dll
+0x7d219198	\ntsvcs
+0x7d219370	\Windows\System32\config\RegBack\SAM
+0x7d219490	\ntsvcs
+0x7d223c00	\Windows\System32\svchost.exe
+0x7d2252c8	\Windows\System32\userenv.dll
+0x7d225638	\plugplay
+0x7d2256f0	\plugplay
+0x7d225860	\plugplay
+0x7d226a90	\Windows\System32\gpapi.dll
+0x7d227510	\$ConvertToNonresident
+0x7d228218	\Windows\System32\umpo.dll
+0x7d228498	\Windows\System32\filemgmt.dll
+0x7d228550	\Windows\System32\AuthFWGP.dll
+0x7d22d038	\Windows\System32\powrprof.dll
+0x7d22d0f0	\$Directory
+0x7d22e450	\Program Files\VMware\VMware Tools\ssleay32.dll
+0x7d22e620	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d22ec28	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\msvcr90.dll
+0x7d22ef40	\Users\johnoc\Documents\Imager_Lite_3.1.1\boost_system-vc100-mt-1_49.dll
+0x7d22fef0	\Windows\System32\WinSATAPI.dll
+0x7d2316a8	\Program Files\VMware\VMware Tools
+0x7d231810	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf
+0x7d231990	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+0x7d231d70	\Windows\System32\shfolder.dll
+0x7d2321c8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\msvcp90.dll
+0x7d233938	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d233d98	\Program Files\VMware\VMware Tools\vmacthlp.exe
+0x7d235310	\$LogFile
+0x7d235470	\$Extend\$RmMetadata\$TxfLog\$TxfLog.blf
+0x7d236170	\Windows\System32\rtutils.dll
+0x7d236228	\Windows\Fonts\micross.ttf
+0x7d2381c8	\Windows\System32\wshqos.dll
+0x7d238560	\Windows\System32\sdautoplay.dll
+0x7d238618	\Windows\System32\d3d10warp.dll
+0x7d2388f0	\Windows\Fonts\verdana.ttf
+0x7d239c80	\Windows\System32\RpcEpMap.dll
+0x7d23cd90	\Windows\System32\WSHTCPIP.DLL
+0x7d23d230	\Endpoint
+0x7d23d638	\Endpoint
+0x7d23d9d0	\Endpoint
+0x7d23f930	\Endpoint
+0x7d23f9e8	\Winsock2\CatalogChangeListener-2d8-0
+0x7d240220	\Windows\ServiceProfiles\LocalService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+0x7d240600	\Endpoint
+0x7d2408f0	\Endpoint
+0x7d241840	\Endpoint
+0x7d241e30	\Endpoint
+0x7d242360	\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2
+0x7d243908	\Windows\ServiceProfiles\LocalService\NTUSER.DAT
+0x7d243f80	\$Directory
+0x7d244038	\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+0x7d2449b0	\Windows\ServiceProfiles\LocalService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf
+0x7d244d38	\Windows\ServiceProfiles\LocalService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+0x7d244df0	\Device\HarddiskVolume2\Windows\ServiceProfiles\LocalService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x7d245d38	\Windows\System32\FirewallAPI.dll
+0x7d246718	\Endpoint
+0x7d247038	\Endpoint
+0x7d247360	\Winsock2\CatalogChangeListener-19c-0
+0x7d2476f8	\epmapper
+0x7d2477b0	\Windows\System32\version.dll
+0x7d247868	\epmapper
+0x7d248f18	\Windows\System32
+0x7d24c038	\Windows\System32
+0x7d24c330	\Windows\System32\ncrypt.dll
+0x7d24c988	\Windows\System32\cngaudit.dll
+0x7d24cb40	\Windows\System32\authz.dll
+0x7d24e868	\LSM_API_service
+0x7d24e9f8	\LSM_API_service
+0x7d24ec08	\LSM_API_service
+0x7d252448	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Cache\data_0
+0x7d25b400	\Windows\System32\wevtsvc.dll
+0x7d25b548	\Endpoint
+0x7d25c5f8	\Endpoint
+0x7d25ca48	\Windows\System32\tzres.dll
+0x7d25e2d0	\$Directory
+0x7d25e740	\eventlog
+0x7d25e7f8	\eventlog
+0x7d25e968	\eventlog
+0x7d25f088	\Winsock2\CatalogChangeListener-30c-0
+0x7d25f718	\Endpoint
+0x7d26c2c8	\Windows\System32\werconcpl.dll
+0x7d26ca28	\Endpoint
+0x7d26cd30	\Windows\Fonts\seguisb.ttf
+0x7d2743f0	\Windows\System32\winevt\Logs\Application.evtx
+0x7d274b50	\Windows\System32\en-US\timedate.cpl.mui
+0x7d274f80	\Windows\System32\winevt\Logs\System.evtx
+0x7d277450	\Windows\System32\ntmarta.dll
+0x7d277508	\Windows\ServiceProfiles\LocalService\AppData\Local\lastalive0.dat
+0x7d278250	\Windows\System32\winevt\Logs\OAlerts.evtx
+0x7d2785c8	\Windows\System32\winevt\Logs\ThinPrint Diagnostics.evtx
+0x7d2787b0	\Windows\System32\winevt\Logs\Windows PowerShell.evtx
+0x7d279a90	\Windows\System32\winevt\Logs\Key Management Service.evtx
+0x7d279dd0	\Windows\System32\winevt\Logs\Security.evtx
+0x7d27a358	\Windows\System32\winevt\Logs\Internet Explorer.evtx
+0x7d27abd8	\$PrepareToShrinkFileSize
+0x7d27aef0	\Windows\System32\winevt\Logs\Media Center.evtx
+0x7d27b6b0	\$PrepareToShrinkFileSize
+0x7d27be68	\Windows\System32\winevt\Logs\HardwareEvents.evtx
+0x7d27c4e0	\Endpoint
+0x7d2806e0	\Endpoint
+0x7d280d80	\Program Files\Windows Media Player\wmpnscfg.exe
+0x7d280eb8	\Program Files\Microsoft Office\Office15\OUTLOOK.EXE
+0x7d288100	\Windows\winsxs\Manifests\x86_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_581cd2bf5825dde9.manifest
+0x7d288688	\Windows\winsxs\Manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2.manifest
+0x7d288ad0	\Windows\System32\profsvc.dll
+0x7d289a30	\Windows\System32
+0x7d28a530	\Windows\System32\en-US\NetProjW.dll.mui
+0x7d28a5e8	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Defender%4WHC.evtx
+0x7d28a930	\Windows\System32\winevt\Logs\Microsoft-Windows-NetworkProfile%4Operational.evtx
+0x7d28ab58	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Defender%4Operational.evtx
+0x7d28af80	\Windows\System32\winevt\Logs\Microsoft-Windows-User Profile Service%4Operational.evtx
+0x7d28c198	\ProgramData\Microsoft\Network\Downloader\qmgr1.dat
+0x7d28c458	\lsass
+0x7d28c7b8	\Windows\System32\wscinterop.dll
+0x7d28ce40	\Windows\System32\spp.dll
+0x7d292530	\Windows\ServiceProfiles\LocalService\AppData\Local\lastalive1.dat
+0x7d2936f8	\Windows\System32\en-US\kernel32.dll.mui
+0x7d293d88	\$Directory
+0x7d293f80	\Windows\System32\netprofm.dll
+0x7d294b80	\Windows\System32\winevt\Logs\Microsoft-Windows-Known Folders API Service.evtx
+0x7d295828	\Windows\System32\en-US\unregmp2.exe.mui
+0x7d295c08	\Windows\System32\cryptui.dll
+0x7d2961e8	\Windows\System32\en-US\wsecedit.dll.mui
+0x7d2962a0	\Program Files\Common Files\microsoft shared\OFFICE15\MSO.DLL
+0x7d296538	\Windows\System32\samlib.dll
+0x7d297470	\Windows\System32\propsys.dll
+0x7d297ce0	\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+0x7d298038	\Windows\Fonts\ariblk.ttf
+0x7d298638	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\SecStore\CiST0000.000
+0x7d2989c8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d2992a0	\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\GdiPlus.dll
+0x7d299600	\Windows\System32\winevt\Logs\Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx
+0x7d299d40	\Windows\System32\uxtheme.dll
+0x7d29a410	\Windows\System32\duser.dll
+0x7d29ae68	\Windows\System32\dui70.dll
+0x7d29b658	\Windows\Registration\R000000000006.clb
+0x7d29b778	\Windows\System32\SndVolSSO.dll
+0x7d29b830	\Windows\System32\MMDevAPI.dll
+0x7d29bb48	\Windows\System32\en-US\propsys.dll.mui
+0x7d29c878	\Windows\System32\xmllite.dll
+0x7d29d4e0	\Windows\System32\fundisc.dll
+0x7d29dbe8	\Windows\System32\dwmapi.dll
+0x7d29dec8	\Windows\System32\hid.dll
+0x7d29f128	\Windows\Fonts\ARIALNB.TTF
+0x7d29fcb0	\Windows\System32\imageres.dll
+0x7d2a0038	\Windows\System32\wbem\repdrvfs.dll
+0x7d2a0230	\$BitMap
+0x7d2a0358	\Windows\System32\mprmsg.dll
+0x7d2a0ec8	\Windows\System32\tcpipcfg.dll
+0x7d2a1d10	\Program Files\VMware\VMware Tools\iconv.dll
+0x7d2a1f80	\Windows\System32\wtsapi32.dll
+0x7d2a2c70	\Windows\System32\WindowsCodecs.dll
+0x7d2a2f80	\Windows\System32\winbrand.dll
+0x7d2a3628	\Windows\System32\nlaapi.dll
+0x7d2a3e58	\Windows\System32\netutils.dll
+0x7d2aead0	\Windows\System32\en-US\oleaccrc.dll.mui
+0x7d2aed68	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d2af038	\Windows\Registration\R000000000006.clb
+0x7d2afd40	\Windows\System32\gpsvc.dll
+0x7d2b03d8	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+0x7d2b0a38	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Firewall With Advanced Security%4ConnectionSecurity.evtx
+0x7d2b1358	\Program Files\Windows NT\TableTextService\TableTextService.dll
+0x7d2b1538	\Windows\System32\UIAutomationCore.dll
+0x7d2b1a78	\$Directory
+0x7d2b1cc8	\Windows\System32\en-US\msctf.dll.mui
+0x7d2b1d80	\Windows\IME\SPTIP.DLL
+0x7d2b1f80	\Program Files\Common Files\microsoft shared\ink\tiptsf.dll
+0x7d2b2908	\Windows\System32\en-US\KernelBase.dll.mui
+0x7d2b2b28	\Windows\System32\oleacc.dll
+0x7d2b3ce0	\Windows\System32\oleaccrc.dll
+0x7d2b46a0	\Windows\Fonts\StaticCache.dat
+0x7d2b4798	\Windows\System32\msimg32.dll
+0x7d2b48a0	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-Power%4Thermal-Operational.evtx
+0x7d2b5848	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-WHEA%4Errors.evtx
+0x7d2bc8a8	\Windows\System32\audiosrv.dll
+0x7d2bcec0	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-WHEA%4Operational.evtx
+0x7d2bdbf0	\Windows\System32
+0x7d2bdec8	\Windows\System32\avrt.dll
+0x7d2c0a98	\Windows\Registration\R000000000006.clb
+0x7d2c11a0	\elineouttopo
+0x7d2c23a0	\emicintopo
+0x7d2c4590	\Windows\System32\aeevts.dll
+0x7d2c5750	\Windows\System32\audiodg.exe
+0x7d2c6588	\Windows\Registration\R000000000006.clb
+0x7d2c6878	\Windows\System32\wdmaud.drv
+0x7d2c6b18	\$Directory
+0x7d2c7450	\Windows\System32\catroot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\Microsoft-Windows-Media-Format-Package~31bf3856ad364e35~x86~~6.1.7601.17514.cat
+0x7d2c7738	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F5F320A94D4D2B4465D8F17E2BB2D351_AD130DADAD0F4F6BD386322E7B879B6F
+0x7d2c7b10	\Windows\System32\ksuser.dll
+0x7d2c8f80	\emicintopo
+0x7d2c95d8	\Windows\System32\en-US\ntdll.dll.mui
+0x7d2c98e0	\elineoutwave
+0x7d2c9b98	\Windows\System32\sendmail.dll
+0x7d2c9c90	\emicinwave
+0x7d2ca5d8	\Windows\System32\rasdlg.dll
+0x7d2cab28	\elineouttopo
+0x7d2cc6d8	\Windows\System32\winmm.dll
+0x7d2ccf10	\Users\johnoc\Downloads\invoice\invoice.docm
+0x7d2cd1a0	\Windows\System32\winevt\Logs\Microsoft-Windows-WindowsBackup%4ActionCenter.evtx
+0x7d2cd278	\Windows\Fonts\times.ttf
+0x7d2d6560	\Windows\CSC\v2.0.6
+0x7d2d7480	\Windows\CSC\v2.0.6\temp
+0x7d2d8320	\Windows\System32\en-US\tquery.dll.mui
+0x7d2d8498	\Windows\System32\en-US\KernelBase.dll.mui
+0x7d2d87d8	\$Directory
+0x7d2d89b0	\$MapAttributeValue
+0x7d2d9150	\Windows\CSC
+0x7d2d9730	\Windows\System32\en-US\wdmaud.drv.mui
+0x7d2da328	\Windows\CSC\v2.0.6\namespace
+0x7d2da440	\$Directory
+0x7d2daf18	\Windows\CSC\v2.0.6\pq
+0x7d2db900	\Windows\System32\en-US\MMDevAPI.dll.mui
+0x7d2dc850	\$Directory
+0x7d2dc908	\Windows\inf\hdaudio.PNF
+0x7d2dcb00	\Windows\System32\winevt\Logs\Microsoft-RMS-MSIPC%4Debug.etl
+0x7d2dd470	\Windows\System32\msacm32.dll
+0x7d2dd528	\Windows\System32\taskschd.dll
+0x7d2ddb50	\Windows\System32\msacm32.drv
+0x7d2dde10	\Program Files\VMware\VMware Tools\gmodule-2.0.dll
+0x7d2ddec8	\Windows\System32\AudioSes.dll
+0x7d2de3a8	\Windows\System32\mstask.dll
+0x7d2def80	ꛭ
+0x7d2e01b0	\Windows\System32\dsrole.dll
+0x7d2e14a0	\Windows\System32\AudioEng.dll
+0x7d2e1590	\Windows\System32\consent.exe
+0x7d2e2228	\Windows\System32\ipconfig.exe
+0x7d2e23b8	\Windows\System32\DWrite.dll
+0x7d2e27d0	\Windows\Fonts\SEGOEUISL.TTF
+0x7d2e2b18	\Windows\System32\AUDIOKSE.dll
+0x7d2e3580	\Windows\System32\mfplat.dll
+0x7d2e3b10	\Windows\System32\WMALFXGFXDSP.dll
+0x7d2e41f0	\Windows\System32\themeservice.dll
+0x7d2e4da0	\Windows\Fonts\segoeuiz.ttf
+0x7d2e6038	\$Directory
+0x7d2e6e18	\Windows\explorer.exe
+0x7d2e7b90	\Windows\System32\en-US\MMDevAPI.dll.mui
+0x7d2e8c00	\Windows\System32\QAGENT.DLL
+0x7d2e9a98	\Windows\System32
+0x7d2e9ed0	\Endpoint
+0x7d2eba58	\Windows\System32\es.dll
+0x7d2eebb0	\Windows\System32\UXInit.dll
+0x7d2f0890	\ProgramData\Microsoft\User Account Pictures\user.bmp
+0x7d2f0f80	\$Directory
+0x7d2f4c60	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010001.wid
+0x7d2f77a0	\Windows\System32\nrpsrv.dll
+0x7d301160	\Windows\System32\lmhsvc.dll
+0x7d301290	\Windows\System32\en-US\shlwapi.dll.mui
+0x7d301590	\Windows\System32\winnsi.dll
+0x7d302d90	\Windows\System32\cscript.exe
+0x7d3033c8	\Windows\System32\comres.dll
+0x7d303880	\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+0x7d3039f8	\Windows\System32\Sens.dll
+0x7d3078c0	\Windows\System32\IPHLPAPI.DLL
+0x7d3088e8	\Windows\System32\nsisvc.dll
+0x7d308a18	\Windows\System32\dhcpcore.dll
+0x7d30b6a8	\Windows\System32
+0x7d30c8d0	\Windows\System32\dnsext.dll
+0x7d30d1e0	\Windows\System32\dhcpcore6.dll
+0x7d310a70	\Windows\System32\FWPUCLNT.DLL
+0x7d310f80	\Windows\System32\dnsrslvr.dll
+0x7d312570	\Endpoint
+0x7d312d88	\Windows\System32\drivers\etc
+0x7d3218f8	\Windows\System32\dhcpcsvc6.dll
+0x7d321e60	\Windows\System32\dhcpcsvc.dll
+0x7d322300	\Windows\Tasks\SCHEDLGU.TXT
+0x7d324b68	\Windows\System32\mycomput.dll
+0x7d327038	\Windows\System32\en-US\FirewallAPI.dll.mui
+0x7d327758	\Endpoint
+0x7d327c18	\Windows\System32\fveapi.dll
+0x7d32dca8	\Windows\System32\shsvcs.dll
+0x7d331ef0	\Windows\System32\schedsvc.dll
+0x7d338c58	\Windows\System32\ktmw32.dll
+0x7d344038	\Windows\System32\wiarpc.dll
+0x7d344200	\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4940_none_d08cc06a442b34fc\msvcr80.dll
+0x7d344550	\Windows\System32\fvecerts.dll
+0x7d347810	\Windows\System32\en-US\sdcpl.dll.mui
+0x7d347a00	\Windows\System32\NlsLexicons0009.dll
+0x7d34a8c8	\Windows\System32\tbs.dll
+0x7d3609b8	\Windows\System32\taskcomp.dll
+0x7d361758	\Endpoint
+0x7d362540	\atsvc
+0x7d3625f8	\atsvc
+0x7d3626b0	\$Directory
+0x7d362768	\atsvc
+0x7d362820	\Windows\Tasks
+0x7d3638f8	\Winsock2\CatalogChangeListener-3b4-0
+0x7d363d80	\Endpoint
+0x7d364a80	\Windows\System32
+0x7d36a7b0	\Windows\System32\spoolsv.exe
+0x7d36c490	\Endpoint
+0x7d36cc38	\Endpoint
+0x7d36d350	\Windows\System32\EhStorAPI.dll
+0x7d36d508	\Windows\System32\sppcomapi.dll
+0x7d36fa18	\$MftMirr
+0x7d373f80	\Windows\System32\NlsData001a.dll
+0x7d374238	\Windows\System32\stdole2.tlb
+0x7d379390	\Program Files\Windows Sidebar\sbdrop.dll
+0x7d379620	\Program Files\Google\Chrome\Application\75.0.3770.142\Locales\fr.pak
+0x7d379aa8	\$Directory
+0x7d379ba8	\Windows\System32\vmhgfs.dll
+0x7d379d28	\Windows\System32\msiexec.exe
+0x7d37d3e0	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Cache\index
+0x7d387868	\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+0x7d388f80	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x7d38b808	\$Mft
+0x7d38bf80	\Windows\Fonts\timesbd.ttf
+0x7d38c1e8	\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+0x7d393910	\Windows\System32\BFE.DLL
+0x7d394f80	\Windows\Fonts\arialbd.ttf
+0x7d3955f0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\PropMap\CiPT0000.000
+0x7d3956a8	\Windows\System32\cabinet.dll
+0x7d397698	\$Directory
+0x7d3988b0	\Windows\Fonts\verdanab.ttf
+0x7d39c1d0	\Windows\System32\vss_ps.dll
+0x7d39ccf8	\Windows\System32\vm3dum.dll
+0x7d39d038	\Windows\System32\netman.dll
+0x7d39f038	\Windows\System32\upnp.dll
+0x7d39fe00	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-StoreMgr%4Operational.evtx
+0x7d3a0328	\$Directory
+0x7d3a0da8	\SystemRoot\System32\Config\TxR\{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR
+0x7d3a25f0	\$Mft
+0x7d3a38b8	\Windows\System32\d3d11.dll
+0x7d3a3e00	\$ConvertToNonresident
+0x7d3a6978	\$Directory
+0x7d3a6ae8	\Windows\System32\fltLib.dll
+0x7d3a6f18	\ProgramData\Microsoft\Windows Defender\Support\MPLog-07132009-215552.log
+0x7d3a7a48	\Windows\System32\d3d10_1core.dll
+0x7d3a8c78	\$Directory
+0x7d3a9150	\Windows\System32
+0x7d3ab370	\$Directory
+0x7d3ab5d0	\ProgramData\Microsoft\Windows\Caches\{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db
+0x7d3ab888	\Windows\Registration\R000000000006.clb
+0x7d3abc38	\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000007.db
+0x7d3acc28	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d3acd98	\ProgramData\Microsoft\Windows\Caches\cversions.2.db
+0x7d3ade10	\Windows\System32\imapi2.dll
+0x7d3b16d0	\Windows\System32\en-US\comdlg32.dll.mui
+0x7d3b3e80	\Windows\System32\en-US\FirewallAPI.dll.mui
+0x7d3b6180	\Windows\explorer.exe
+0x7d3b6a88	\$Directory
+0x7d3b6ce8	\$Directory
+0x7d3b6f80	\$Directory
+0x7d3b7558	\$Directory
+0x7d3b7a10	\$Directory
+0x7d3b7ec8	\$Directory
+0x7d3c1550	\wkssvc
+0x7d3c2f80	\Windows\System32\wkssvc.dll
+0x7d3c3358	\Endpoint
+0x7d3c5b18	\Windows\System32\wfapigp.dll
+0x7d3c6c98	\Windows\System32\winevt\Logs\Microsoft-Windows-Dhcp-Client%4Admin.evtx
+0x7d3c8380	\keysvc
+0x7d3c8a80	\Windows\System32\cryptsvc.dll
+0x7d3c8b40	\Windows\System32\vsstrace.dll
+0x7d3c95e8	\Program Files\VMware\VMware Tools\plugins\vmsvc\powerOps.dll
+0x7d3c9930	\Windows\System32\wfp\wfpdiag.etl
+0x7d3c99e8	\Windows\System32\vssapi.dll
+0x7d3c9ec8	\keysvc
+0x7d3c9f80	\keysvc
+0x7d3cb2a0	\Windows\System32\pcasvc.dll
+0x7d3cb668	\Windows\System32\dps.dll
+0x7d3cc9c0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d3ccbe0	\Windows\System32\C_1251.NLS
+0x7d3cd038	\Windows\System32\C_1256.NLS
+0x7d3cd308	\Windows\System32\en-US\FirewallAPI.dll.mui
+0x7d3cd6f0	\Windows\Registration\R000000000006.clb
+0x7d3cde00	\Windows\System32\mscms.dll
+0x7d3d1338	\Windows\System32\wbem\WmiPrvSE.exe
+0x7d3d2500	\Windows\System32\WWanAPI.dll
+0x7d3d2a80	\Windows\System32\cscobj.dll
+0x7d3d36b8	\Windows\System32\en-US\KernelBase.dll.mui
+0x7d3d3980	\Windows\ehome\ehSSO.dll
+0x7d3d5f80	\Windows\System32\dllhost.exe
+0x7d3d62f0	\Windows\System32\en-US\duser.dll.mui
+0x7d3d73f8	\Windows\System32
+0x7d3d77a0	\Endpoint
+0x7d3d7ac0	\Endpoint
+0x7d3d8038	\Windows\System32\mtxoci.dll
+0x7d3d8c38	\Windows\System32\wlanapi.dll
+0x7d3de598	\Windows\System32\C_950.NLS
+0x7d3df7a0	\Windows\Fonts\8514sys.fon
+0x7d3e0090	\$PrepareToShrinkFileSize
+0x7d3e0a18	\Windows\Fonts\verdanai.ttf
+0x7d3e1038	\Program Files\VMware\VMware Tools\plugins\vmsvc\autoUpgrade.dll
+0x7d3e3610	\Windows\System32\nlasvc.dll
+0x7d3e36c8	\Windows\System32\webservices.dll
+0x7d3e3cb0	\Windows\System32\C_1250.NLS
+0x7d3e3d68	\Windows\System32\WSDApi.dll
+0x7d3e3f20	\Windows\System32\FDResPub.dll
+0x7d3e42a0	\Windows\System32\IKEEXT.DLL
+0x7d3e44b8	\Users\johnoc\AppData\Roaming\Microsoft\Credentials
+0x7d3e6d80	\Windows\System32\mapisvc.inf
+0x7d3e6e58	\Windows\System32\bthprops.cpl
+0x7d3e6f80	\Windows\System32\srchadmin.dll
+0x7d3e7a98	\Windows\System32\webio.dll
+0x7d3e7c60	\Users\johnoc\Downloads
+0x7d3e7e10	\Windows\System32\ncsi.dll
+0x7d3eb180	\Windows\System32\winhttp.dll
+0x7d3edc48	\Windows\System32\en-US\ieframe.dll.mui
+0x7d3efab8	\Windows\Registration\R000000000006.clb
+0x7d3f27c0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d3fc038	\gqxuxj
+0x7d3fcb20	\Windows\System32\drivers\ndis.sys
+0x7d3fce48	\Program Files\VMware\VMware Tools\deployPkg.dll
+0x7d3fd8c8	\Windows\System32\ssdpapi.dll
+0x7d407410	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d408038	\Windows\System32
+0x7d41ab58	\$Directory
+0x7d41ac48	\Windows\Fonts\vgaoem.fon
+0x7d41c900	\Device\HarddiskVolume2\Windows\ServiceProfiles\LocalService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x7d420c20	\Endpoint
+0x7d422880	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d446b10	\Windows\System32\pku2u.dll
+0x7d448390	\Windows\Cursors\aero_pen.cur
+0x7d448860	\Windows\Cursors\aero_link.cur
+0x7d448918	\Windows\Cursors\aero_helpsel.cur
+0x7d448b18	\Windows\Cursors\aero_working.ani
+0x7d449890	\InitShutdown
+0x7d449a20	\Program Files\Microsoft Office\Office15\PROOF\1033\MSGR3EN.DLL
+0x7d449ad8	\Windows\System32\WlS0WndH.dll
+0x7d449f80	\InitShutdown
+0x7d44a290	\Windows\System32\sxs.dll
+0x7d44ac40	\Windows\System32\samcli.dll
+0x7d44acf8	\Windows\System32\services.exe
+0x7d44b468	\$Directory
+0x7d459428	\Windows\Fonts\gulim.ttc
+0x7d459de8	\Windows\System32\winlogon.exe
+0x7d45a3e8	\Windows\System32\mswsock.dll
+0x7d45b618	\Users\johnoc\AppData\Roaming\Microsoft\Protect\S-1-5-21-4052921086-732667259-1946374124-1000\Preferred
+0x7d45be50	\Users\johnoc\Documents
+0x7d45e488	\Windows\System32\rpcss.dll
+0x7d45e790	\Device\HarddiskVolume2\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x7d45eaa0	\Device\HarddiskVolume2\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x7d45f580	\Windows\System32\wkscli.dll
+0x7d477320	\Windows\winsxs\x86_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_581cd2bf5825dde9
+0x7d4778e8	\Windows\System32\stdole2.tlb
+0x7d4779e8	\$Directory
+0x7d479038	\Windows\debug\PASSWD.LOG
+0x7d4796e8	\Windows\Fonts\malgun.ttf
+0x7d47b430	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d47c4a0	\Windows\System32\en-US\wmploc.DLL.mui
+0x7d47c9d8	\Windows\System32\stdole2.tlb
+0x7d483760	\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a\msvcr80.dll
+0x7d48a128	\Windows\Fonts\marlett.ttf
+0x7d48b1e8	\$Directory
+0x7d48b5f8	\$Directory
+0x7d48baa0	\Windows\System32\config\SYSTEM
+0x7d48bd78	\Boot\BCD.LOG
+0x7d48be30	\Windows\System32\config\SYSTEM.LOG1
+0x7d48bf80	\Windows\System32\winevt\Logs\Microsoft-Windows-ReadyBoost%4Operational.evtx
+0x7d48c220	\Windows\System32\winsta.dll
+0x7d48dbb8	\$Directory
+0x7d4b2400	\lsass
+0x7d4b2e38	\Windows\System32\en-US\wevtapi.dll.mui
+0x7d4b31e8	\Windows\System32
+0x7d4b3400	\$Directory
+0x7d4b3918	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d4b3ae0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d4b3cc0	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x7d4b3f40	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d4b4740	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d4b4970	\Windows\System32\winevt\Logs\Microsoft-Windows-NetworkAccessProtection%4Operational.evtx
+0x7d4b4be0	\InitShutdown
+0x7d4b4c98	\Windows\Globalization\Sorting\SortDefault.nls
+0x7d4b5120	\Windows\Cursors\aero_busy.ani
+0x7d4b7038	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Recent\System and Security.lnk
+0x7d4b8a78	\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-Scheduled%4Operational.evtx
+0x7d4b8cd0	\Windows\System32\en-US\msctf.dll.mui
+0x7d4c7490	\Windows\System32\uxsms.dll
+0x7d4c8dd0	\$Directory
+0x7d4c8f80	\$Directory
+0x7d4d41c8	\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a
+0x7d4d4280	\Windows\System32\scesrv.dll
+0x7d4d4950	\Windows\System32\srvcli.dll
+0x7d4d5a18	\Windows\System32\lsm.exe
+0x7d4d5eb8	\Windows\System32\lsass.exe
+0x7d4d6aa8	\Windows\System32\apphelp.dll
+0x7d4d8648	\Windows\System32\en-US\propsys.dll.mui
+0x7d4dac78	\Windows\System32\sdengin2.dll
+0x7d4f4158	\Windows\System32
+0x7d4f4878	\Windows\System32\secur32.dll
+0x7d4f4b08	\Windows\System32\scext.dll
+0x7d4f57b8	\Windows\System32\inetpp.dll
+0x7d4f63e0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7d4f6ad8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d4f8730	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x7d4f87e8	\$Directory
+0x7d4f8e58	\$Directory
+0x7d4faf80	\Windows\System32\accessibilitycpl.dll
+0x7d5074a0	\Windows\System32\slc.dll
+0x7d507f80	\Windows\System32\PING.EXE
+0x7d508eb8	\Windows\AppPatch\pcamain.sdb
+0x7d5092b8	\Windows\System32\negoexts.dll
+0x7d509cc8	\Windows\System32\en-US\filemgmt.dll.mui
+0x7d50a1c8	\$Directory
+0x7d50a790	\Users\johnoc\AppData\Local\Temp\VBE\MSForms.exd
+0x7d50b2f0	\lsass
+0x7d50b5a0	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x7d50b948	\$Directory
+0x7d50be58	\$Directory
+0x7d50bf80	\Windows\System32\atl.dll
+0x7d50e990	\protected_storage
+0x7d50ee60	\Windows\System32\TSpkg.dll
+0x7d50ef80	\Windows\System32\cryptsp.dll
+0x7d510bd0	\Windows\System32\config\SAM
+0x7d511d80	\protected_storage
+0x7d512590	\Windows\System32\config\SAM.LOG1
+0x7d512a98	\Windows\System32\scecli.dll
+0x7d533aa0	\scerpc
+0x7d534440	\protected_storage
+0x7d535648	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8E4E510F44A56B8C8ECFEC352907C373_411140098D71F028134E9B8A21255C61
+0x7d53b038	\Windows\System32\C_28591.NLS
+0x7d543928	\Windows\System32\credssp.dll
+0x7d546318	\$Directory
+0x7d546c90	\Windows\System32\logoncli.dll
+0x7d54a188	\Windows\System32\netjoin.dll
+0x7d54b920	\Windows\System32\kerberos.dll
+0x7d54bae8	\scerpc
+0x7d54bc58	\scerpc
+0x7d54c4b8	\Users\johnoc\ntuser.dat.LOG1
+0x7d54ecb0	\Windows\System32\ubpm.dll
+0x7d550a70	\Windows\System32\bcrypt.dll
+0x7d550ec8	\Windows\System32
+0x7d5511a0	\Windows\System32\en-US\mycomput.dll.mui
+0x7d551838	\Program Files\Microsoft Office\Office15\PSTPRX32.DLL
+0x7d553580	\Windows\System32\wmsgapi.dll
+0x7d553980	\Windows\System32\config\SECURITY.LOG2
+0x7d553aa0	\Windows\System32\sysntfy.dll
+0x7d553e80	\Windows\System32\config\SECURITY.LOG1
+0x7d5546c8	\Windows\System32\config\RegBack\SECURITY
+0x7d554e30	\Windows\System32\config\SECURITY
+0x7d5a52d0	\Windows\System32\SPInf.dll
+0x7d5a5868	\Windows\System32
+0x7d5a6a88	\ntsvcs
+0x7d5a7558	\$Directory
+0x7d5a7690	\Windows\System32\config\SAM.LOG2
+0x7d5a8b58	\Windows\Fonts\ARIALNI.TTF
+0x7d667148	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagLog.etl
+0x7d6ab960	\Windows\System32\config\TxR\{6cced301-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+0x7d6ae2d0	\SystemRoot\System32\Config\TxR\{6cced301-6e01-11de-8bed-001e0bcd1824}.TM
+0x7d6b0f80	\$Directory
+0x7d6bc4a0	\$MftMirr
+0x7d6bcb28	\$Directory
+0x7d6c3148	\Windows\System32\config\TxR\{6cced301-6e01-11de-8bed-001e0bcd1824}.TM.blf
+0x7d6cd028	\$Directory
+0x7d6e2208	\Windows\bootstat.dat
+0x7d6e58d8	\$Directory
+0x7d6e8c60	\$Directory
+0x7d737410	\Windows\System32\config\DEFAULT.LOG2
+0x7d737548	\Windows\System32\winsrv.dll
+0x7d737748	\Windows\System32\config\DEFAULT.LOG1
+0x7d737960	\Windows\System32\config\DEFAULT
+0x7d738148	\Windows\System32\en-US\msconfig.exe.mui
+0x7d738eb8	\Windows\System32\odbcint.dll
+0x7d73e250	\Windows\System32
+0x7d73fe60	\Windows\System32\config\RegBack\DEFAULT
+0x7d73ff80	\Windows\System32\csrss.exe
+0x7d741038	\Windows\System32\wscui.cpl
+0x7d7417f0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d741e00	\Windows\System32\csrsrv.dll
+0x7d741f80	\Windows\System32
+0x7d744b48	\Windows\System32\basesrv.dll
+0x7d744ce8	\Windows\System32\locale.nls
+0x7d785a60	\Windows\Fonts\ega40woa.fon
+0x7d785be0	\Windows\Fonts\cga40woa.fon
+0x7d785f18	\Windows\Fonts\dosapp.fon
+0x7d7f8d78	\Windows\System32
+0x7d7f9148	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7d7f9e60	\Users\johnoc\Documents
+0x7d8118b8	\Users\johnoc\AppData\Roaming\Microsoft\SystemCertificates\My
+0x7d8615f0	\$Directory
+0x7d861d68	\Windows\System32\WPDShServiceObj.dll
+0x7d872708	\Windows\System32\catroot2\edb.log
+0x7d872b80	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Internet Explorer (No Add-ons).lnk
+0x7d95ece8	\Windows\System32\rsaenh.dll
+0x7da167e8	\Windows\System32\scrobj.dll
+0x7da36a98	\$Mft
+0x7da6fe18	\$Directory
+0x7db19248	\ProgramData\Microsoft\Windows\DRM\drmstore.hds
+0x7db19760	\$Directory
+0x7db19818	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\696F3DE637E6DE85B458996D49D759AD
+0x7db19d68	\Windows\System32\msimtf.dll
+0x7db19e88	\Windows\Fonts\verdanaz.ttf
+0x7db893c0	\Windows\System32\cscsvc.dll
+0x7db89560	\Windows\System32\PeerDist.dll
+0x7db89ac8	\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a
+0x7dbe0228	\Windows\System32\en-US\consent.exe.mui
+0x7dbe0510	\Windows\System32\en-US\zipfldr.dll.mui
+0x7dc2f0e8	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+0x7dc2f2f0	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+0x7dc2fb78	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2
+0x7dc2feb8	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT
+0x7dc45790	\$Directory
+0x7dc45a78	\Windows\System32\rpcrt4.dll
+0x7dc4fbd8	\Windows\System32\en-US\propsys.dll.mui
+0x7dc6b1c0	\Windows\System32\evr.dll
+0x7dca1950	\Windows\System32\msmpeg2vdec.dll
+0x7dca4858	\Windows\System32\stdole2.tlb
+0x7dca4f80	\Windows\System32\provsvc.dll
+0x7dcb7f80	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x7dccb9d8	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F5F320A94D4D2B4465D8F17E2BB2D351_ECF36D33346F638714E7EC9A3C7141B9
+0x7dccbe70	\Users\johnoc\AppData\Roaming\Microsoft\Templates\Normal.dotm
+0x7dcda168	\Windows\System32\fontsub.dll
+0x7dcda538	\Windows\System32\DriverStore\infstrng.dat
+0x7dceb220	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\9A19ADAD9D098E039450ABBEDD5616EB_5726B48B888CA275E30F5C5C2711E63E
+0x7dceb508	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\EA618097E393409AFA316F0F87E2C202_6293AB56BC8BA5007651247AAE3C5246
+0x7dcfb888	\Windows\System32\elslad.dll
+0x7dd03328	\Windows\System32\miguiresource.dll
+0x7dd036a0	\Users\johnoc\Contacts\desktop.ini
+0x7dd03f80	\Program Files\Common Files\microsoft shared\EQUATION
+0x7dd22498	\$Mft
+0x7dd22b70	\$Directory
+0x7dd25288	\Windows\System32\drmv2clt.dll
+0x7dd54278	\Windows\System32\esentprf.dll
+0x7dd54550	\srvsvc
+0x7dd54e10	\Windows\System32\iphlpsvc.dll
+0x7dd56ac0	\Windows\System32\elslad.dll
+0x7dd6b268	\Windows\System32\pcwum.dll
+0x7dd6ba58	\Windows\System32\devrtl.dll
+0x7dd6bca0	\Windows\System32\umpnpmgr.dll
+0x7dd6c9a8	\Program Files\Microsoft Office\Office15\OART.DLL
+0x7dd7bb88	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.dir
+0x7dd7bde0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.wid
+0x7dd90138	\Windows\System32
+0x7dd919b0	\$Directory
+0x7ddc95d0	\$Directory
+0x7ddcc810	\Windows\AppPatch\sysmain.sdb
+0x7de06158	\$Directory
+0x7de32e20	\Winsock2\CatalogChangeListener-200-0
+0x7de32f80	\Endpoint
+0x7de367f8	\$Directory
+0x7de36c28	\Windows\System32\httpapi.dll
+0x7de36e10	\System Volume Information\tracking.log
+0x7de50238	\
+0x7de50470	\Windows\System32\wbem\wbemess.dll
+0x7de50f80	\Windows\System32\ncobjapi.dll
+0x7de5b580	\Windows\System32\sqlceqp30.dll
+0x7de5bac8	\ProgramData\Microsoft\Windows\Start Menu
+0x7de5bd18	\Windows\System32\l_intl.nls
+0x7de5f6f8	\Windows\System32\msra.exe
+0x7de5f998	\Windows\System32\ddraw.dll
+0x7de7b740	\vgauth-service
+0x7de8e9c0	\Windows\System32\QAGENTRT.DLL
+0x7de93560	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000002
+0x7de937c0	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000001
+0x7de9cac0	\Windows\System32\wininit.exe
+0x7de9ceb8	\Windows\System32\sxssrv.dll
+0x7de9f8b8	\Windows\System32\efslsaext.dll
+0x7deb3c18	\Windows\Fonts\segoeuil.ttf
+0x7deb51a0	\Windows\System32\wdscore.dll
+0x7deb54d8	\Program Files\VMware\VMware Tools\plugins\vmsvc\timeSync.dll
+0x7deb5648	\Windows\System32\sqmapi.dll
+0x7deb5ab8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7deb5f80	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7debf8e0	\Users\johnoc\Searches\desktop.ini
+0x7debfa78	\$Directory
+0x7ded5ca0	\Program Files\VMware\VMware Tools\libeay32.dll
+0x7ded5d58	\Windows\Registration\R000000000006.clb
+0x7dedd458	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTMsMpPsSession7.etl
+0x7deddec8	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.dir
+0x7deddf80	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010006.ci
+0x7dee1310	\$Extend\$ObjId
+0x7def8038	\Windows\System32\Msdtc\Trace\dtctrace.log
+0x7def8868	\$Directory
+0x7df04038	\Windows\System32\spool\prtprocs\w32x86\winprint.dll
+0x7df04110	\Windows\System32\win32spl.dll
+0x7df064f0	\Windows\System32\umb.dll
+0x7df07240	\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x7df07438	\Windows\System32\perfdisk.dll
+0x7df074f0	\Users\johnoc\AppData\Roaming\Microsoft\Templates\Normal.dotm
+0x7df15398	\Windows\System32\winevt\Logs\Microsoft-Windows-Bits-Client%4Operational.evtx
+0x7df15450	\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+0x7df15cb8	\Windows\System32\mssitlb.dll
+0x7df165a8	\Windows\System32
+0x7df16c98	\Windows\System32\comsvcs.dll
+0x7df180e8	\$Directory
+0x7df1a208	\Windows\System32\appinfo.dll
+0x7df1a528	\Windows\System32\dwmcore.dll
+0x7df1acc8	\Windows\System32\advpack.dll
+0x7df1b340	\Windows\System32\d3d10_1.dll
+0x7df1b6c0	\Windows\System32\msxml3r.dll
+0x7df1e5d8	\ProgramData\Microsoft\Windows Defender\Definition Updates\{4A914D27-2C33-4FD8-9CFD-A97728ECCE77}\mpasbase.vdm
+0x7df28240	\Windows\System32\devobj.dll
+0x7df286c8	\Windows\System32\comctl32.dll
+0x7df289e8	\Windows\System32\KernelBase.dll
+0x7df28e88	\Windows\System32\wintrust.dll
+0x7df29560	\ProgramData\Microsoft\Windows\Caches\{7CD55808-3D38-4DD5-90C9-62F0E6EE60D4}.2.ver0x0000000000000001.db
+0x7df297e8	\$Directory
+0x7df29c28	\Windows\winsxs\x86_microsoft.vc90.mfc_1fc8b3b9a1e18e3b_9.0.30729.6161_none_4bf7e3e2bf9ada4c\mfc90u.dll
+0x7df2a568	\$Directory
+0x7df2ab28	\$Directory
+0x7df2abe0	\Windows\System32\winevt\Logs\Microsoft-Windows-UAC%4Operational.evtx
+0x7df403c0	\Windows\System32\wbem\wmiprov.dll
+0x7df41038	\Windows\System32\scrrun.dll
+0x7df41988	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRS{06358FB3-4236-4566-8BC5-AF74EE6DBEA6}.tmp
+0x7df41ca8	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x7df43ac0	\Windows\System32\shdocvw.dll
+0x7df442e0	\Windows\System32\wucltux.dll
+0x7df44eb8	\Windows\Fonts\cambriab.ttf
+0x7df462c8	\Windows\System32\batmeter.dll
+0x7df46ea8	\Windows\System32\dwmredir.dll
+0x7df486a8	\Endpoint
+0x7df48910	\$Directory
+0x7df55498	\Windows\System32\msasn1.dll
+0x7df556e0	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventlog-Security.etl
+0x7df55788	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventLog-Application.etl
+0x7df55b58	\Windows\System32\crypt32.dll
+0x7df59408	\Windows\System32\smss.exe
+0x7df7ac00	\Windows\System32\RpcRtRemote.dll
+0x7df7b648	\Windows\System32\appwiz.cpl
+0x7df7bc70	\Windows\System32\msftedit.dll
+0x7df7bec8	\Windows\AppPatch\AcGenral.dll
+0x7df7e158	\Windows\System32\sysclass.dll
+0x7df7e910	\Windows\AppPatch\AcLayers.dll
+0x7df7ee80	\Windows\System32\OobeFldr.dll
+0x7df80188	\$Directory
+0x7df80338	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTUBPM.etl
+0x7df809b0	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventLog-System.etl
+0x7df82570	\SystemRoot\System32\Config\TxR\{6cced301-6e01-11de-8bed-001e0bcd1824}.TM
+0x7df82e18	\Windows\System32\config\TxR\{6cced301-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+0x7df93458	\ProtectedPrefix\NetWorkService
+0x7df93510	\ProtectedPrefix\NetWorkService
+0x7df935c8	\ProtectedPrefix\LocalService
+0x7dfb1178	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Sticky Notes.lnk
+0x7dfb1460	\Program Files\Google\Chrome\Application\75.0.3770.142\v8_context_snapshot.bin
+0x7dfb18e0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010003.wid
+0x7dfb3158	\Windows\System32\bcryptprimitives.dll
+0x7dfb32c8	\Windows\System32\ntdll.dll
+0x7dff38b8	\Windows\System32\config\RegBack\SOFTWARE
+0x7dff4ed8	\$Directory
+0x7dff4f80	\$Directory
+0x7e001038	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7e001238	\Program Files\VMware\VMware Tools\plugins\vmsvc\grabbitmqProxy.dll
+0x7e0012f0	\Program Files\VMware\VMware Tools\plugins\vmsvc\hwUpgradeHelper.dll
+0x7e0013a8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7e001738	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7e0018a8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7e001c40	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7e001cf8	\Program Files\VMware\VMware Tools\plugins\vmsvc\bitMapper.dll
+0x7e008a70	\Windows\System32\wbem\WmiPerfInst.dll
+0x7e00bd68	\Windows\Fonts
+0x7e00c5d0	\Windows\System32
+0x7e011248	\Users\johnoc\Downloads\desktop.ini
+0x7e011690	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\On-Screen Keyboard.lnk
+0x7e01c450	\ProgramData\Microsoft\Windows Defender\Definition Updates\{4A914D27-2C33-4FD8-9CFD-A97728ECCE77}\mpasdlta.vdm
+0x7e01ca30	\$Directory
+0x7e01ced8	\Endpoint
+0x7e032610	\Users\johnoc\Links\desktop.ini
+0x7e032d98	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\INDEX.000
+0x7e039490	\Windows\System32\sdcpl.dll
+0x7e039548	\Windows\System32\SensApi.dll
+0x7e039600	\Users\johnoc\Documents\Imager_Lite_3.1.1\boost_date_time-vc100-mt-1_49.dll
+0x7e03a420	\Windows\System32\wbem\wmipcima.dll
+0x7e03a588	\Windows\System32\perfos.dll
+0x7e045cf8	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.wid
+0x7e04aa98	\$Directory
+0x7e069880	\ProgramData\Microsoft\Windows Defender\Definition Updates\{4A914D27-2C33-4FD8-9CFD-A97728ECCE77}\mpasbase.vdm
+0x7e07caa8	\Windows\System32\ssdpsrv.dll
+0x7e084150	\Windows\System32\audiodev.dll
+0x7e084370	\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+0x7e084868	\Windows\System32\en-US\shdocvw.dll.mui
+0x7e084b50	\Windows\System32\en-US\shlwapi.dll.mui
+0x7e0b32c8	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010002.dir
+0x7e0b3568	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010002.ci
+0x7e0b3660	\ProgramData\Microsoft\Search\Data\Applications\Windows\GatherLogs\SystemIndex\SystemIndex.3.gthr
+0x7e0bc9d8	\Windows\System32\lpk.dll
+0x7e0bcd58	\Windows\System32\imagehlp.dll
+0x7e0bced8	\Windows\System32\usp10.dll
+0x7e0bf660	\Windows\System32\schannel.dll
+0x7e0d4220	\ProgramData\Microsoft\Search\Data\Applications\Windows\MSStmp.log
+0x7e0d4648	\Windows\System32\vm3dum_10.dll
+0x7e0d4e88	\$Directory
+0x7e0e2d70	\Program Files\Windows Defender\MpRTP.dll
+0x7e0e2f80	\Windows\System32\en-US\SyncCenter.dll.mui
+0x7e0ec4d8	\Program Files\Microsoft Office\Office15\MAPIPH.DLL
+0x7e0ec810	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7e0f7d68	\Windows\System32\wdi\LogFiles\WdiContextLog.etl.002
+0x7e107620	\Windows\win.ini
+0x7e107e58	\Windows\System32\sspisrv.dll
+0x7e107f80	\Windows\System32\wship6.dll
+0x7e119aa8	\Windows\System32\en-US\rstrui.exe.mui
+0x7e11f948	\Windows\System32\en-US\msinfo32.exe.mui
+0x7e11fc30	\Windows\System32\SyncInfrastructure.dll
+0x7e11ff80	\Windows\Fonts\8514oem.fon
+0x7e1213b8	\Endpoint
+0x7e121a50	\$Directory
+0x7e121b98	\epmapper
+0x7e150320	\$Directory
+0x7e1503c8	\$Directory
+0x7e175e60	\Windows\System32\cryptdll.dll
+0x7e175f80	\Windows\System32\lsasrv.dll
+0x7e18de58	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010004.dir
+0x7e193280	\Windows\System32\en-US\dnsapi.dll.mui
+0x7e1934e0	\Windows\System32\Speech\SpeechUX\sapi.cpl
+0x7e193ee8	\Windows\System32\RacEngn.dll
+0x7e1a2490	\$BitMap
+0x7e1a2e00	\$Directory
+0x7e1b3208	\Windows\System32\wevtapi.dll
+0x7e1b36e0	\Windows\System32\samsrv.dll
+0x7e1b3990	\Windows\Fonts\tahoma.ttf
+0x7e1b3bd8	\Windows\Fonts\segoeuib.ttf
+0x7e1bd258	\Windows\Fonts\StaticCache.dat
+0x7e1bd528	\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\Windows\WindowsUpdate.log
+0x7e1c4668	\Windows\System32\netapi32.dll
+0x7e1d1790	\Windows\System32\imageres.dll
+0x7e1d3d70	\Windows\System32\en-US\msvfw32.dll.mui
+0x7e1e4528	\Windows\System32\aelupsvc.dll
+0x7e1e4688	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Sync Center.lnk
+0x7e1e4810	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Speech Recognition.lnk
+0x7e1e4f80	\$Directory
+0x7e1e6488	\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Character Map.lnk
+0x7e1e6688	\Windows\System32\wsqmcons.exe
+0x7e1e6740	\Program Files\Common Files\microsoft shared\OfficeSoftwareProtectionPlatform\OSPPOBJS.DLL
+0x7e1e6910	\Windows\System32\msinfo32.exe
+0x7e27bcb0	\Windows\System32\spfileq.dll
+0x7e27c558	\Windows\System32\ieframe.dll
+0x7e27cbc0	\Windows\System32\ntshrui.dll
+0x7e27d038	\Windows\System32\mspaint.exe
+0x7e27d1a8	\Windows\System32\FXSRESM.dll
+0x7e27d5e8	\Windows\System32\taskeng.exe
+0x7e27e700	\Windows\System32\usbmon.dll
+0x7e27e7b8	\Windows\System32\WSDMon.dll
+0x7e27f288	\Windows\System32\fdPnp.dll
+0x7e2814b0	\Program Files\Windows Defender\MpClient.dll
+0x7e281c98	\Windows\System32\wsock32.dll
+0x7e281d98	\Windows\System32\cscapi.dll
+0x7e2b7c88	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Magnify.lnk
+0x7e2bf168	\Program Files\Google\Chrome\Application\75.0.3770.142\chrome_elf.dll
+0x7e2bf288	\Program Files\Microsoft Office\Office15\EXSEC32.DLL
+0x7e2fbb68	\Windows\System32\en-US\authfwgp.dll.mui
+0x7e2fc088	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7e2fc558	\Program Files\VMware\VMware Tools\plugins\vmsvc\guestInfo.dll
+0x7e2fc660	\Program Files\VMware\VMware Tools\gthread-2.0.dll
+0x7e2fc718	\Program Files\VMware\VMware Tools\plugins\vmsvc\vmbackup.dll
+0x7e2fc9b0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7e2fcc28	\Program Files\VMware\VMware Tools\plugins\vmsvc\resolutionSet.dll
+0x7e3046a8	\Program Files\Microsoft Office\Office15\CONTAB32.DLL
+0x7e304878	\Program Files\Google\Chrome\Application\75.0.3770.142\libglesv2.dll
+0x7e304a98	\Program Files\Windows Media Player\wmpnetwk.exe
+0x7e30aa38	\$Directory
+0x7e30d328	\.\.
+0x7e30df80	\Windows\System32\midimap.dll
+0x7e3672e8	\Windows\System32\iphlpsvc.dll
+0x7e367540	\Windows\System32\srvsvc.dll
+0x7e367820	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7e3678d8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7e37d618	:$VMCB$
+0x7e38d878	\Program Files\Windows Media Player\wmpnssci.dll
+0x7e38db60	\Windows\AppCompat\Programs\RecentFileCache.bcf
+0x7e38df80	\Windows\System32\en-US\recdisc.exe.mui
+0x7e3915a8	\Windows\System32\themecpl.dll
+0x7e391818	\Windows\System32\NlsData0009.dll
+0x7e3919c0	\Windows\System32\PortableDeviceTypes.dll
+0x7e394788	\Windows\Registration\R000000000006.clb
+0x7e394c50	\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+0x7e3a72f0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010005.dir
+0x7e3a75a8	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\INDEX.000
+0x7e3a77a0	\$Extend\$RmMetadata\$TxfLog\$TxfLog.blf
+0x7e3b13e8	\Windows\System32\sechost.dll
+0x7e3b1b38	\Windows\System32\ws2_32.dll
+0x7e3b1ce8	\Windows\System32\clbcatq.dll
+0x7e3b1e68	\Windows\System32\advapi32.dll
+0x7e3b3610	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Cache\data_3
+0x7e3b3888	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Cache\data_2
+0x7e3b4b30	\pagefile.sys
+0x7e3b6400	\Windows\System32\NaturalLanguage6.dll
+0x7e3be2f8	\Windows\System32\msvfw32.dll
+0x7e3c1388	\Program Files\Internet Explorer\ieproxy.dll
+0x7e3c1698	\Windows\System32\zipfldr.dll
+0x7e3c54d8	\$Directory
+0x7e3c5b40	\$Directory
+0x7e3c5d60	\$Directory
+0x7e3c71f0	\Program Files\Google\Chrome\Application\chrome.exe
+0x7e3c73e0	\Program Files\Google\Chrome\Application\75.0.3770.142\icudtl.dat
+0x7e3c7550	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\History
+0x7e3c7de0	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\7423F88C7F265F0DEFC08EA88C3BDE45_D975BBA8033175C8D112023D8A7A8AD6
+0x7e3e04d8	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Shortcuts
+0x7e3e0648	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\computer.lnk
+0x7e3e2cd8	\Windows\System32\en-US\KernelBase.dll.mui
+0x7e3ef570	\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+0x7e3efbf8	\Windows\System32\NlsData0000.dll
+0x7e3efcb0	\Windows\System32\p2pcollab.dll
+0x7e3fba78	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\SecStore\CiST0000.000
+0x7e3fcc88	\Windows\System32\hhctrl.ocx
+0x7e3ff038	\Windows\System32\wdiasqmmodule.dll
+0x7e56b7b0	\Windows\System32\WMASF.DLL
+0x7e56bea0	\Windows\System32\cscui.dll
+0x7e56c950	\Windows\System32\gameux.dll
+0x7e56cba8	\Windows\System32\cscdll.dll
+0x7e56cf10	\Windows\System32\wmploc.DLL
+0x7e56d450	\Windows\System32\mshtml.dll
+0x7e56d6e8	\Windows\System32\msls31.dll
+0x7e56dbe0	\Windows\System32\prnfldr.dll
+0x7e56ec70	\Windows\System32\msxml3.dll
+0x7e56ef80	\Windows\System32\mssrch.dll
+0x7e6c0790	\$Directory
+0x7e6c0a78	\Windows\System32\rpcrt4.dll
+0x7e8f4390	\Windows\System32\gdi32.dll
+0x7e8f4670	\Windows\System32\cfgmgr32.dll
+0x7e8f4858	\Windows\System32\iertutil.dll
+0x7e8f4c68	\Windows\System32\difxapi.dll
+0x7e8f4de8	\Windows\System32\urlmon.dll
+0x7ea105c0	\Windows\System32\config\SOFTWARE.LOG2
+0x7ea109b0	\Windows\System32\config\SYSTEM.LOG2
+0x7ea5c7a0	\Windows\System32\spoolss.dll
+0x7ea5c858	\Windows\System32\PrintIsolationProxy.dll
+0x7ea5ec90	\Windows\System32\FXSST.dll
+0x7ea5ed48	\Windows\System32\FXSMON.dll
+0x7ea5ef80	\Windows\System32\tcpmon.dll
+0x7ea60308	\Endpoint
+0x7ea604b8	\Endpoint
+0x7ea61ac0	\Windows\System32\FWPUCLNT.DLL
+0x7ea61da0	\$Directory
+0x7ea62240	\$Directory
+0x7ea629f0	\Windows\System32\vaultcli.dll
+0x7ea81400	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af
+0x7ea81bf8	\Windows\System32\snmpapi.dll
+0x7ea81eb8	\Windows\System32\wsnmp32.dll
+0x7ea828d8	\Windows\System32\spool\prtprocs\w32x86\TPWinPrn.dll
+0x7ea82e48	\Windows\System32\en-US\KernelBase.dll.mui
+0x7ea83840	\$Directory
+0x7ea838f8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\comctl32.dll
+0x7ea839b0	\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80
+0x7ea83ef0	\Windows\System32\TPVMMon.dll
+0x7ea845c8	\Windows\System32\TPVMW32.dll
+0x7ea84880	\Windows\Fonts\ARIALN.TTF
+0x7ea84938	\Windows\System32\tprdpw32.dll
+0x7ead6498	\Windows\System32\wininet.dll
+0x7ead6890	\Windows\System32\msctf.dll
+0x7ead6b70	\Windows\System32\kernel32.dll
+0x7ead6e88	\Windows\System32\Wldap32.dll
+0x7eadc800	\Windows\System32\oleaut32.dll
+0x7eadc9b0	\Windows\System32\ole32.dll
+0x7eadcb98	\Windows\System32\user32.dll
+0x7eb03440	\Windows\System32\msutb.dll
+0x7eb03798	\Windows\Fonts\segoeuii.ttf
+0x7eb04458	\Windows\System32\mlang.dll
+0x7eb04608	\Users\johnoc\Documents\Imager_Lite_3.1.1\libeay32.dll
+0x7eb056d0	\Windows\System32\calc.exe
+0x7eb06038	\Windows\System32\esent.dll
+0x7eb064d8	\Windows\System32\mstsc.exe
+0x7eb06ee0	\Users\johnoc\Desktop
+0x7eb95690	\Windows\System32\en-US\ntmarta.dll.mui
+0x7ebe75e8	\$Directory
+0x7ebe7cc0	\$Directory
+0x7ebe8038	\Windows\System32\dimsjob.dll
+0x7ebe8920	\Windows\System32\pdh.dll
+0x7ebe8c10	\Windows\Fonts\ariali.ttf
+0x7ebe95c0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010001.ci
+0x7ebe9778	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010001.dir
+0x7ebea220	\Program Files\Google\Chrome\Application\75.0.3770.142\libegl.dll
+0x7ebea788	\Program Files\Common Files\microsoft shared\OFFICE15\MSORES.DLL
+0x7ecfdbe0	\Windows\Microsoft.NET\Framework\v2.0.50727\mscorrc.dll
+0x7ee05e60	\Windows\System32\normnfd.nls
+0x7ee07318	\$Directory
+0x7ee08240	\Windows\System32\scrrun.dll
+0x7ee084e0	\Windows\System32\C_936.NLS
+0x7ee088e0	\Windows\System32\en-US\rasapi32.dll.mui
+0x7ee0a998	\ProgramData\Microsoft\Search\Data\Applications\Windows\MSS.log
+0x7ee10990	\
+0x7ee123e8	\Users\johnoc\AppData\Roaming\Microsoft\Word\~WRD0000.tmp
+0x7ee24248	\Users\johnoc\AppData\Local\Google\Chrome\User Data\CrashpadMetrics.pmaive.pma
+0x7ee2cf80	ຠ詫rogram Files\QuickTime\QTSystem\Qui
+0x7ee33038	\PROGRA~1\COMMON~1\MICROS~1\VBA\VBA7.1\1033\VBE7INTL.DLL
+0x7ee3acd0	\Windows\System32\en-US\kernel32.dll.mui
+0x7ee48bf0	\Windows\assembly\NativeImages_v2.0.50727_32\System.Management.A#\a8e3a41ecbcc4bb1598ed5719f965110\System.Management.Automation.ni.dll
+0x7ee49038	\PROGRA~1\COMMON~1\MICROS~1\VBA\VBA7.1\VBE7.DLL
+0x7ee4b028	\System Volume Information\Syscache.hve.LOG1
+0x7ee60a40	\samr
+0x7ee63120	\Windows\System32\cscript.exe
+0x7ee67768	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7ee74d70	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7ee78b78	\Windows\System32\FM20.DLL
+0x7ee7a748	\System Volume Information\Syscache.hve
+0x7ee7d7f0	\$Directory
+0x7ee84820	\Windows\System32\en-US\shell32.dll.mui
+0x7ee9db48	\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\82d7758f278f47dc4191abab1cb11ce3\Microsoft.PowerShell.Commands.Utility.ni.dll
+0x7eed5400	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x7eed54b8	\Windows\System32\en-US\propsys.dll.mui
+0x7eedcae8	\$LogFile
+0x7eee9f80	\Windows\System32\en-US\setupapi.dll.mui
+0x7ef21b88	\Windows\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll
+0x7ef30ac0	\Windows\System32\en-US\user32.dll.mui
+0x7ef3a938	\Windows\System32\winevt\Logs\Setup.evtx
+0x7ef564f8	\wkssvc
+0x7ef770d0	\Windows\Registration\R000000000006.clb
+0x7f002598	\Windows\System32\en-US\imageres.dll.mui
+0x7f011478	\Users\johnoc\Documents\Imager_Lite_3.1.1\msvcp100.dll
+0x7f015ec8	\Windows\Fonts\cambriai.ttf
+0x7f020408	\Windows\System32\en-US\SyncCenter.dll.mui
+0x7f0204c0	\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnostics-Performance%4Operational.evtx
+0x7f021918	\Windows\System32\config\TxR\{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.blf
+0x7f0241a0	\Windows\System32\config\TxR\{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.0.regtrans-ms
+0x7f035038	\Users\johnoc\Documents\Imager_Lite_3.1.1\LMS.dll
+0x7f037bf0	\Windows\assembly\NativeImages_v2.0.50727_32\System.Core\fbc05b5b05dc6366b02b8e2f77d080f1\System.Core.ni.dll
+0x7f03bc60	\Users\johnoc\Downloads
+0x7f042768	\Users\johnoc\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x7f05ecb0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f061d58	\Endpoint
+0x7f061ef0	\Program Files\Common Files\System\ado\msado15.dll
+0x7f0677e0	\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a
+0x7f067b20	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f076440	\Users\johnoc\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x7f089b20	\$Directory
+0x7f089c68	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRS{4455C7CA-CAD7-41DB-A0DA-AF422766BBEE}.tmp
+0x7f08ab60	\MsFteWds
+0x7f091038	\$Directory
+0x7f0ab968	\Program Files\Common Files\microsoft shared\VBA\VBA7.1\VBEUI.DLL
+0x7f0b9630	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x7f0bc8e0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f0c1490	\$Directory
+0x7f0c1760	\Windows\System32\en-US\explorerframe.dll.mui
+0x7f0c5f80	\Endpoint
+0x7f0cee10	\$Directory
+0x7f0d03e8	\MsFteWds
+0x7f0d0ab8	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x7f0d0f80	\Windows\System32\en-US\prnfldr.dll.mui
+0x7f0d3330	\Users\johnoc\Links
+0x7f0d3730	\udnmjv
+0x7f0d6778	\Users\johnoc\Documents\Imager_Lite_3.1.1\mfc100u.dll
+0x7f0d8518	\Users\johnoc\Links
+0x7f0ddb58	\srvsvc
+0x7f0eb418	\Windows\System32\en-US\msvfw32.dll.mui
+0x7f0eb528	\$LogFile
+0x7f0eef18	\Windows\System32\dpx.dll
+0x7f0f3e40	\Windows\System32\en-US\wshtcpip.dll.mui
+0x7f0f6b50	\Users\johnoc\Documents\Imager_Lite_3.1.1\FTK Imager.exe
+0x7f0f8218	\Windows\System32\en-US\setupapi.dll.mui
+0x7f0f9190	\Windows\System32\en-US\urlmon.dll.mui
+0x7f0fb850	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData
+0x7f0fc3c8	\Windows\System32\en-US\cscript.exe.mui
+0x7f0fd9e8	\Users\johnoc\Documents\Imager_Lite_3.1.1\icudt44.dll
+0x7f0fdaf0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f103448	\Windows\assembly\NativeImages_v2.0.50727_32\System\9e0a3b9b9f457233a335d7fba8f95419\System.ni.dll
+0x7f1042c0	\$Mft
+0x7f107f80	\Users\johnoc\Documents\Imager_Lite_3.1.1\da7zip.dll
+0x7f1112d0	\Endpoint
+0x7f115cc8	\$Directory
+0x7f116f80	\Windows\System32\en-US\KernelBase.dll.mui
+0x7f119550	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x7f11a528	\Windows\System32\en-US\setupapi.dll.mui
+0x7f11ef80	\Windows\System32\en-US\user32.dll.mui
+0x7f1251d0	\Windows\System32\en-US\umpnpmgr.dll.mui
+0x7f127640	\Windows\System32\en-US\MMDevAPI.dll.mui
+0x7f128ee0	\$Directory
+0x7f12a588	\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sortkey.nlp
+0x7f12a7a0	\Windows\Fonts\calibri.ttf
+0x7f12ba58	\Windows\System32\en-US\sechost.dll.mui
+0x7f136438	\Windows\System32\en-US\winhttp.dll.mui
+0x7f147318	\System Volume Information\{4d9f7ddd-b389-11e9-b6c3-8c8590b39533}{3808876b-c176-4e48-b7ae-04046e6cc752}
+0x7f1526d0	\Users\johnoc\AppData\Local\Temp\rad41020.tmp\rfhyMVOQxfc.exe
+0x7f15dd70	\Windows\assembly\NativeImages_v2.0.50727_32\System.DirectorySer#\45ec12795950a7d54691591c615a9e3c\System.DirectoryServices.ni.dll
+0x7f162f80	\Windows\System32
+0x7f163140	\Windows\System32\en-US\msctf.dll.mui
+0x7f165120	\$Directory
+0x7f16e578	\srvsvc
+0x7f176e20	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\94308059B57B3142E455B38A6EB92015
+0x7f1780a0	\Program Files\Microsoft Office\Office15\MSOHEV.DLL
+0x7f18a228	\Windows\System32\en-US\srchadmin.dll.mui
+0x7f18ab50	\Windows\System32\en-US\crypt32.dll.mui
+0x7f19b2b8	\Users\johnoc\Documents\Imager_Lite_3.1.1
+0x7f19b428	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x7f1a20f0	\Users\johnoc\Documents\Imager_Lite_3.1.1\boost_filesystem-vc100-mt-1_49.dll
+0x7f1a2d08	\Windows\System32\en-US\setupapi.dll.mui
+0x7f1a8740	\Windows\assembly\NativeImages_v2.0.50727_32\System.Management\6f3b99ed0b791ff4d8aa52f2f0cd0bcf\System.Management.ni.dll
+0x7f1ab038	\PROGRA~1\COMMON~1\MICROS~1\VBA\VBA7.1\VBE7.DLL
+0x7f1b03b8	\Windows\System32\en-US\winmm.dll.mui
+0x7f1b3318	\$Directory
+0x7f1b9f80	\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+0x7f1c3b50	\Windows\Fonts\symbol.ttf
+0x7f1d3bc8	\Users\johnoc\Downloads
+0x7f1d6c10	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x7f1d8108	\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sortkey.nlp
+0x7f1e1f80	\Users\johnoc\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012019073120190801\index.dat
+0x7f1e3cc0	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x7f1e7d98	\Users\johnoc\Documents
+0x7f1ec100	\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll
+0x7f1edf80	\Users\johnoc\Documents\Imager_Lite_3.1.1\ad_log.dll
+0x7f1efba0	\$Directory
+0x7f1f3f80	\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll
+0x7f1f8668	\$Directory
+0x7f1fa190	\Windows\System32\en-US\duser.dll.mui
+0x7f1fe1a0	\Users\johnoc\AppData\Local\Temp\ad_driver.sys
+0x7f1fe8f0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f200438	\Program Files\Microsoft Office\Office15\SHAREPOINTPROVIDER.DLL
+0x7f207dd8	\$Directory
+0x7f207f80	\Users\johnoc\AppData\Roaming\Microsoft\Templates\NormalEmail.dotm
+0x7f208f80	\Program Files\Common Files\microsoft shared\OFFICE15\MSPTLS.DLL
+0x7f209498	\Program Files\Microsoft Office\Office15\ADDINS\UmOutlookAddin.dll
+0x7f209780	\Program Files\Microsoft Office\Office15\ADDINS\UmOutlookAddin.dll
+0x7f20b5f0	\Program Files\Microsoft Office\Office15\1033\SOCIALCONNECTORRES.DLL
+0x7f20b840	\$Directory
+0x7f20bb60	\Program Files\Microsoft Office\Office15\ADDINS\ColleagueImport.dll
+0x7f20bea8	\Program Files\Microsoft Office\Office15\1033\UmOutlookStrings.dll
+0x7f20c038	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Compatibility-Troubleshooter.evtx
+0x7f210038	\
+0x7f211268	\Users\johnoc\AppData\Local\Microsoft\Outlook\John.opoc2@gmail.com(4).ost
+0x7f212998	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_TCPrefs_2_C48BF95F278A0E4DA674F81ED6F18261.dat
+0x7f212d28	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_Calendar_2_A5810E370F6649449C5387EF7B8F6B7B.dat
+0x7f215158	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx
+0x7f215820	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Inventory.evtx
+0x7f2166a0	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx
+0x7f216e50	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Problem-Steps-Recorder.evtx
+0x7f21b038	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_ConversationPrefs_2_F9F4407478CA8C47A8240366EDE91287.dat
+0x7f21b758	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_AvailabilityOptions_2_5A2A5A79983C1B43AC248CD1FA291804.dat
+0x7f21cea8	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_TableViewPreviewPrefs_2_BEC6958FE1274144941D01D8EC6590DA.dat
+0x7f21d930	\Windows\assembly\NativeImages_v2.0.50727_32\System.Transactions\ad18f93fc713db2c4b29b25116c13bd8\System.Transactions.ni.dll
+0x7f222b90	\lsass
+0x7f224a50	\$Directory
+0x7f229a18	\$Directory
+0x7f22b220	\Users\johnoc\Documents\Imager_Lite_3.1.1\adefs.dll
+0x7f22e1c0	\$Directory
+0x7f22e538	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f22e760	\Windows\winsxs\x86_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_581cd2bf5825dde9\comctl32.dll.mui
+0x7f22f038	\Users\johnoc\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+0x7f22f758	\Device\HarddiskVolume2\Users\johnoc\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x7f22f9f8	\Users\johnoc\NTUSER.DAT
+0x7f22ff80	\Device\HarddiskVolume2\Users\johnoc\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x7f2309f8	\Windows\System32\en-US\KernelBase.dll.mui
+0x7f231490	\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+0x7f2325d0	\Program Files\Microsoft Office\Office15\SOCIALCONNECTOR.DLL
+0x7f2328e8	\Windows\System32\en-US\msctf.dll.mui
+0x7f233d10	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x7f234230	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f2343f8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f234a98	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f234c60	\Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Admin.evtx
+0x7f2367d8	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x7f2369a0	\Users\johnoc\AppData\Local\Microsoft\Windows\Caches\cversions.1.db
+0x7f236ec8	\ProgramData\Microsoft\Windows\Start Menu
+0x7f2372d8	\MsFteWds
+0x7f237a68	\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat
+0x7f237f80	\Windows\System32\wshom.ocx
+0x7f238b18	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f238d48	\Windows\Registration\R000000000006.clb
+0x7f23a0b0	\Windows\Registration\R000000000006.clb
+0x7f23a2c8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f23a898	\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 Tools\Database Compare 2013.lnk
+0x7f23b9a0	\Windows\System32\msdart.dll
+0x7f23da38	\Windows\System32\winevt\Logs\Microsoft-Windows-Winlogon%4Operational.evtx
+0x7f23ef80	\Windows\System32\en-US\dnsapi.dll.mui
+0x7f240a80	\Users\johnoc\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf
+0x7f241570	\Windows\System32\en-US\lsm.exe.mui
+0x7f241708	\Windows\System32
+0x7f2471f8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f2473c0	\Windows\System32
+0x7f247c40	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f247e68	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010007.dir
+0x7f248038	\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80
+0x7f24a290	\Users\johnoc\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+0x7f24a978	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f24abb8	\Windows\System32\en-US\gameux.dll.mui
+0x7f25af80	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f26b628	\Users\johnoc\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012019073120190801\index.dat
+0x7f26bf80	\Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+0x7f273ef0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af
+0x7f276af8	\wkssvc
+0x7f281760	\Windows\Fonts\StaticCache.dat
+0x7f284100	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f286448	\Windows\System32\en-US\ieframe.dll.mui
+0x7f289038	\Users\johnoc\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x7f2891f0	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Libraries
+0x7f2897a0	\Users\Public\Desktop
+0x7f289858	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x7f289a78	\Users\Public\Desktop
+0x7f289d50	\Users\johnoc\AppData\Local\Microsoft\Windows\Burn
+0x7f289e48	\Users\johnoc\AppData\Local\Microsoft\Windows\Burn
+0x7f28a380	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x7f2932e0	\Windows\assembly\NativeImages_v2.0.50727_32\System.Configuratio#\f02737c83305687a68c088927a6c5a98\System.Configuration.Install.ni.dll
+0x7f297238	\Windows\System32\en-US\KernelBase.dll.mui
+0x7f2974d8	\Windows\System32\en-US\msutb.dll.mui
+0x7f297d20	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f299ec8	\Windows\System32\winevt\Logs\Microsoft-Windows-NetworkAccessProtection%4WHC.evtx
+0x7f29b2e8	\Users\johnoc\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x7f29b8f0	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Libraries
+0x7f29bb10	\Windows\Registration\R000000000006.clb
+0x7f29bd30	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f29da30	\Windows\System32\en-US\wdmaud.drv.mui
+0x7f29e7d0	\Endpoint
+0x7f29f8d0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f29f9c8	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f29fac0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f29fd18	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2a0038	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2a0b08	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2a0cc0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2a0e18	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2a1948	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010007.dir
+0x7f2a7190	\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\4bdde288f147e3b3f2c090ecdf704e6d\Microsoft.PowerShell.ConsoleHost.ni.dll
+0x7f2aea88	\Users\johnoc\Documents
+0x7f2b6628	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x7f2b7978	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x7f2b9190	\Windows\System32\en-US\msxml6r.dll.mui
+0x7f2bb328	\Program Files\Microsoft Office\Office15\MSIPC\msipc.dll
+0x7f2bc740	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRF{0AC791AC-ADBF-42BC-AC4F-6D7BE96825D9}.tmp
+0x7f2c0c58	\Program Files\Common Files\System\ado\msadox.dll
+0x7f2c12c8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f2c1860	\Program Files\Windows Media Player\en-US\wmpnetwk.exe.mui
+0x7f2c8038	\$Directory
+0x7f2c8f80	\Windows\System32
+0x7f2c93e8	\Windows\System32\en-US\msutb.dll.mui
+0x7f2c9568	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Recent\Appearance and Personalization.lnk
+0x7f2ca450	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010007.wid
+0x7f2caf80	\Windows\System32\blackbox.dll
+0x7f2cf130	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2cf228	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2cf320	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2cf510	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f2cf608	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2cf998	\Windows\System32\en-US\MMDevAPI.dll.mui
+0x7f2cfa90	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2d0538	\Windows\System32
+0x7f2d0b98	\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80
+0x7f2d17d8	\Windows\System32\en-US\KernelBase.dll.mui
+0x7f2d19a8	\Windows\Temp\vmware-vmusr.log
+0x7f2d1aa0	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu
+0x7f2d1be8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f2d1e10	\Windows\System32\en-US\wdmaud.drv.mui
+0x7f2d4e28	\Windows\System32\en-US\mlang.dll.mui
+0x7f2d5248	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2d53a0	\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sorttbls.nlp
+0x7f2d64f0	\Users\johnoc\Desktop
+0x7f2d66a0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2d68c0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2d6ce8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f2d6eb0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f2dac08	\$Directory
+0x7f2e0d80	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f2e4828	\Windows\System32\en-US\appwiz.cpl.mui
+0x7f2e7038	\MsFteWds
+0x7f2e7300	\gqxuxj
+0x7f2e7790	\Users\johnoc\Documents\Imager_Lite_3.1.1\ProfUIS293ad32.dll
+0x7f2e9038	\Endpoint
+0x7f2e96c0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010009.wid
+0x7f2e9c18	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010009.ci
+0x7f2ec038	\Windows\System32\en-US\msctf.dll.mui
+0x7f2ec178	\Program Files\Microsoft Office\Office15\MSOUTL.OLB
+0x7f2ec340	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010008.dir
+0x7f2ec508	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010008.ci
+0x7f2eca60	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010008.wid
+0x7f2f33c8	\Windows\System32\osbaseln.dll
+0x7f2f62f0	\ProgramData\Microsoft\Windows\WER\ReportArchive
+0x7f2f6858	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f2f6b80	\Users\johnoc\AppData\Roaming\Microsoft\Outlook\Outlook.srs
+0x7f2f6d48	\Windows\System32\elsTrans.dll
+0x7f2f6f10	\MsFteWds
+0x7f2f7408	\Windows\System32\en-US\searchfolder.dll.mui
+0x7f2f7920	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010008.ci
+0x7f2f7c78	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010008.dir
+0x7f2f8038	\Windows\System32\en-US\propsys.dll.mui
+0x7f2f8220	\$Directory
+0x7f2f88c0	\Users\johnoc\Documents\Imager_Lite_3.1.1\msvcr100.dll
+0x7f2f8f80	\Users\johnoc\AppData\Local\Temp\~DFAF1E8F257B454ED8.TMP
+0x7f2f9228	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_Calendar_2_A5810E370F6649449C5387EF7B8F6B7B.dat
+0x7f2f9588	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_AvailabilityOptions_2_5A2A5A79983C1B43AC248CD1FA291804.dat
+0x7f2f9750	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010009.dir
+0x7f2f9918	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_RssRule_2_850BA968564ACC42BA9035BEB76EDD71.dat
+0x7f2f9ae0	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_ContactPrefs_2_2D24FF86C101614C9A919CB94E221C02.dat
+0x7f2f9ca8	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_ConversationPrefs_2_F9F4407478CA8C47A8240366EDE91287.dat
+0x7f2f9e70	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_TableViewPreviewPrefs_2_BEC6958FE1274144941D01D8EC6590DA.dat
+0x7f2fa038	\Windows\System32\en-US\mlang.dll.mui
+0x7f2fa250	\AsyncConnectHlp
+0x7f2faa90	\Users\johnoc\AppData\Roaming\Microsoft\SystemCertificates\My
+0x7f2fb890	\Windows\System32\en-US\urlmon.dll.mui
+0x7f2fba58	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_TCPrefs_2_C48BF95F278A0E4DA674F81ED6F18261.dat
+0x7f2fbc20	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f2fbf80	\AsyncSelectHlp
+0x7f300718	\ProgramData\Microsoft\Windows\DRM\v3ks.sec
+0x7f3020f0	\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows Media Player NSS\3.0\Icon Files
+0x7f303d80	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f304770	\Program Files\Windows Media Player\en-US\wmpnetwk.exe.mui
+0x7f309268	\Windows\System32\en-US\ieframe.dll.mui
+0x7f30a368	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f30a530	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f30a6f8	\Windows\System32\en-US\KernelBase.dll.mui
+0x7f30a8c0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f30aa88	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x7f30ac50	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x7f30ae18	\Users\johnoc\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x7f30af80	\Windows\System32\en-US\UIAutomationCore.dll.mui
+0x7f30b6c8	\Users\johnoc\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Word\~WRS{5B449329-E9E6-44C5-AF15-C1D480CED8A8}.tmp
+0x7f30ba58	\Users\johnoc\AppData\Local\Microsoft\Outlook\~John.opoc2@gmail.com(4).ost.tmp
+0x7f30bc20	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010009.dir
+0x7f30bde8	\Users\johnoc\AppData\Roaming\Microsoft\Templates\NormalEmail.dotm
+0x7f30d298	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Compatibility-Troubleshooter.evtx
+0x7f30d460	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f30d628	\Program Files\Microsoft Office\Office15\ADDINS\UmOutlookAddin.dll
+0x7f30d7f0	\$ConvertToNonresident
+0x7f30d9b8	\Users\johnoc\AppData\Local\Microsoft\Outlook\John.opoc2@gmail.com(4).ost
+0x7f30db80	\Windows\Fonts\StaticCache.dat
+0x7f30dd48	\Windows\System32\en-US\msctf.dll.mui
+0x7f30df10	\Windows\Registration\R000000000006.clb
+0x7f30e038	\MsFteWds
+0x7f310420	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx
+0x7f3105e8	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx
+0x7f3107b0	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Inventory.evtx
+0x7f310978	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f310ed0	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Problem-Steps-Recorder.evtx
+0x7f316810	\Windows\System32\en-US\explorerframe.dll.mui
+0x7f317c08	\Program Files\Microsoft Office\Office15\MSWORD.OLB
+0x7f31d1b0	\Users\johnoc\AppData\Local\Temp\VBE\MSForms.exd
+0x7f330360	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x7f340158	\Endpoint
+0x7f341280	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f34a9e0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f34e178	\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.WSMan.Man#\f1865caa683ceb3d12b383a94a35da14\Microsoft.WSMan.Management.ni.dll
+0x7f355900	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f355a30	\Windows\assembly\NativeImages_v2.0.50727_32\mscorlib\62a0b3e4b40ec0e8c5cfaa0c8848e64a\mscorlib.ni.dll
+0x7f357540	\Windows\System32\en-US\crypt32.dll.mui
+0x7f358a68	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x7f359330	\Windows\System32\en-US\zipfldr.dll.mui
+0x7f35c330	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x7f35e158	\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\6c5bef3ab74c06a641444eff648c0dde\Microsoft.PowerShell.Security.ni.dll
+0x7f366780	\$SetEndOfFileInfo
+0x7f36e258	\$BitMap
+0x7f36fb38	\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\SystemCertificates\My
+0x7f3738d0	\Endpoint
+0x7f37c038	\Windows\System32
+0x7f37c188	\Windows\winsxs\x86_microsoft.vc90.mfcloc_1fc8b3b9a1e18e3b_9.0.30729.6161_none_49768ef57548175e
+0x7f37c2a8	\Windows\winsxs\x86_microsoft.vc90.mfc_1fc8b3b9a1e18e3b_9.0.30729.6161_none_4bf7e3e2bf9ada4c
+0x7f37c3b0	\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57
+0x7f37c7c8	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af
+0x7f37c938	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010007.ci
+0x7f37d148	\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Word 2013.lnk
+0x7f37d318	\System Volume Information\{4d9f7d42-b389-11e9-b6c3-8c8590b39533}{3808876b-c176-4e48-b7ae-04046e6cc752}
+0x7f37d630	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\INDEX.002
+0x7f37d950	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Recent
+0x7f37dd58	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f37de10	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Recent\SysinternalsSuite.zip.lnk
+0x7f3827e0	\sixxge
+0x7f383be0	\Windows\System32\winevt\Logs\Microsoft-Windows-RestartManager%4Operational.evtx
+0x7f383c98	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Start Menu
+0x7f384e00	\Users\johnoc\Documents\Imager_Lite_3.1.1\adencrypt.dll
+0x7f385310	\$ConvertToNonresident
+0x7f3861d8	\Users\johnoc\AppData\Local\Microsoft\Windows\WER\ERC
+0x7f386c20	\Windows\System32\cscript.exe
+0x7f38fb58	\Users\johnoc\AppData\Local\Temp\rad5163B.tmp.exe
+0x7f3917f0	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f3a63a0	\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\e112e4460a0c9122de8c382126da4a2f\Microsoft.PowerShell.Commands.Diagnostics.ni.dll
+0x7f3a6c88	\Users\johnoc\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x7f3a6d80	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f3a6e80	\Users\johnoc\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x7f3a7c28	\Users\johnoc\Desktop\memdump.mem
+0x7f3a8468	\Users\johnoc\Documents\Imager_Lite_3.1.1\boost_regex-vc100-mt-1_49.dll
+0x7f3ba2a0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010009.ci
+0x7f3bb3a8	\Windows\System32\en-US\conhost.exe.mui
+0x7f3bb4e0	\Windows\System32\en-US\bthprops.cpl.mui
+0x7f3bb630	\Users\johnoc\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+0x7f3bb978	\System Volume Information\Syscache.hve.LOG2
+0x7f3bbd70	\Windows\System32\en-US\FirewallAPI.dll.mui
+0x7f3bc190	\Windows\Registration\R000000000006.clb
+0x7f3bc708	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f3bc800	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f3bcdd0	\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80
+0x7f3bcec8	\Windows\Fonts\StaticCache.dat
+0x7f3bd2d0	\Windows\System32
+0x7f3bd508	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\Indexer\CiFiles\00010007.ci
+0x7f3bdd18	\Program Files\Windows Media Player\en-US\wmpnscfg.exe.mui
+0x7f3bdf80	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f3be038	\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 Tools\Telemetry Log for Office 2013.lnk
+0x7f3c39d8	\Windows\assembly\NativeImages_v2.0.50727_32\System.Data\1e85062785e286cd9eae9c26d2c61f73\System.Data.ni.dll
+0x7f3c8870	\$Directory
+0x7f3ccb38	\Users\johnoc\Documents\Imager_Lite_3.1.1\cximage.dll
+0x7f3d0658	\$Directory
+0x7f3db7b0	\Windows\Temp\TMPD4EAA3EE048E0D4E
+0x7f3dfe28	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f3e1568	\Program Files\Common Files\microsoft shared\ink\en-US\TipTsf.dll.mui
+0x7f3ea9e8	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\F90F18257CBB4D84216AC1E1F3BB2C76
+0x7f3ead00	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x7f3ee600	\Program Files\Microsoft Office\Office15\IEAWSDC.DLL
+0x7f3f03f0	\Windows\Registration\R000000000006.clb
+0x7f3f14b0	\$ConvertToNonresident
+0x7f3f3960	\Users\johnoc\Documents\Imager_Lite_3.1.1\adfs_globals.dll
+0x7f3fdd10	\Windows\System32\config\systemprofile\AppData\Roaming\Microsoft\SystemCertificates\My
+0x7f425450	\Windows\System32\psapi.dll
+0x7f4258e8	\Windows\System32\msvcrt.dll
+0x7f425cf8	\Windows\System32\imm32.dll
+0x7f425ee0	\Windows\System32\shell32.dll
+0x7f49f270	\Windows\Fonts\cga80woa.fon
+0x7f4abb08	\$Directory
+0x7f4abbc0	\Windows\Fonts\vgasys.fon
+0x7f4b7db0	\Windows\System32\en-US\win32k.sys.mui
+0x7f4d5be0	\Windows\System32\dwm.exe
+0x7f4d5ec8	\$Directory
+0x7f4d6360	\Windows\System32\dxgi.dll
+0x7f4d6418	\Windows\System32\wmp.dll
+0x7f4d6e80	\Windows\System32\sud.dll
+0x7f537ef0	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Cookies
+0x7f545eb8	\Windows\System32\config\TxR\{6cced300-6e01-11de-8bed-001e0bcd1824}.TxR.2.regtrans-ms
+0x7f54c540	\$Directory
+0x7f556950	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f556a78	\Users\johnoc\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000001.db
+0x7f558268	\Windows\System32\en-US\shell32.dll.mui
+0x7f5584c8	\Windows\System32\en-US\cscript.exe.mui
+0x7f558580	\Device\HarddiskVolume2\Users\johnoc\AppData\Local\Microsoft\Windows\UsrClass.dat{cd3cc656-adc7-11e9-bbbb-005056fc02f2}.TM
+0x7f580f18	\Windows\Fonts\iskpota.ttf
+0x7f584cc0	\sixxge
+0x7f584ea8	\Windows\System32\msdmo.dll
+0x7f585788	\Windows\System32\wmpps.dll
+0x7f586e88	\Windows\assembly\NativeImages_v2.0.50727_32\index16b.dat
+0x7f588540	\Windows\System32\WMVDECOD.DLL
+0x7f588e30	\Windows\System32\ksproxy.ax
+0x7f58ae60	\$Directory
+0x7f58f0e8	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x7f58fd50	\Windows\System32\devenum.dll
+0x7f592e50	\Windows\System32\rtffilt.dll
+0x7f5951f0	\Windows\System32\sbe.dll
+0x7f597440	\Users\johnoc\Documents\Imager_Lite_3.1.1\adshattrdefs.dll
+0x7f597618	\Windows\System32\wshom.ocx
+0x7f598be0	\Windows\System32\wshom.ocx
+0x7f59be10	\Windows\System32\quartz.dll
+0x7f5a5340	\Windows\System32\en-US\conhost.exe.mui
+0x7f5a6cd8	\Windows\System32\mpg2splt.ax
+0x7f5ab440	\$Directory
+0x7f5abd58	\Windows\System32\en-US\shell32.dll.mui
+0x7f5ac2a8	\Windows\System32\dinput8.dll
+0x7f5acbd8	\Windows\System32\MP3DMOD.DLL
+0x7f5ae0e0	\Windows\System32\C_20127.NLS
+0x7f5ae328	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f5b2b40	\$Directory
+0x7f5b3e50	\Windows\System32\MP4SDECD.DLL
+0x7f5b49f8	\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+0x7f5b9950	\Windows\assembly\pubpol30.dat
+0x7f5bdf80	\Windows\System32\msmpeg2adec.dll
+0x7f5bf9c0	\Windows\System32\MSMPEG2ENC.DLL
+0x7f5c0b38	\Windows\System32\CertPolEng.dll
+0x7f5c9f80	\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+0x7f5cd558	\$Directory
+0x7f5cd6e8	\srvsvc
+0x7f5cf388	\Program Files\Autopsy-4.11.0\bin\autopsy.exe
+0x7f5d14d0	\Windows\System32\en-US\netshell.dll.mui
+0x7f5d2d70	\PROGRA~1\COMMON~1\MICROS~1\VBA\VBA7.1\VBE7.DLL
+0x7f5d4330	\Windows\System32\mfc100u.dll
+0x7f5d5ca0	\$Directory
+0x7f5d6608	\Users\johnoc\AppData\Local\Google\Chrome\User Data\Default\Favicons
+0x7f5d6c68	\Users\johnoc\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\C86BD7751D53F10F65AAAD66BBDF33C7
+0x7f5dd628	\Windows\System32\en-US\oleaccrc.dll.mui
+0x7f5de1d8	\Users\johnoc\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x7f5e1c08	\Windows\System32\en-US\ntshrui.dll.mui
+0x7f5e6570	\Windows\System32\en-US\slc.dll.mui
+0x7f5e70a0	\Windows\Fonts\lucon.ttf
+0x7f5ebe10	\Endpoint
+0x7f5ecdb8	\Windows\System32\mfc100enu.dll
+0x7f5ee1b0	\Program Files\Microsoft Office\Office15\MSOUTL.OLB
+0x7f5f0400	\Users\johnoc\AppData\Local\Microsoft\Outlook\RoamCache\Stream_RssRule_2_850BA968564ACC42BA9035BEB76EDD71.dat
+0x7f5f1ac8	\Windows\System32\en-US\mssvp.dll.mui
+0x7f5f1de0	\Windows\System32\en-US\mlang.dll.mui
+0x7f5f3750	\$ConvertToNonresident
+0x7f5f6038	\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80
+0x7f5f6150	\Windows\System32\en-US\UIAutomationCore.dll.mui
+0x7f5f6468	\ProgramData\Microsoft\Windows\DRM\v3ks.bla
+0x7f5f8500	\Program Files\Microsoft Office\Office15\SOCIALCONNECTOR.DLL
+0x7f5f96b8	\Program Files\Microsoft Office\Office15\OUTLRPC.DLL
+0x7f5fa3e0	\Users\johnoc\AppData\Roaming\Microsoft\Outlook\Outlook.srs
+0x7f5fad00	\Windows\assembly\NativeImages_v2.0.50727_32\System.Xml\461d3b6b3f43e6fbe6c897d5936e17e4\System.Xml.ni.dll
+0x7f5fb480	\udnmjv
+0x7f5fb8f0	\Program Files\Microsoft Office\Office15\msproof7.dll
+0x7f5fcd90	\Program Files\Microsoft Office\Office15\SOCIALCONNECTOR.DLL
+0x7f5fe8e0	\Program Files\Microsoft Office\Office15\LINKEDINPROVIDER.DLL
+0x7f5ffb90	\Program Files\Microsoft Office\Office15\FACEBOOKPROVIDER.DLL

@@ -1,0 +1,11 @@
+{
+    "title": "Bad Request",
+    "detail": "Stats file does not exist: /var/ossec/stats/totals/2026/Mar/ossec-totals-06.log",
+    "remediation": "Stats files are usually generated at 12 PM on a daily basis",
+    "dapi_errors": {
+        "node01": {
+            "error": "Stats file does not exist: /var/ossec/stats/totals/2026/Mar/ossec-totals-06.log"
+        }
+    },
+    "error": 1308
+}

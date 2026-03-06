@@ -1,0 +1,15 @@
+d/d 42130-144-1:	Apple
+d/d 6796-144-1:	Apple Computer
+d/d 9689-144-1:	Application Data
+d/d 54437-144-1:	CrashRpt
+r/r 44598-128-4:	GDIPFONTCACHEV1.DAT
+d/d 43530-144-1:	Google
+d/d 9691-144-1:	History
+d/d 54435-144-1:	Icecream
+r/r 17516-128-4:	IconCache.db
+d/d 409-144-6:	Microsoft
+d/d 49868-144-1:	Microsoft Help
+d/d 53898-144-1:	Programs
+d/d 408-144-6:	Temp
+d/d 9696-144-1:	Temporary Internet Files
+d/d 9735-144-1:	VirtualStore

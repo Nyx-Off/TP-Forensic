@@ -1,0 +1,7 @@
+[sudo] Mot de passe de nyx : 2026/03/06 13:29:41 agent-auth: INFO: Started (pid: 38005).
+2026/03/06 13:29:41 agent-auth: INFO: Requesting a key from server: 127.0.0.1
+2026/03/06 13:29:41 agent-auth: INFO: No authentication password provided
+2026/03/06 13:29:41 agent-auth: INFO: Using agent name as: kali-forensic
+2026/03/06 13:29:41 agent-auth: INFO: Waiting for server reply
+2026/03/06 13:29:41 agent-auth: INFO: Valid key received
+[sudo] Mot de passe de nyx : 002 kali-forensic any eba34dba56d1ea5498f33c10d00b2032693b634ced9454ea268cfa687768eceb

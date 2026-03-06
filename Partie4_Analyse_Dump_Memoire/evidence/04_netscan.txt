@@ -1,0 +1,76 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:    0.00		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.57		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   35.64		Scanning layer_name using PdbSignatureScannerProgress:   35.74		Scanning layer_name using PdbSignatureScannerProgress:   35.84		Scanning layer_name using PdbSignatureScannerProgress:   35.94		Scanning layer_name using PdbSignatureScannerProgress:   36.04		Scanning layer_name using PdbSignatureScannerProgress:   36.43		Scanning layer_name using PdbSignatureScannerProgress:   36.62		Scanning layer_name using PdbSignatureScannerProgress:   37.60		Scanning layer_name using PdbSignatureScannerProgress:   37.99		Scanning layer_name using PdbSignatureScannerProgress:   38.38		Scanning layer_name using PdbSignatureScannerProgress:   38.87		Scanning layer_name using PdbSignatureScannerProgress:   39.55		Scanning layer_name using PdbSignatureScannerProgress:   40.43		Scanning layer_name using PdbSignatureScannerProgress:   63.38		Scanning layer_name using PdbSignatureScannerProgress:   63.48		Scanning layer_name using PdbSignatureScannerProgress:   63.57		Scanning layer_name using PdbSignatureScannerProgress:   63.67		Scanning layer_name using PdbSignatureScannerProgress:   63.77		Scanning layer_name using PdbSignatureScannerProgress:   63.87		Scanning layer_name using PdbSignatureScannerProgress:   63.96		Scanning layer_name using PdbSignatureScannerProgress:   64.36		Scanning layer_name using PdbSignatureScannerProgress:   64.45		Scanning layer_name using PdbSignatureScannerProgress:   64.55		Scanning layer_name using PdbSignatureScannerProgress:   65.14		Scanning layer_name using PdbSignatureScannerProgress:   65.62		Scanning layer_name using PdbSignatureScannerProgress:   65.72		Scanning layer_name using PdbSignatureScannerProgress:   65.82		Scanning layer_name using PdbSignatureScannerProgress:   66.02		Scanning layer_name using PdbSignatureScannerProgress:   66.41		Scanning layer_name using PdbSignatureScannerProgress:   66.70		Scanning layer_name using PdbSignatureScannerProgress:   66.89		Scanning layer_name using PdbSignatureScannerProgress:   67.38		Scanning layer_name using PdbSignatureScannerProgress:   67.58		Scanning layer_name using PdbSignatureScannerProgress:   67.68		Scanning layer_name using PdbSignatureScannerProgress:   67.77		Scanning layer_name using PdbSignatureScannerProgress:   67.87		Scanning layer_name using PdbSignatureScannerProgress:   67.97		Scanning layer_name using PdbSignatureScannerProgress:   68.07		Scanning layer_name using PdbSignatureScannerProgress:   68.16		Scanning layer_name using PdbSignatureScannerProgress:   68.26		Scanning layer_name using PdbSignatureScannerProgress:   68.36		Scanning layer_name using PdbSignatureScannerProgress:   68.46		Scanning layer_name using PdbSignatureScannerProgress:   68.55		Scanning layer_name using PdbSignatureScannerProgress:   68.65		Scanning layer_name using PdbSignatureScannerProgress:   68.75		Scanning layer_name using PdbSignatureScannerProgress:   68.95		Scanning layer_name using PdbSignatureScannerProgress:   69.04		Scanning layer_name using PdbSignatureScannerProgress:   69.34		Scanning layer_name using PdbSignatureScannerProgress:   69.43		Scanning layer_name using PdbSignatureScannerProgress:   69.53		Scanning layer_name using PdbSignatureScannerProgress:   69.63		Scanning layer_name using PdbSignatureScannerProgress:   69.73		Scanning layer_name using PdbSignatureScannerProgress:   70.21		Scanning layer_name using PdbSignatureScannerProgress:   70.41		Scanning layer_name using PdbSignatureScannerProgress:   70.70		Scanning layer_name using PdbSignatureScannerProgress:   70.90		Scanning layer_name using PdbSignatureScannerProgress:   71.19		Scanning layer_name using PdbSignatureScannerProgress:   71.29		Scanning layer_name using PdbSignatureScannerProgress:   71.68		Scanning layer_name using PdbSignatureScannerProgress:   71.78		Scanning layer_name using PdbSignatureScannerProgress:   71.88		Scanning layer_name using PdbSignatureScannerProgress:   71.97		Scanning layer_name using PdbSignatureScannerProgress:   72.17		Scanning layer_name using PdbSignatureScannerProgress:   72.75		Scanning layer_name using PdbSignatureScannerProgress:   74.02		Scanning layer_name using PdbSignatureScannerProgress:   74.22		Scanning layer_name using PdbSignatureScannerProgress:   74.32		Scanning layer_name using PdbSignatureScannerProgress:   75.20		Scanning layer_name using PdbSignatureScannerProgress:   76.27		Scanning layer_name using PdbSignatureScannerProgress:   79.30		Scanning layer_name using PdbSignatureScannerProgress:   82.81		Scanning layer_name using PdbSignatureScannerProgress:   84.86		Scanning layer_name using PdbSignatureScannerProgress:   85.64		Scanning layer_name using PdbSignatureScannerProgress:   87.30		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+Offset	Proto	LocalAddr	LocalPort	ForeignAddr	ForeignPort	State	PID	Owner	Created
+
+0x19472208	UDPv4	0.0.0.0	3702	*	0		1488	svchost.exe	2019-07-31 12:43:12.000000 UTC
+0x19472208	UDPv6	::	3702	*	0		1488	svchost.exe	2019-07-31 12:43:12.000000 UTC
+0x24d773a0	UDPv4	0.0.0.0	5355	*	0		1240	svchost.exe	2019-07-31 13:43:08.000000 UTC
+0x5d30e208	UDPv4	0.0.0.0	3702	*	0		1488	svchost.exe	2019-07-31 12:43:12.000000 UTC
+0x5d30e208	UDPv6	::	3702	*	0		1488	svchost.exe	2019-07-31 12:43:12.000000 UTC
+0x6ec043a0	UDPv4	0.0.0.0	5355	*	0		1240	svchost.exe	2019-07-31 13:43:08.000000 UTC
+0x7beddf50	UDPv6	::1	1900	*	0		1488	svchost.exe	2019-07-31 12:43:10.000000 UTC
+0x7ce3fe20	UDPv6	fe80::94b5:ad60:33d0:3773	1900	*	0		1488	svchost.exe	2019-07-31 12:43:10.000000 UTC
+0x7d0028d8	UDPv4	0.0.0.0	0	*	0		948	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d0028d8	UDPv6	::	0	*	0		948	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d002de0	UDPv4	0.0.0.0	500	*	0		948	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d002de0	UDPv6	::	500	*	0		948	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d003428	UDPv4	0.0.0.0	4500	*	0		948	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d003428	UDPv6	::	4500	*	0		948	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d003d50	UDPv4	0.0.0.0	500	*	0		948	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d003e98	UDPv4	0.0.0.0	4500	*	0		948	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d004918	UDPv4	0.0.0.0	0	*	0		948	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d031f60	TCPv4	172.16.169.167	139	0.0.0.0	0	LISTENING	4	System	N/A
+0x7d033908	TCPv4	0.0.0.0	5357	0.0.0.0	0	LISTENING	4	System	N/A
+0x7d033908	TCPv6	::	5357	::	0	LISTENING	4	System	N/A
+0x7d04f8c8	UDPv4	0.0.0.0	65331	*	0		1488	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d04f8c8	UDPv6	::	65331	*	0		1488	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d04fd80	UDPv4	0.0.0.0	65330	*	0		1488	svchost.exe	2019-07-31 11:50:02.000000 UTC
+0x7d0722e8	TCPv4	0.0.0.0	445	0.0.0.0	0	LISTENING	4	System	N/A
+0x7d0722e8	TCPv6	::	445	::	0	LISTENING	4	System	N/A
+0x7d07bca8	TCPv4	0.0.0.0	49155	0.0.0.0	0	LISTENING	512	services.exe	N/A
+0x7d0cfa28	UDPv4	0.0.0.0	0	*	0		1240	svchost.exe	2019-07-31 12:43:11.000000 UTC
+0x7d0cfa28	UDPv6	::	0	*	0		1240	svchost.exe	2019-07-31 12:43:11.000000 UTC
+0x7d0d02e8	UDPv4	172.16.169.167	62504	*	0		1488	svchost.exe	2019-07-31 12:43:10.000000 UTC
+0x7d11e390	TCPv4	0.0.0.0	49157	0.0.0.0	0	LISTENING	520	lsass.exe	N/A
+0x7d14f558	UDPv4	0.0.0.0	3702	*	0		1488	svchost.exe	2019-07-31 12:43:12.000000 UTC
+0x7d14f558	UDPv6	::	3702	*	0		1488	svchost.exe	2019-07-31 12:43:12.000000 UTC
+0x7d152920	TCPv4	0.0.0.0	49156	0.0.0.0	0	LISTENING	1960	svchost.exe	N/A
+0x7d152920	TCPv6	::	49156	::	0	LISTENING	1960	svchost.exe	N/A
+0x7d15f008	UDPv4	0.0.0.0	0	*	0		1960	svchost.exe	2019-07-31 11:50:03.000000 UTC
+0x7d15f8b8	UDPv4	0.0.0.0	0	*	0		1960	svchost.exe	2019-07-31 11:50:03.000000 UTC
+0x7d15f8b8	UDPv6	::	0	*	0		1960	svchost.exe	2019-07-31 11:50:03.000000 UTC
+0x7d23d110	TCPv4	0.0.0.0	135	0.0.0.0	0	LISTENING	728	svchost.exe	N/A
+0x7d23fa70	TCPv4	0.0.0.0	135	0.0.0.0	0	LISTENING	728	svchost.exe	N/A
+0x7d23fa70	TCPv6	::	135	::	0	LISTENING	728	svchost.exe	N/A
+0x7d2446e0	TCPv4	0.0.0.0	49152	0.0.0.0	0	LISTENING	412	wininit.exe	N/A
+0x7d246548	TCPv4	0.0.0.0	49152	0.0.0.0	0	LISTENING	412	wininit.exe	N/A
+0x7d246548	TCPv6	::	49152	::	0	LISTENING	412	wininit.exe	N/A
+0x7d25f528	TCPv4	0.0.0.0	49153	0.0.0.0	0	LISTENING	780	svchost.exe	N/A
+0x7d25f528	TCPv6	::	49153	::	0	LISTENING	780	svchost.exe	N/A
+0x7d25ff60	TCPv4	0.0.0.0	49153	0.0.0.0	0	LISTENING	780	svchost.exe	N/A
+0x7d2e2530	UDPv4	0.0.0.0	3702	*	0		1488	svchost.exe	2019-07-31 12:43:12.000000 UTC
+0x7d2e7c90	UDPv4	127.0.0.1	62505	*	0		1488	svchost.exe	2019-07-31 12:43:10.000000 UTC
+0x7d361148	TCPv4	0.0.0.0	49154	0.0.0.0	0	LISTENING	948	svchost.exe	N/A
+0x7d363980	TCPv4	0.0.0.0	49154	0.0.0.0	0	LISTENING	948	svchost.exe	N/A
+0x7d363980	TCPv6	::	49154	::	0	LISTENING	948	svchost.exe	N/A
+0x7d392e98	UDPv4	0.0.0.0	3702	*	0		1488	svchost.exe	2019-07-31 12:43:12.000000 UTC
+0x7d3d7f20	TCPv4	0.0.0.0	49156	0.0.0.0	0	LISTENING	1960	svchost.exe	N/A
+0x7de32ea8	TCPv4	0.0.0.0	49155	0.0.0.0	0	LISTENING	512	services.exe	N/A
+0x7de32ea8	TCPv6	::	49155	::	0	LISTENING	512	services.exe	N/A
+0x7de8e220	UDPv4	172.16.169.167	1900	*	0		1488	svchost.exe	2019-07-31 12:43:10.000000 UTC
+0x7df93c98	TCPv4	0.0.0.0	49157	0.0.0.0	0	LISTENING	520	lsass.exe	N/A
+0x7df93c98	TCPv6	::	49157	::	0	LISTENING	520	lsass.exe	N/A
+0x7ecfd7c8	UDPv4	0.0.0.0	5355	*	0		1240	svchost.exe	2019-07-31 13:43:08.000000 UTC
+0x7ecfd7c8	UDPv6	::	5355	*	0		1240	svchost.exe	2019-07-31 13:43:08.000000 UTC
+0x7ee2edf8	TCPv4	172.16.169.167	49848	172.16.169.164	4444	ESTABLISHED	1416	rad5163B.tmp.e	-
+0x7eeb9138	TCPv4	172.16.169.167	49850	172.16.169.164	4444	CLOSED	1292	rfhyMVOQxfc.ex	-
+0x7ef91008	TCPv4	172.16.169.167	49858	172.16.169.164	4444	ESTABLISHED	1808	rfhyMVOQxfc.ex	-
+0x7f0ddc70	UDPv6	::1	62503	*	0		1488	svchost.exe	2019-07-31 12:43:10.000000 UTC
+0x7f175890	UDPv4	172.16.169.167	137	*	0		4	System	2019-07-31 12:43:11.000000 UTC
+0x7f1a9820	TCPv4	172.16.169.167	49857	172.16.169.164	4444	CLOSED	-	-	-
+0x7f224220	TCPv4	172.16.169.167	49852	66.102.1.108	993	ESTABLISHED	3476	OUTLOOK.EXE	-
+0x7f32cc28	UDPv4	172.16.169.167	138	*	0		4	System	2019-07-31 12:43:11.000000 UTC
+0x7f34f278	TCPv4	-	49789	54.154.128.160	443	CLOSED	2472	systeminfo.exe	-
+0x7f3a6f50	UDPv6	fe80::94b5:ad60:33d0:3773	62502	*	0		1488	svchost.exe	2019-07-31 12:43:10.000000 UTC
+0x7f3c9568	TCPv4	172.16.169.167	49855	172.16.169.164	4444	CLOSED	2708	bVwHCYX.exe	-
+0x7f5e8e28	UDPv4	127.0.0.1	1900	*	0		1488	svchost.exe	2019-07-31 12:43:10.000000 UTC

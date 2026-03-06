@@ -1,0 +1,50 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:    0.00		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.57		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   35.64		Scanning layer_name using PdbSignatureScannerProgress:   35.74		Scanning layer_name using PdbSignatureScannerProgress:   35.84		Scanning layer_name using PdbSignatureScannerProgress:   35.94		Scanning layer_name using PdbSignatureScannerProgress:   36.04		Scanning layer_name using PdbSignatureScannerProgress:   36.43		Scanning layer_name using PdbSignatureScannerProgress:   36.62		Scanning layer_name using PdbSignatureScannerProgress:   37.60		Scanning layer_name using PdbSignatureScannerProgress:   37.99		Scanning layer_name using PdbSignatureScannerProgress:   38.38		Scanning layer_name using PdbSignatureScannerProgress:   38.87		Scanning layer_name using PdbSignatureScannerProgress:   39.55		Scanning layer_name using PdbSignatureScannerProgress:   40.43		Scanning layer_name using PdbSignatureScannerProgress:   63.38		Scanning layer_name using PdbSignatureScannerProgress:   63.48		Scanning layer_name using PdbSignatureScannerProgress:   63.57		Scanning layer_name using PdbSignatureScannerProgress:   63.67		Scanning layer_name using PdbSignatureScannerProgress:   63.77		Scanning layer_name using PdbSignatureScannerProgress:   63.87		Scanning layer_name using PdbSignatureScannerProgress:   63.96		Scanning layer_name using PdbSignatureScannerProgress:   64.36		Scanning layer_name using PdbSignatureScannerProgress:   64.45		Scanning layer_name using PdbSignatureScannerProgress:   64.55		Scanning layer_name using PdbSignatureScannerProgress:   65.14		Scanning layer_name using PdbSignatureScannerProgress:   65.62		Scanning layer_name using PdbSignatureScannerProgress:   65.72		Scanning layer_name using PdbSignatureScannerProgress:   65.82		Scanning layer_name using PdbSignatureScannerProgress:   66.02		Scanning layer_name using PdbSignatureScannerProgress:   66.41		Scanning layer_name using PdbSignatureScannerProgress:   66.70		Scanning layer_name using PdbSignatureScannerProgress:   66.89		Scanning layer_name using PdbSignatureScannerProgress:   67.38		Scanning layer_name using PdbSignatureScannerProgress:   67.58		Scanning layer_name using PdbSignatureScannerProgress:   67.68		Scanning layer_name using PdbSignatureScannerProgress:   67.77		Scanning layer_name using PdbSignatureScannerProgress:   67.87		Scanning layer_name using PdbSignatureScannerProgress:   67.97		Scanning layer_name using PdbSignatureScannerProgress:   68.07		Scanning layer_name using PdbSignatureScannerProgress:   68.16		Scanning layer_name using PdbSignatureScannerProgress:   68.26		Scanning layer_name using PdbSignatureScannerProgress:   68.36		Scanning layer_name using PdbSignatureScannerProgress:   68.46		Scanning layer_name using PdbSignatureScannerProgress:   68.55		Scanning layer_name using PdbSignatureScannerProgress:   68.65		Scanning layer_name using PdbSignatureScannerProgress:   68.75		Scanning layer_name using PdbSignatureScannerProgress:   68.95		Scanning layer_name using PdbSignatureScannerProgress:   69.04		Scanning layer_name using PdbSignatureScannerProgress:   69.34		Scanning layer_name using PdbSignatureScannerProgress:   69.43		Scanning layer_name using PdbSignatureScannerProgress:   69.53		Scanning layer_name using PdbSignatureScannerProgress:   69.63		Scanning layer_name using PdbSignatureScannerProgress:   69.73		Scanning layer_name using PdbSignatureScannerProgress:   70.21		Scanning layer_name using PdbSignatureScannerProgress:   70.41		Scanning layer_name using PdbSignatureScannerProgress:   70.70		Scanning layer_name using PdbSignatureScannerProgress:   70.90		Scanning layer_name using PdbSignatureScannerProgress:   71.19		Scanning layer_name using PdbSignatureScannerProgress:   71.29		Scanning layer_name using PdbSignatureScannerProgress:   71.68		Scanning layer_name using PdbSignatureScannerProgress:   71.78		Scanning layer_name using PdbSignatureScannerProgress:   71.88		Scanning layer_name using PdbSignatureScannerProgress:   71.97		Scanning layer_name using PdbSignatureScannerProgress:   72.17		Scanning layer_name using PdbSignatureScannerProgress:   72.75		Scanning layer_name using PdbSignatureScannerProgress:   74.02		Scanning layer_name using PdbSignatureScannerProgress:   74.22		Scanning layer_name using PdbSignatureScannerProgress:   74.32		Scanning layer_name using PdbSignatureScannerProgress:   75.20		Scanning layer_name using PdbSignatureScannerProgress:   76.27		Scanning layer_name using PdbSignatureScannerProgress:   79.30		Scanning layer_name using PdbSignatureScannerProgress:   82.81		Scanning layer_name using PdbSignatureScannerProgress:   84.86		Scanning layer_name using PdbSignatureScannerProgress:   85.64		Scanning layer_name using PdbSignatureScannerProgress:   87.30		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+PID	Process	ConsoleInfo	Property	Address	Data
+Traceback (most recent call last):
+  File "/home/nyx/.local/bin/vol", line 7, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/nyx/.local/lib/python3.13/site-packages/volatility3/cli/__init__.py", line 934, in main
+    CommandLine().run()
+    ~~~~~~~~~~~~~~~~~^^
+  File "/home/nyx/.local/lib/python3.13/site-packages/volatility3/cli/__init__.py", line 522, in run
+    renderer.render(grid)
+    ~~~~~~~~~~~~~~~^^^^^^
+  File "/home/nyx/.local/lib/python3.13/site-packages/volatility3/cli/text_renderer.py", line 329, in render
+    grid.populate(visitor, outfd)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/nyx/.local/lib/python3.13/site-packages/volatility3/framework/renderers/__init__.py", line 318, in populate
+    for level, item in self._generator:
+                       ^^^^^^^^^^^^^^^
+  File "/home/nyx/.local/lib/python3.13/site-packages/volatility3/framework/plugins/windows/consoles.py", line 876, in _generator
+    for proc, console_info, console_properties in self.get_console_info(
+                                                  ~~~~~~~~~~~~~~~~~~~~~^
+        self.context,
+        ^^^^^^^^^^^^^
+    ...<4 lines>...
+        max_buffers,
+        ^^^^^^^^^^^^
+    ):
+    ^
+  File "/home/nyx/.local/lib/python3.13/site-packages/volatility3/framework/plugins/windows/consoles.py", line 433, in get_console_info
+    conhost_symbol_table = cls.create_conhost_symbol_table(
+        context,
+    ...<3 lines>...
+        conhostexe_base,
+    )
+  File "/home/nyx/.local/lib/python3.13/site-packages/volatility3/framework/plugins/windows/consoles.py", line 348, in create_conhost_symbol_table
+    symbol_filename, class_types = cls.determine_conhost_version(
+                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        context,
+        ^^^^^^^^
+    ...<3 lines>...
+        conhost_base,
+        ^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/nyx/.local/lib/python3.13/site-packages/volatility3/framework/plugins/windows/consoles.py", line 317, in determine_conhost_version
+    raise NotImplementedError(
+        f"This version of Windows is not supported: {nt_major_version}.{nt_minor_version} {vers.MajorVersion}.{vers_minor_version}!"
+    )
+NotImplementedError: This version of Windows is not supported: 6.1 15.7601!

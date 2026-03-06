@@ -1,0 +1,8 @@
+r/r 11343-128-1:	desktop.ini
+r/r 53943-128-4:	Event Log Explorer.lnk
+r/r 53662-128-4:	FTK Imager - Shortcut.lnk
+r/r 53681-128-4:	Mft2Csv.exe - Shortcut.lnk
+r/r 53190-128-1:	Outlook 2013.lnk
+d/d 53734-144-7:	SysinternalsSuite
+r/r 53191-128-1:	Word 2013.lnk
+-/r 57839-128-3:	memdump.mem

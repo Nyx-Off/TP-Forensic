@@ -1,0 +1,7 @@
+{
+    "data": {
+        "id": "001",
+        "key": "MDAxIGthbGktZm9yZW5zaWMgMTI3LjAuMC4xIGM0YTI2OTAwYWY0Mjg4YWZlODQ3ZjFkNDM0ZGE1MmQxZjg4ZTFmMjMwMzU1NTRmYzZhOTZhNzE0MjczNTRiZDA="
+    },
+    "error": 0
+}

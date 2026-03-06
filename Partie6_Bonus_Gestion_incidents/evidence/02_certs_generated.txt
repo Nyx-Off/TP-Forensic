@@ -1,0 +1,20 @@
+Unable to find image 'alpine:latest' locally
+latest: Pulling from library/alpine
+589002ba0eae: Pulling fs layer
+589002ba0eae: Verifying Checksum
+589002ba0eae: Download complete
+589002ba0eae: Pull complete
+Digest: sha256:25109184c71bdad752c8312a8623239686a9a2071e8825f20acb8f2198c3f659
+Status: Downloaded newer image for alpine:latest
+admin-key.pem
+admin.pem
+root-ca-manager.key
+root-ca-manager.pem
+root-ca.key
+root-ca.pem
+wazuh.dashboard-key.pem
+wazuh.dashboard.pem
+wazuh.indexer-key.pem
+wazuh.indexer.pem
+wazuh.manager-key.pem
+wazuh.manager.pem

@@ -1,0 +1,30 @@
+r/r 440-128-1:	NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf
+d/d 54432-144-1:	.Icecream Screen Recorder
+d/d 388-144-1:	AppData
+d/d 447-144-1:	Application Data
+d/d 11202-144-1:	Contacts
+d/d 448-144-1:	Cookies
+d/d 387-144-6:	Desktop
+d/d 386-144-6:	Documents
+d/d 385-144-7:	Downloads
+d/d 384-144-6:	Favorites
+d/d 383-144-1:	Links
+d/d 455-144-1:	Local Settings
+d/d 382-144-1:	Music
+d/d 443-144-1:	My Documents
+d/d 449-144-1:	NetHood
+r/r 379-128-1:	NTUSER.DAT
+r/r 438-128-4:	ntuser.dat.LOG1
+r/r 439-128-1:	ntuser.dat.LOG2
+d/d 381-144-1:	Pictures
+d/d 450-144-1:	PrintHood
+d/d 451-144-1:	Recent
+d/d 380-144-1:	Saved Games
+d/d 378-144-1:	Videos
+r/r 441-128-1:	NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+r/r 442-128-1:	NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+r/r 9702-128-1:	ntuser.ini
+d/d 11358-144-1:	Searches
+d/d 452-144-1:	SendTo
+d/d 453-144-1:	Start Menu
+d/d 454-144-1:	Templates

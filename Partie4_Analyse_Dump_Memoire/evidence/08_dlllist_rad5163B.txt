@@ -1,0 +1,108 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:    0.00		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.57		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   35.64		Scanning layer_name using PdbSignatureScannerProgress:   35.74		Scanning layer_name using PdbSignatureScannerProgress:   35.84		Scanning layer_name using PdbSignatureScannerProgress:   35.94		Scanning layer_name using PdbSignatureScannerProgress:   36.04		Scanning layer_name using PdbSignatureScannerProgress:   36.43		Scanning layer_name using PdbSignatureScannerProgress:   36.62		Scanning layer_name using PdbSignatureScannerProgress:   37.60		Scanning layer_name using PdbSignatureScannerProgress:   37.99		Scanning layer_name using PdbSignatureScannerProgress:   38.38		Scanning layer_name using PdbSignatureScannerProgress:   38.87		Scanning layer_name using PdbSignatureScannerProgress:   39.55		Scanning layer_name using PdbSignatureScannerProgress:   40.43		Scanning layer_name using PdbSignatureScannerProgress:   63.38		Scanning layer_name using PdbSignatureScannerProgress:   63.48		Scanning layer_name using PdbSignatureScannerProgress:   63.57		Scanning layer_name using PdbSignatureScannerProgress:   63.67		Scanning layer_name using PdbSignatureScannerProgress:   63.77		Scanning layer_name using PdbSignatureScannerProgress:   63.87		Scanning layer_name using PdbSignatureScannerProgress:   63.96		Scanning layer_name using PdbSignatureScannerProgress:   64.36		Scanning layer_name using PdbSignatureScannerProgress:   64.45		Scanning layer_name using PdbSignatureScannerProgress:   64.55		Scanning layer_name using PdbSignatureScannerProgress:   65.14		Scanning layer_name using PdbSignatureScannerProgress:   65.62		Scanning layer_name using PdbSignatureScannerProgress:   65.72		Scanning layer_name using PdbSignatureScannerProgress:   65.82		Scanning layer_name using PdbSignatureScannerProgress:   66.02		Scanning layer_name using PdbSignatureScannerProgress:   66.41		Scanning layer_name using PdbSignatureScannerProgress:   66.70		Scanning layer_name using PdbSignatureScannerProgress:   66.89		Scanning layer_name using PdbSignatureScannerProgress:   67.38		Scanning layer_name using PdbSignatureScannerProgress:   67.58		Scanning layer_name using PdbSignatureScannerProgress:   67.68		Scanning layer_name using PdbSignatureScannerProgress:   67.77		Scanning layer_name using PdbSignatureScannerProgress:   67.87		Scanning layer_name using PdbSignatureScannerProgress:   67.97		Scanning layer_name using PdbSignatureScannerProgress:   68.07		Scanning layer_name using PdbSignatureScannerProgress:   68.16		Scanning layer_name using PdbSignatureScannerProgress:   68.26		Scanning layer_name using PdbSignatureScannerProgress:   68.36		Scanning layer_name using PdbSignatureScannerProgress:   68.46		Scanning layer_name using PdbSignatureScannerProgress:   68.55		Scanning layer_name using PdbSignatureScannerProgress:   68.65		Scanning layer_name using PdbSignatureScannerProgress:   68.75		Scanning layer_name using PdbSignatureScannerProgress:   68.95		Scanning layer_name using PdbSignatureScannerProgress:   69.04		Scanning layer_name using PdbSignatureScannerProgress:   69.34		Scanning layer_name using PdbSignatureScannerProgress:   69.43		Scanning layer_name using PdbSignatureScannerProgress:   69.53		Scanning layer_name using PdbSignatureScannerProgress:   69.63		Scanning layer_name using PdbSignatureScannerProgress:   69.73		Scanning layer_name using PdbSignatureScannerProgress:   70.21		Scanning layer_name using PdbSignatureScannerProgress:   70.41		Scanning layer_name using PdbSignatureScannerProgress:   70.70		Scanning layer_name using PdbSignatureScannerProgress:   70.90		Scanning layer_name using PdbSignatureScannerProgress:   71.19		Scanning layer_name using PdbSignatureScannerProgress:   71.29		Scanning layer_name using PdbSignatureScannerProgress:   71.68		Scanning layer_name using PdbSignatureScannerProgress:   71.78		Scanning layer_name using PdbSignatureScannerProgress:   71.88		Scanning layer_name using PdbSignatureScannerProgress:   71.97		Scanning layer_name using PdbSignatureScannerProgress:   72.17		Scanning layer_name using PdbSignatureScannerProgress:   72.75		Scanning layer_name using PdbSignatureScannerProgress:   74.02		Scanning layer_name using PdbSignatureScannerProgress:   74.22		Scanning layer_name using PdbSignatureScannerProgress:   74.32		Scanning layer_name using PdbSignatureScannerProgress:   75.20		Scanning layer_name using PdbSignatureScannerProgress:   76.27		Scanning layer_name using PdbSignatureScannerProgress:   79.30		Scanning layer_name using PdbSignatureScannerProgress:   82.81		Scanning layer_name using PdbSignatureScannerProgress:   84.86		Scanning layer_name using PdbSignatureScannerProgress:   85.64		Scanning layer_name using PdbSignatureScannerProgress:   87.30		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+PID	Process	Base	Size	Name	Path	LoadCount	LoadTime	File output
+
+1416	rad5163B.tmp.e	0x400000	0x16000	rad5163B.tmp.exe	C:\Users\johnoc\AppData\Local\Temp\rad5163B.tmp.exe	-1	N/A	Disabled
+1416	rad5163B.tmp.e	0x777d0000	0x13c000	ntdll.dll	C:\Windows\SYSTEM32\ntdll.dll	-1	N/A	Disabled
+1416	rad5163B.tmp.e	0x773f0000	0xd4000	kernel32.dll	C:\Windows\system32\kernel32.dll	-1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75ac0000	0x4a000	KERNELBASE.dll	C:\Windows\system32\KERNELBASE.dll	-1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x76020000	0xac000	MSVCRT.dll	C:\Windows\system32\MSVCRT.dll	-1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x76e30000	0xa0000	ADVAPI32.dll	C:\Windows\system32\ADVAPI32.dll	-1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x76d40000	0x19000	sechost.dll	C:\Windows\SYSTEM32\sechost.dll	-1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x77720000	0xa1000	RPCRT4.dll	C:\Windows\system32\RPCRT4.dll	-1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x6cab0000	0x7000	WSOCK32.dll	C:\Windows\system32\WSOCK32.dll	-1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x76df0000	0x35000	WS2_32.dll	C:\Windows\system32\WS2_32.dll	-1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x77910000	0x6000	NSI.dll	C:\Windows\system32\NSI.dll	-1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75360000	0x3c000	mswsock.dll	C:\Windows\system32\mswsock.dll	2	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x770c0000	0xc9000	user32.dll	C:\Windows\system32\user32.dll	269	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75e20000	0x4e000	GDI32.dll	C:\Windows\system32\GDI32.dll	248	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x77920000	0xa000	LPK.dll	C:\Windows\system32\LPK.dll	56	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x77960000	0x9d000	USP10.dll	C:\Windows\system32\USP10.dll	56	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x760d0000	0x1f000	IMM32.DLL	C:\Windows\system32\IMM32.DLL	2	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x77320000	0xcc000	MSCTF.dll	C:\Windows\system32\MSCTF.dll	1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74d60000	0x5000	wshtcpip.dll	C:\Windows\System32\wshtcpip.dll	1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x759a0000	0x11d000	CRYPT32.dll	C:\Windows\system32\CRYPT32.dll	8	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75990000	0xc000	MSASN1.dll	C:\Windows\system32\MSASN1.dll	13	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x77210000	0xf5000	WININET.dll	C:\Windows\system32\WININET.dll	3	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x776c0000	0x57000	SHLWAPI.dll	C:\Windows\system32\SHLWAPI.dll	26	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75ee0000	0x136000	urlmon.dll	C:\Windows\system32\urlmon.dll	3	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x76ed0000	0x15c000	ole32.dll	C:\Windows\system32\ole32.dll	30	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x77030000	0x8f000	OLEAUT32.dll	C:\Windows\system32\OLEAUT32.dll	15	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75c20000	0x1fb000	iertutil.dll	C:\Windows\system32\iertutil.dll	4	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x71950000	0x58000	WINHTTP.dll	C:\Windows\system32\WINHTTP.dll	1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x71900000	0x4f000	webio.dll	C:\Windows\system32\webio.dll	1	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x753a0000	0x16000	CRYPTSP.dll	C:\Windows\system32\CRYPTSP.dll	2	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75140000	0x3b000	rsaenh.dll	C:\Windows\system32\rsaenh.dll	3	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75800000	0x1b000	SspiCli.dll	C:\Windows\system32\SspiCli.dll	20	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74f80000	0x17000	USERENV.dll	C:\Windows\system32\USERENV.dll	2	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75920000	0xb000	profapi.dll	C:\Windows\system32\profapi.dll	3	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75870000	0xc000	CRYPTBASE.dll	C:\Windows\system32\CRYPTBASE.dll	3	2019-07-31 12:45:47.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75ed0000	0x5000	PSAPI.DLL	C:\Windows\system32\PSAPI.DLL	3	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x73cc0000	0x32000	WINMM.dll	C:\Windows\system32\WINMM.dll	1	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x722a0000	0x1c000	IPHLPAPI.DLL	C:\Windows\system32\IPHLPAPI.DLL	3	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x72290000	0x7000	WINNSI.DLL	C:\Windows\system32\WINNSI.DLL	3	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x71230000	0x12000	MPR.dll	C:\Windows\system32\MPR.dll	3	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x73f70000	0x11000	NETAPI32.dll	C:\Windows\system32\NETAPI32.dll	4	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x73f60000	0x9000	netutils.dll	C:\Windows\system32\netutils.dll	5	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75770000	0x19000	srvcli.dll	C:\Windows\system32\srvcli.dll	8	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x73f50000	0xf000	wkscli.dll	C:\Windows\system32\wkscli.dll	6	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x6c9b0000	0xb000	cscapi.dll	C:\Windows\system32\cscapi.dll	1	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x72160000	0xd000	dhcpcsvc6.DLL	C:\Windows\system32\dhcpcsvc6.DLL	1	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x72140000	0x12000	dhcpcsvc.DLL	C:\Windows\system32\dhcpcsvc.DLL	1	2019-07-31 12:45:48.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75820000	0x4c000	apphelp.dll	C:\Windows\system32\apphelp.dll	-1	2019-07-31 12:51:27.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x6f400000	0x4a000	mscoree.dll	C:\Windows\system32\mscoree.dll	-1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x5fcc0000	0x66000	mscoreei.dll	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x5be20000	0x5ab000	mscorwks.dll	C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorwks.dll	3	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x70370000	0x9b000	MSVCR80.dll	C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a\MSVCR80.dll	6	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x760f0000	0xc4a000	shell32.dll	C:\Windows\system32\shell32.dll	11	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x5b320000	0xaf8000	mscorlib.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\mscorlib\62a0b3e4b40ec0e8c5cfaa0c8848e64a\mscorlib.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x6ef70000	0x5b000	mscorjit.dll	C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorjit.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x5ab80000	0x79c000	System.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System\9e0a3b9b9f457233a335d7fba8f95419\System.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x5a300000	0x87a000	System.Management.Automation.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Management.A#\a8e3a41ecbcc4bb1598ed5719f965110\System.Management.Automation.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x59dc0000	0x536000	System.Xml.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Xml\461d3b6b3f43e6fbe6c897d5936e17e4\System.Xml.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x6ee60000	0x104000	System.Management.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Management\6f3b99ed0b791ff4d8aa52f2f0cd0bcf\System.Management.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x5fa00000	0x114000	System.DirectoryServices.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System.DirectorySer#\45ec12795950a7d54691591c615a9e3c\System.DirectoryServices.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x59760000	0x651000	System.Data.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Data\1e85062785e286cd9eae9c26d2c61f73\System.Data.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x64e70000	0x2d2000	System.Data.dll	C:\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74cd0000	0x9000	version.dll	C:\Windows\system32\version.dll	2	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x5e920000	0x235000	System.Core.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Core\fbc05b5b05dc6366b02b8e2f77d080f1\System.Core.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x72bf0000	0x4b000	Microsoft.PowerShell.Commands.Diagnostics.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\e112e4460a0c9122de8c382126da4a2f\Microsoft.PowerShell.Commands.Diagnostics.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x71830000	0x25000	System.Configuration.Install.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Configuratio#\f02737c83305687a68c088927a6c5a98\System.Configuration.Install.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x5fb80000	0x85000	Microsoft.WSMan.Management.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.WSMan.Man#\f1865caa683ceb3d12b383a94a35da14\Microsoft.WSMan.Management.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x596c0000	0x9c000	System.Transactions.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System.Transactions\ad18f93fc713db2c4b29b25116c13bd8\System.Transactions.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x67aa0000	0x43000	System.Transactions.dll	C:\Windows\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x59520000	0x19e000	Microsoft.PowerShell.Commands.Utility.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\82d7758f278f47dc4191abab1cb11ce3\Microsoft.PowerShell.Commands.Utility.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x59490000	0x81000	Microsoft.PowerShell.ConsoleHost.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\4bdde288f147e3b3f2c090ecdf704e6d\Microsoft.PowerShell.ConsoleHost.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x593c0000	0xc3000	Microsoft.PowerShell.Commands.Management.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\583c7b9f52114c026088bdb9f19f64e8\Microsoft.PowerShell.Commands.Management.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x71880000	0x37000	System.ServiceProcess.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\System.ServiceProce#\20008c75bb41e2febf84d4d4aea5b4e8\System.ServiceProcess.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x717e0000	0x2d000	Microsoft.PowerShell.Security.ni.dll	C:\Windows\assembly\NativeImages_v2.0.50727_32\Microsoft.PowerShel#\6c5bef3ab74c06a641444eff648c0dde\Microsoft.PowerShell.Security.ni.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74e70000	0x5000	shfolder.dll	C:\Windows\system32\shfolder.dll	1	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x757e0000	0x8000	secur32.dll	C:\Windows\system32\secur32.dll	3	2019-07-31 13:22:38.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74100000	0xd000	WTSAPI32.dll	C:\Windows\system32\WTSAPI32.dll	1	2019-07-31 13:24:26.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x754f0000	0x38000	ncrypt.DLL	C:\Windows\system32\ncrypt.DLL	2	2019-07-31 13:24:26.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x754d0000	0x17000	bcrypt.dll	C:\Windows\system32\bcrypt.dll	16	2019-07-31 13:24:26.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74bb0000	0x7000	FLTLIB.DLL	C:\Windows\system32\FLTLIB.DLL	1	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x6bd20000	0x15000	Cabinet.dll	C:\Windows\system32\Cabinet.dll	1	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x70340000	0x23000	WinSCard.dll	C:\Windows\system32\WinSCard.dll	1	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x755b0000	0x11000	cryptdll.dll	C:\Windows\system32\cryptdll.dll	2	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x751f0000	0x22000	LOGONCLI.DLL	C:\Windows\system32\LOGONCLI.DLL	4	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x746b0000	0x12000	SAMLIB.dll	C:\Windows\system32\SAMLIB.dll	2	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74b90000	0x9000	HID.DLL	C:\Windows\system32\HID.DLL	1	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x77520000	0x19d000	SETUPAPI.dll	C:\Windows\system32\SETUPAPI.dll	2	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75bc0000	0x27000	CFGMGR32.dll	C:\Windows\system32\CFGMGR32.dll	6	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75b10000	0x12000	DEVOBJ.dll	C:\Windows\system32\DEVOBJ.dll	2	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x774d0000	0x45000	WLDAP32.dll	C:\Windows\system32\WLDAP32.dll	2	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x758e0000	0x29000	WINSTA.dll	C:\Windows\system32\WINSTA.dll	1	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74ba0000	0xc000	vaultcli.DLL	C:\Windows\system32\vaultcli.DLL	1	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75bf0000	0x2d000	WINTRUST.dll	C:\Windows\system32\WINTRUST.dll	1	2019-07-31 13:24:34.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75660000	0x100000	lsasrv.DLL	C:\Windows\system32\lsasrv.DLL	2	2019-07-31 13:27:31.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x755d0000	0x8b000	SAMSRV.dll	C:\Windows\system32\SAMSRV.dll	1	2019-07-31 13:27:31.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75560000	0x42000	wevtapi.dll	C:\Windows\system32\wevtapi.dll	1	2019-07-31 13:27:31.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x4d20000	0x9000	lsass.exe	C:\Windows\system32\lsass.exe	1	2019-07-31 13:27:31.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x75760000	0x7000	SspiSrv.dll	C:\Windows\system32\SspiSrv.dll	1	2019-07-31 13:27:31.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x73f40000	0xf000	SAMCLI.DLL	C:\Windows\system32\SAMCLI.DLL	3	2019-07-31 13:30:56.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74570000	0x40000	uxtheme.dll	C:\Windows\system32\uxtheme.dll	2	2019-07-31 13:40:11.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x745b0000	0xf5000	PROPSYS.dll	C:\Windows\system32\PROPSYS.dll	4	2019-07-31 13:40:11.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x746d0000	0x19e000	comctl32.dll	C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll	2	2019-07-31 13:40:11.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x76d60000	0x83000	CLBCatQ.DLL	C:\Windows\system32\CLBCatQ.DLL	1	2019-07-31 13:40:11.000000 UTC	Disabled
+1416	rad5163B.tmp.e	0x74b60000	0x21000	ntmarta.dll	C:\Windows\system32\ntmarta.dll	1	2019-07-31 13:40:11.000000 UTC	Disabled

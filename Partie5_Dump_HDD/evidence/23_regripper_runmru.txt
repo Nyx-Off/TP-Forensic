@@ -1,0 +1,7 @@
+runmru v.20200525
+(NTUSER.DAT) Gets contents of user's RunMRU key
+
+RunMru
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+LastWrite Time 2019-07-24 13:16:15Z
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU has no values.

@@ -1,0 +1,13 @@
+r/r 11360-128-1:	desktop.ini
+r/r 44629-128-6:	elex_setup.exe
+r/r 44629-128-9:	elex_setup.exe:Zone.Identifier
+d/d 57657-144-1:	invoice
+r/r 57656-128-1:	invoice.zip
+r/r 57656-128-3:	invoice.zip:Zone.Identifier
+d/d 18324-144-1:	Mft2Csv-master
+r/r 31334-128-4:	Mft2Csv-master.zip
+r/r 31334-128-9:	Mft2Csv-master.zip:Zone.Identifier
+r/r 57467-128-6:	screen-recorder-setup.exe
+r/r 57467-128-9:	screen-recorder-setup.exe:Zone.Identifier
+r/r 53710-128-6:	SysinternalsSuite.zip
+r/r 53710-128-9:	SysinternalsSuite.zip:Zone.Identifier

@@ -1,0 +1,30 @@
+[2026-03-06T12:30:06.389+0000] Rule 19007 (level 7) - System audit for Unix based systems: SSH Hardening: Rhost or shost should not be used for authentication | Agent: kali-forensic
+[2026-03-06T12:30:06.400+0000] Rule 19007 (level 7) - System audit for Unix based systems: SSH Hardening: Grace Time should be one minute or less. | Agent: kali-forensic
+[2026-03-06T12:30:06.410+0000] Rule 19007 (level 7) - System audit for Unix based systems: SSH Hardening: Wrong Maximum number of authentication attempts | Agent: kali-forensic
+[2026-03-06T12:30:06.420+0000] Rule 19007 (level 7) - System audit for Unix based systems: SSH Hardening: Ensure SSH HostbasedAuthentication is disabled | Agent: kali-forensic
+[2026-03-06T12:30:06.430+0000] Rule 19008 (level 3) - System audit for Unix based systems: Ensure retry option for passwords is less than 3 | Agent: kali-forensic
+[2026-03-06T12:30:06.440+0000] Rule 19009 (level 3) - System audit for Unix based systems: Ensure passwords are longer than 14 characters | Agent: kali-forensic
+[2026-03-06T12:30:06.450+0000] Rule 19009 (level 3) - System audit for Unix based systems: Ensure passwords contain at least one digit | Agent: kali-forensic
+[2026-03-06T12:30:06.460+0000] Rule 19009 (level 3) - System audit for Unix based systems: Ensure passwords contain at least one lowercase character | Agent: kali-forensic
+[2026-03-06T12:30:06.470+0000] Rule 19009 (level 3) - System audit for Unix based systems: Ensure passwords contain at least one uppercase character | Agent: kali-forensic
+[2026-03-06T12:30:06.513+0000] Rule 19007 (level 7) - System audit for Unix based systems: Ensure lockout for failed password attempts is configured | Agent: kali-forensic
+[2026-03-06T12:30:06.513+0000] Rule 19008 (level 3) - System audit for Unix based systems: Ensure passwords in /etc/shadow are hashed with SHA-512 or SHA-256 | Agent: kali-forensic
+[2026-03-06T12:30:06.513+0000] Rule 19009 (level 3) - System audit for Unix based systems: Ensure passwords contain at least one special character | Agent: kali-forensic
+[2026-03-06T12:30:06.513+0000] Rule 19009 (level 3) - System audit for Unix based systems: Ensure password hashing algorithm is SHA-512 | Agent: kali-forensic
+[2026-03-06T12:30:06.521+0000] Rule 19007 (level 7) - System audit for Unix based systems: Ensure password expiration is 365 days or less | Agent: kali-forensic
+[2026-03-06T12:30:06.533+0000] Rule 19008 (level 3) - System audit for Unix based systems: Ensure SELinux or AppArmor are installed | Agent: kali-forensic
+[2026-03-06T12:30:06.541+0000] Rule 19008 (level 3) - System audit for Unix based systems: Ensure CUPS is not enabled | Agent: kali-forensic
+[2026-03-06T12:30:06.551+0000] Rule 19007 (level 7) - System audit for Unix based systems: Ensure auditd service is enabled | Agent: kali-forensic
+[2026-03-06T12:30:13.576+0000] Rule 19005 (level 9) - SCA summary: System audit for Unix based systems: Score less than 30% (23) | Agent: kali-forensic
+[2026-03-06T12:30:16.837+0000] Rule 510 (level 7) - Host-based anomaly detection event (rootcheck). | Agent: kali-forensic
+[2026-03-06T12:30:16.837+0000] Rule 510 (level 7) - Host-based anomaly detection event (rootcheck). | Agent: kali-forensic
+[2026-03-06T12:33:40.249+0000] Rule 502 (level 3) - Wazuh server started. | Agent: wazuh.manager
+[2026-03-06T12:36:02.570+0000] Rule 533 (level 7) - Listened ports status (netstat) changed (new port opened or closed). | Agent: kali-forensic
+[2026-03-06T12:48:03.249+0000] Rule 533 (level 7) - Listened ports status (netstat) changed (new port opened or closed). | Agent: kali-forensic
+[2026-03-06T12:54:03.587+0000] Rule 533 (level 7) - Listened ports status (netstat) changed (new port opened or closed). | Agent: kali-forensic
+[2026-03-06T12:58:22.976+0000] Rule 502 (level 3) - Wazuh server started. | Agent: wazuh.manager
+[2026-03-06T13:00:03.939+0000] Rule 533 (level 7) - Listened ports status (netstat) changed (new port opened or closed). | Agent: kali-forensic
+[2026-03-06T13:06:04.291+0000] Rule 533 (level 7) - Listened ports status (netstat) changed (new port opened or closed). | Agent: kali-forensic
+[2026-03-06T13:06:28.355+0000] Rule 5402 (level 3) - Successful sudo to ROOT executed. | Agent: kali-forensic
+[2026-03-06T13:06:28.397+0000] Rule 5502 (level 3) - PAM: Login session closed. | Agent: kali-forensic
+[2026-03-06T13:06:28.397+0000] Rule 5501 (level 3) - PAM: Login session opened. | Agent: kali-forensic

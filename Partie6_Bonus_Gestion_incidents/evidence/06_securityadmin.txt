@@ -1,0 +1,30 @@
+OpenSearch Version: 2.13.0
+Contacting opensearch cluster 'opensearch' and wait for YELLOW clusterstate ...
+Clustername: wazuh-cluster
+Clusterstate: GREEN
+Number of nodes: 1
+Number of data nodes: 1
+.opendistro_security index does not exists, attempt to create it ... done (0-all replicas)
+Populate config from /usr/share/wazuh-indexer/opensearch-security/
+Will update '/config' with /usr/share/wazuh-indexer/opensearch-security/config.yml 
+   SUCC: Configuration for 'config' created or updated
+Will update '/roles' with /usr/share/wazuh-indexer/opensearch-security/roles.yml 
+   SUCC: Configuration for 'roles' created or updated
+Will update '/rolesmapping' with /usr/share/wazuh-indexer/opensearch-security/roles_mapping.yml 
+   SUCC: Configuration for 'rolesmapping' created or updated
+Will update '/internalusers' with /usr/share/wazuh-indexer/opensearch-security/internal_users.yml 
+   SUCC: Configuration for 'internalusers' created or updated
+Will update '/actiongroups' with /usr/share/wazuh-indexer/opensearch-security/action_groups.yml 
+   SUCC: Configuration for 'actiongroups' created or updated
+Will update '/tenants' with /usr/share/wazuh-indexer/opensearch-security/tenants.yml 
+   SUCC: Configuration for 'tenants' created or updated
+Will update '/nodesdn' with /usr/share/wazuh-indexer/opensearch-security/nodes_dn.yml 
+   SUCC: Configuration for 'nodesdn' created or updated
+Will update '/whitelist' with /usr/share/wazuh-indexer/opensearch-security/whitelist.yml 
+   SUCC: Configuration for 'whitelist' created or updated
+Will update '/audit' with /usr/share/wazuh-indexer/opensearch-security/audit.yml 
+   SUCC: Configuration for 'audit' created or updated
+Will update '/allowlist' with /usr/share/wazuh-indexer/opensearch-security/allowlist.yml 
+   SUCC: Configuration for 'allowlist' created or updated
+SUCC: Expected 10 config types for node {"updated_config_types":["allowlist","tenants","rolesmapping","nodesdn","audit","roles","whitelist","internalusers","actiongroups","config"],"updated_config_size":10,"message":null} is 10 (["allowlist","tenants","rolesmapping","nodesdn","audit","roles","whitelist","internalusers","actiongroups","config"]) due to: null
+Done with success

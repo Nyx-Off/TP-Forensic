@@ -1,0 +1,24 @@
+1; a=rsa-sha256; s=highgrade; d=guerrillamail.com;	l=178613; t=1564575372; c=relaxed/relaxed; h=to:from:subject;	bh=LC8m1/H/W84zvVMoVluGP/OxyounGgCXBM/oidcAKHg=;	b=kVt9vBM/MXZp738nisCQHi1bieOrhaYmF2UwqRgv0hGj8mIH1ZT5Rb9cS2Fi4l1n5NHT59GMYZge	HvQGZe5S4SY6hGDK9RAbQCl0ht2SdBBSOZJgLg0u5oLOsCKCB8S9MCt6ceXiHaHUDg7zPpgUMZA/	Ov672OgFWmF/mYoFtQ6TBJpSQumGhH87HAmGoulos94flz8Aj4AMEo6bRA8NJ/g7fQeEN792akVa	3JVbwXv6qIXoqSoKxETz51g6TwGV/6dbHVMaTs1vgZJIAZHtQmoekc2irYpZn2OgRoFAZD/CZRea	lN5UoprPYhCqpiTiGJqyjNJQuxMDuOOZtt2ewA==
+2qlfrom=hu6nsk+fgbeuap1buy4o@guerrillamail.com;
+<543bbcc75ae0202f89fe5fcb408d235ae031@guerrillamail.com>
+Block or report abuse: https://www.guerrillamail.com//abuse/?a=S058C0MPU7sW2i6z%2FX8WflrEQsc%3D
+       dkim=pass header.i=@guerrillamail.com header.s=highgrade header.b="kVt9vBM/";
+DKIM-Signature: v=1; a=rsa-sha256; s=highgrade; d=guerrillamail.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=guerrillamail.com
+e5fcb408d235ae031@guerrillamail.com>
+ECT dis=NONE) header.from=guerrillamail.com
+From: <hu6nsk+fgbeuap1buy4o@guerrillamail.com>
+<hu6nsk+fgbeuap1buy4o@guerrillamail.com>
+lfrom=hu6nsk+fgbeuap1buy4o@guerrillamail.com;
+Message-ID: <543bbcc75ae0202f89fe5fcb408d235ae031@guerrillamail.com>
+Received: from mail.guerrillamail.com ([2607:5300:60:689e::])
+Received-SPF: pass (google.com: domain of hu6nsk+fgbeuap1buy4o@guerrillamail.com designates 2607:5300:60:689e:: as permitted sender) client-ip=2607:5300:60:689e::;
+Return-Path: <hu6nsk+fgbeuap1buy4o@guerrillamail.com>
+rmitted sender) smtp.mailfrom=hu6nsk+fgbeuap1buy4o@guerrillamail.com;
+Sent using Guerrillamail.com
+SMTP:HU6NSK+FGBEUAP1BUY4O@GUERRILLAMAIL.COM
+       spf=pass (google.com: domain of hu6nsk+fgbeuap1buy4o@guerrillamail.com designates 2607:5300:60:689e:: as pe
+       spf=pass (google.com: domain of hu6nsk+fgbeuap1buy4o@guerrillamail.com designates 2607:5300:60:689e:: as peRCRD(
+       spf=pass (google.com: domain of hu6nsk+fgbeuap1buy4o@guerrillamail.com designates 2607:5300:60:689e:: as permitted sender) smtp.mai
+       spf=pass (google.com: domain of hu6nsk+fgbeuap1buy4o@guerrillamail.com designates 2607:5300:60:689e:: as permitted sender) smtp.mai]
+       spf=pass (google.com: domain of hu6nsk+fgbeuap1buy4o@guerrillamail.com designates 2607:5300:60:689e:: as permitted sender) smtp.mailfrom=hu6nsk+fgbeuap1buy4o@guerrillamail.com;

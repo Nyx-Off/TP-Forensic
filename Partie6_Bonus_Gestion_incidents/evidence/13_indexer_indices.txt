@@ -1,0 +1,5 @@
+health status index                     uuid                   pri rep docs.count docs.deleted store.size pri.store.size
+green  open   .plugins-ml-config        IZVggsW3Qqm6jnSRduU3wQ   1   0          1            0      3.9kb          3.9kb
+green  open   .opensearch-observability pXdAdi0tQWuniN61cbkvHQ   1   0          0            0       208b           208b
+green  open   .opendistro_security      kKbaWIJ3QKyungx8A1_Z1g   1   0         10            2     66.4kb         66.4kb
+green  open   .kibana_1                 2RSHx-vwSN-r8Y56S1I2_w   1   0          0            0       208b           208b

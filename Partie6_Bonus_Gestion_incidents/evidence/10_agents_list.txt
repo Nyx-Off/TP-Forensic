@@ -1,0 +1,61 @@
+{
+    "data": {
+        "affected_items": [
+            {
+                "os": {
+                    "arch": "x86_64",
+                    "major": "2023",
+                    "name": "Amazon Linux",
+                    "platform": "amzn",
+                    "uname": "Linux |wazuh.manager |6.18.5+kali-amd64 |#1 SMP PREEMPT_DYNAMIC Kali 6.18.5-1kali1 (2026-01-19) |x86_64",
+                    "version": "2023"
+                },
+                "group_config_status": "synced",
+                "ip": "127.0.0.1",
+                "version": "Wazuh v4.9.2",
+                "lastKeepAlive": "9999-12-31T23:59:59+00:00",
+                "id": "000",
+                "manager": "wazuh.manager",
+                "node_name": "node01",
+                "registerIP": "127.0.0.1",
+                "status": "active",
+                "name": "wazuh.manager",
+                "dateAdd": "2026-03-06T12:08:06+00:00",
+                "status_code": 0
+            },
+            {
+                "os": {
+                    "arch": "x86_64",
+                    "major": "2025",
+                    "minor": "4",
+                    "name": "Kali GNU/Linux",
+                    "platform": "kali",
+                    "uname": "Linux |Sylren |6.18.5+kali-amd64 |#1 SMP PREEMPT_DYNAMIC Kali 6.18.5-1kali1 (2026-01-19) |x86_64",
+                    "version": "2025.4"
+                },
+                "group_config_status": "synced",
+                "ip": "127.0.0.1",
+                "version": "Wazuh v4.9.2",
+                "lastKeepAlive": "2026-03-06T13:06:38+00:00",
+                "id": "002",
+                "manager": "wazuh.manager",
+                "node_name": "node01",
+                "registerIP": "any",
+                "status": "active",
+                "name": "kali-forensic",
+                "group": [
+                    "default"
+                ],
+                "mergedSum": "4a8724b20dee0124ff9656783c490c4e",
+                "dateAdd": "2026-03-06T12:29:41+00:00",
+                "configSum": "ab73af41699f13fdd81903b5f23d8d00",
+                "status_code": 0
+            }
+        ],
+        "total_affected_items": 2,
+        "total_failed_items": 0,
+        "failed_items": []
+    },
+    "message": "All selected agents information was returned",
+    "error": 0
+}

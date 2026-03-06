@@ -1,0 +1,34 @@
+run v.20200511
+(Software, NTUSER.DAT) [Autostart] Get autostart key contents from Software hive
+
+Software\Microsoft\Windows\CurrentVersion\Run
+LastWrite Time 2019-07-31 12:53:57Z
+  YPDKhVAXzZSU - C:\Users\johnoc\AppData\Local\Temp\krtYMkVgyjNdd.vbs
+
+Software\Microsoft\Windows\CurrentVersion\Run has no subkeys.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+LastWrite Time 2019-07-23 19:12:03Z
+Software\Microsoft\Windows\CurrentVersion\RunOnce has no values.
+Software\Microsoft\Windows\CurrentVersion\RunOnce has no subkeys.
+
+Software\Microsoft\Windows\CurrentVersion\RunServices not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunServicesOnce not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run32 not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\StartupFolder not found.
+

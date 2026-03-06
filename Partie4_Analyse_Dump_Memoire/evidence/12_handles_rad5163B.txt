@@ -1,0 +1,482 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:    0.00		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.57		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   35.64		Scanning layer_name using PdbSignatureScannerProgress:   35.74		Scanning layer_name using PdbSignatureScannerProgress:   35.84		Scanning layer_name using PdbSignatureScannerProgress:   35.94		Scanning layer_name using PdbSignatureScannerProgress:   36.04		Scanning layer_name using PdbSignatureScannerProgress:   36.43		Scanning layer_name using PdbSignatureScannerProgress:   36.62		Scanning layer_name using PdbSignatureScannerProgress:   37.60		Scanning layer_name using PdbSignatureScannerProgress:   37.99		Scanning layer_name using PdbSignatureScannerProgress:   38.38		Scanning layer_name using PdbSignatureScannerProgress:   38.87		Scanning layer_name using PdbSignatureScannerProgress:   39.55		Scanning layer_name using PdbSignatureScannerProgress:   40.43		Scanning layer_name using PdbSignatureScannerProgress:   63.38		Scanning layer_name using PdbSignatureScannerProgress:   63.48		Scanning layer_name using PdbSignatureScannerProgress:   63.57		Scanning layer_name using PdbSignatureScannerProgress:   63.67		Scanning layer_name using PdbSignatureScannerProgress:   63.77		Scanning layer_name using PdbSignatureScannerProgress:   63.87		Scanning layer_name using PdbSignatureScannerProgress:   63.96		Scanning layer_name using PdbSignatureScannerProgress:   64.36		Scanning layer_name using PdbSignatureScannerProgress:   64.45		Scanning layer_name using PdbSignatureScannerProgress:   64.55		Scanning layer_name using PdbSignatureScannerProgress:   65.14		Scanning layer_name using PdbSignatureScannerProgress:   65.62		Scanning layer_name using PdbSignatureScannerProgress:   65.72		Scanning layer_name using PdbSignatureScannerProgress:   65.82		Scanning layer_name using PdbSignatureScannerProgress:   66.02		Scanning layer_name using PdbSignatureScannerProgress:   66.41		Scanning layer_name using PdbSignatureScannerProgress:   66.70		Scanning layer_name using PdbSignatureScannerProgress:   66.89		Scanning layer_name using PdbSignatureScannerProgress:   67.38		Scanning layer_name using PdbSignatureScannerProgress:   67.58		Scanning layer_name using PdbSignatureScannerProgress:   67.68		Scanning layer_name using PdbSignatureScannerProgress:   67.77		Scanning layer_name using PdbSignatureScannerProgress:   67.87		Scanning layer_name using PdbSignatureScannerProgress:   67.97		Scanning layer_name using PdbSignatureScannerProgress:   68.07		Scanning layer_name using PdbSignatureScannerProgress:   68.16		Scanning layer_name using PdbSignatureScannerProgress:   68.26		Scanning layer_name using PdbSignatureScannerProgress:   68.36		Scanning layer_name using PdbSignatureScannerProgress:   68.46		Scanning layer_name using PdbSignatureScannerProgress:   68.55		Scanning layer_name using PdbSignatureScannerProgress:   68.65		Scanning layer_name using PdbSignatureScannerProgress:   68.75		Scanning layer_name using PdbSignatureScannerProgress:   68.95		Scanning layer_name using PdbSignatureScannerProgress:   69.04		Scanning layer_name using PdbSignatureScannerProgress:   69.34		Scanning layer_name using PdbSignatureScannerProgress:   69.43		Scanning layer_name using PdbSignatureScannerProgress:   69.53		Scanning layer_name using PdbSignatureScannerProgress:   69.63		Scanning layer_name using PdbSignatureScannerProgress:   69.73		Scanning layer_name using PdbSignatureScannerProgress:   70.21		Scanning layer_name using PdbSignatureScannerProgress:   70.41		Scanning layer_name using PdbSignatureScannerProgress:   70.70		Scanning layer_name using PdbSignatureScannerProgress:   70.90		Scanning layer_name using PdbSignatureScannerProgress:   71.19		Scanning layer_name using PdbSignatureScannerProgress:   71.29		Scanning layer_name using PdbSignatureScannerProgress:   71.68		Scanning layer_name using PdbSignatureScannerProgress:   71.78		Scanning layer_name using PdbSignatureScannerProgress:   71.88		Scanning layer_name using PdbSignatureScannerProgress:   71.97		Scanning layer_name using PdbSignatureScannerProgress:   72.17		Scanning layer_name using PdbSignatureScannerProgress:   72.75		Scanning layer_name using PdbSignatureScannerProgress:   74.02		Scanning layer_name using PdbSignatureScannerProgress:   74.22		Scanning layer_name using PdbSignatureScannerProgress:   74.32		Scanning layer_name using PdbSignatureScannerProgress:   75.20		Scanning layer_name using PdbSignatureScannerProgress:   76.27		Scanning layer_name using PdbSignatureScannerProgress:   79.30		Scanning layer_name using PdbSignatureScannerProgress:   82.81		Scanning layer_name using PdbSignatureScannerProgress:   84.86		Scanning layer_name using PdbSignatureScannerProgress:   85.64		Scanning layer_name using PdbSignatureScannerProgress:   87.30		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+PID	Process	Offset	HandleValue	Type	GrantedAccess	Name
+
+1416	rad5163B.tmp.e	0x918c28d0	0x4	Directory	0x3	KnownDlls
+1416	rad5163B.tmp.e	0x8685be50	0x8	File	0x100020	\Device\HarddiskVolume2\Users\johnoc\Documents
+1416	rad5163B.tmp.e	0xbd20a408	0xc	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\SORTING\VERSIONS
+1416	rad5163B.tmp.e	0x84933840	0x10	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84bfea48	0x14	ALPC Port	0x1f0001	-
+1416	rad5163B.tmp.e	0x9cdbc850	0x18	Key	0x20019	MACHINE
+1416	rad5163B.tmp.e	0x84b18d30	0x1c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0xbac62a78	0x20	Key	0x1	MACHINE\SYSTEM\CONTROLSET001\CONTROL\SESSION MANAGER
+1416	rad5163B.tmp.e	0x84e5e3d8	0x24	Thread	0x1fffff	Tid 3468 Pid 1416
+1416	rad5163B.tmp.e	0x849369f8	0x28	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0xa08c46f0	0x2c	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\SERVICES\WINSOCK2\PARAMETERS\PROTOCOL_CATALOG9
+1416	rad5163B.tmp.e	0x84b39850	0x30	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0xa08e8ed8	0x34	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\SERVICES\WINSOCK2\PARAMETERS\NAMESPACE_CATALOG5
+1416	rad5163B.tmp.e	0x84a39500	0x38	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84b02e20	0x3c	Event	0x21f0003	-
+1416	rad5163B.tmp.e	0x8688eca0	0x40	WindowStation	0xf037f	WinSta0
+1416	rad5163B.tmp.e	0x868d8cb0	0x44	Desktop	0xf01ff	Default
+1416	rad5163B.tmp.e	0x8688eca0	0x48	WindowStation	0xf037f	WinSta0
+1416	rad5163B.tmp.e	0x84b11168	0x4c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86e39c58	0x50	File	0x16019f	\Device\Afd\Endpoint
+1416	rad5163B.tmp.e	0x84da5ab8	0x54	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x86126210	0x58	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84ac26b0	0x5c	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84ba8ce0	0x60	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84a0a150	0x64	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84a08470	0x68	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x8498c400	0x6c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84d602f0	0x70	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86d80940	0x74	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x9a7e3160	0x78	Directory	0xf	BaseNamedObjects
+1416	rad5163B.tmp.e	0x84e5e3d8	0x7c	Thread	0x3	Tid 3468 Pid 1416
+1416	rad5163B.tmp.e	0x86baf158	0x80	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86ab44e0	0x84	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x868c8400	0x88	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x9560d030	0x8c	Token	0xf01ff	-
+1416	rad5163B.tmp.e	0x86e2c9f0	0x90	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x86d58700	0x94	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86d7c230	0x98	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86cab860	0x9c	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x86e33680	0xa0	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84b83030	0xa4	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84e590c0	0xa8	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84bea8d8	0xac	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86da7a30	0xb0	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84934870	0xb4	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84cbb168	0xb8	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x86bd5f18	0xbc	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x9560d030	0xc0	Token	0x8	-
+1416	rad5163B.tmp.e	0x9560d030	0xc4	Token	0x8	-
+1416	rad5163B.tmp.e	0x84945d80	0xc8	ALPC Port	0x1f0001	-
+1416	rad5163B.tmp.e	0x84d62928	0xcc	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84ceb100	0xd0	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84aafe68	0xd4	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x85c7c038	0xd8	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84a5df80	0xdc	File	0x100001	\Device\KsecDD
+1416	rad5163B.tmp.e	0x82090e60	0xe0	Key	0x20019	USER
+1416	rad5163B.tmp.e	0x824fec88	0xe4	Token	0xf01ff	-
+1416	rad5163B.tmp.e	0x85f1bde8	0xe8	IoCompletion	0x1f0003	-
+1416	rad5163B.tmp.e	0x86a3bb60	0xec	TpWorkerFactory	0xf00ff	-
+1416	rad5163B.tmp.e	0xbf8e4218	0xf0	KeyedEvent	0xf0003	-
+1416	rad5163B.tmp.e	0x86cd9618	0xf4	Timer	0x100002	-
+1416	rad5163B.tmp.e	0x85f17750	0xf8	Timer	0x1f0003	-
+1416	rad5163B.tmp.e	0x84b06688	0xfc	Thread	0x1fffff	Tid 2080 Pid 1416
+1416	rad5163B.tmp.e	0x84b06688	0x100	Thread	0x1fffff	Tid 2080 Pid 1416
+1416	rad5163B.tmp.e	0x84d68560	0x104	IoCompletion	0x1f0003	-
+1416	rad5163B.tmp.e	0x868f5f88	0x108	TpWorkerFactory	0xf00ff	-
+1416	rad5163B.tmp.e	0x84e7d1b8	0x10c	Timer	0x100002	-
+1416	rad5163B.tmp.e	0x84aea878	0x110	File	0x100001	\Device\KsecDD
+1416	rad5163B.tmp.e	0x84a15f80	0x114	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0xbd27eb88	0x118	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NETWORKPROVIDER\HWORDER
+1416	rad5163B.tmp.e	0x9dffe720	0x11c	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x86dd81e8	0x120	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84e64720	0x124	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84ac7898	0x128	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84bc8768	0x12c	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0xac114770	0x130	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x86c14598	0x134	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x86216030	0x138	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x849fb480	0x13c	File	0x12019f	\Device\NamedPipe\udnmjv
+1416	rad5163B.tmp.e	0x84b827e0	0x140	File	0x12019f	\Device\NamedPipe\sixxge
+1416	rad5163B.tmp.e	0x85e5f290	0x144	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84a10038	0x148	File	0x120089	\Device\NamedPipe\
+1416	rad5163B.tmp.e	0x84cd8ce8	0x14c	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84b02d00	0x150	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84e85c98	0x154	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x880108a8	0x158	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x860da9a0	0x15c	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84aa2238	0x160	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x9e5fd0e8	0x164	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84d854d0	0x168	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84c50a48	0x16c	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x86e1e140	0x170	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x85b0db00	0x174	File	0x100080	\Device\Nsi
+1416	rad5163B.tmp.e	0x84a2a038	0x178	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x86b8cad0	0x17c	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x8708de60	0x180	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x848cfd38	0x184	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x9560d030	0x188	Token	0x8	-
+1416	rad5163B.tmp.e	0x84dec390	0x18c	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84cd3730	0x190	File	0x12019f	\Device\NamedPipe\udnmjv
+1416	rad5163B.tmp.e	0x9560d030	0x194	Token	0x8	-
+1416	rad5163B.tmp.e	0x84fac918	0x198	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x848d0038	0x19c	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x874003c0	0x1a0	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x868d4f20	0x1a4	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x8e9f7268	0x1a8	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x869075a0	0x1ac	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0xa08c4130	0x1b0	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\IMAGE FILE EXECUTION OPTIONS
+1416	rad5163B.tmp.e	0x86ab2558	0x1b4	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84a8df80	0x1b8	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x85ebad40	0x1bc	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84d039f8	0x1c0	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0xc738d150	0x1c4	Key	0x8	USER\S-1-5-21-4052921086-732667259-1946374124-1000\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION
+1416	rad5163B.tmp.e	0x91651030	0x1c8	Key	0x8	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\APPCOMPATFLAGS
+1416	rad5163B.tmp.e	0x84df0348	0x1cc	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84aeebf8	0x1d0	Process	0x1fffff	cscript.exe Pid 2728
+1416	rad5163B.tmp.e	0x84b1bf80	0x1d4	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84da84c0	0x1d8	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x85b911b0	0x1dc	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84b099f0	0x1e0	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x85ee1d40	0x1e4	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84d0f0f0	0x1e8	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x9560d030	0x1ec	Token	0x8	-
+1416	rad5163B.tmp.e	0x86b92848	0x1f0	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x86d522f8	0x1f4	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84a56860	0x1f8	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84df1910	0x1fc	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84bf7b88	0x200	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x86d78840	0x204	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84981858	0x208	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84da96b8	0x20c	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84ae7300	0x210	File	0x12019f	\Device\NamedPipe\gqxuxj
+1416	rad5163B.tmp.e	0x98d28650	0x214	Key	0xf003f	USER\S-1-5-21-4052921086-732667259-1946374124-1000
+1416	rad5163B.tmp.e	0x8494e940	0x218	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84936d30	0x21c	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84cf7f78	0x220	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84b43030	0x224	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0xa08613b0	0x228	Token	0xf01ff	-
+1416	rad5163B.tmp.e	0x81f85278	0x22c	Section	0xf0007	Cor_Private_IPCBlock_1416
+1416	rad5163B.tmp.e	0x84984cc0	0x230	File	0x12019f	\Device\NamedPipe\sixxge
+1416	rad5163B.tmp.e	0xa99df1e0	0x234	Token	0xf01ff	-
+1416	rad5163B.tmp.e	0x84ad3a08	0x238	Process	0x1fffff	cmd.exe Pid 2204
+1416	rad5163B.tmp.e	0xa2d8e648	0x23c	Token	0xf01ff	-
+1416	rad5163B.tmp.e	0x84d402b0	0x240	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x86bfc038	0x244	File	0x12019f	\Device\NamedPipe\gqxuxj
+1416	rad5163B.tmp.e	0xcaacd2c8	0x248	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\.NETFRAMEWORK
+1416	rad5163B.tmp.e	0x84e6fa90	0x24c	Process	0x1fffff	cmd.exe Pid 1896
+1416	rad5163B.tmp.e	0x84cee390	0x250	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84a5cb70	0x254	File	0x100003	\Device\KsecDD
+1416	rad5163B.tmp.e	0x849bebe8	0x258	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84d35328	0x25c	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84f58030	0x260	Process	0x1fffff	cmd.exe Pid 2192
+1416	rad5163B.tmp.e	0x86b7b120	0x264	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x87777c38	0x268	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a
+1416	rad5163B.tmp.e	0x86e61c88	0x26c	Process	0x1fffff	cmd.exe Pid 3860
+1416	rad5163B.tmp.e	0x86b47098	0x270	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84b8fe10	0x274	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x9e00be00	0x278	Section	0xf0007	Cor_Public_IPCBlock_1416
+1416	rad5163B.tmp.e	0x868b8c88	0x27c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84de49e8	0x280	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86e2aff0	0x284	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86e66110	0x288	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84be5958	0x28c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86bb2098	0x290	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84a3bbd8	0x294	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84a93ed8	0x298	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86bd3908	0x29c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x849bae70	0x2a0	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86ae7d90	0x2a4	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84a35560	0x2a8	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x849f3b38	0x2ac	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x8688dc78	0x2b0	Event	0x1f0003	CorDBIPCSetupSyncEvent_1416
+1416	rad5163B.tmp.e	0x84af37f0	0x2b4	Thread	0x1fffff	Tid 3296 Pid 1416
+1416	rad5163B.tmp.e	0x84c063b0	0x2b8	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84ef9030	0x2bc	Thread	0x1fffff	Tid 2904 Pid 1416
+1416	rad5163B.tmp.e	0x84c02258	0x2c0	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84e6a328	0x2c4	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x85fac368	0x2c8	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86a35168	0x2cc	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84e4dfd0	0x2d0	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84a29540	0x2d4	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x849aa340	0x2d8	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x849a7178	0x2dc	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x8525fad0	0x2e0	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x98c6e178	0x2e4	Section	0x6	windows_shell_global_counters
+1416	rad5163B.tmp.e	0x84963b38	0x2e8	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0xa9619398	0x2ec	Key	0x1	USER\S-1-5-21-4052921086-732667259-1946374124-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER
+1416	rad5163B.tmp.e	0x848a3280	0x2f0	Event	0x100001	LowMemoryCondition
+1416	rad5163B.tmp.e	0x84e59690	0x2f4	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84e25828	0x2f8	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84b54800	0x2fc	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86d52f38	0x300	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84daf0c0	0x304	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84db8ab8	0x308	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x8499ee50	0x30c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86b92528	0x310	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86bae1d0	0x314	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x8730ede0	0x318	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84bca288	0x31c	Thread	0x1fffff	Tid 1756 Pid 1416
+1416	rad5163B.tmp.e	0xbf93b9d8	0x320	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\FUSION\GACCHANGENOTIFICATION\DEFAULT
+1416	rad5163B.tmp.e	0x9176dc80	0x324	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\FUSION\NATIVEIMAGESINDEX\V2.0.50727_32
+1416	rad5163B.tmp.e	0x84986e88	0x328	File	0x120089	\Device\HarddiskVolume2\Windows\assembly\NativeImages_v2.0.50727_32\index16b.dat
+1416	rad5163B.tmp.e	0x84bcd1c8	0x32c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86b8e360	0x330	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x8cbff9b8	0x334	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84e4a640	0x338	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x849af618	0x33c	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x868d41c8	0x340	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a
+1416	rad5163B.tmp.e	0x821d9510	0x344	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\IMAGE FILE EXECUTION OPTIONS\DLLNXOPTIONS
+1416	rad5163B.tmp.e	0x84ce9c80	0x348	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x98daaf30	0x34c	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\FUSION\PUBLISHERPOLICY\DEFAULT
+1416	rad5163B.tmp.e	0x849b9950	0x350	File	0x120089	\Device\HarddiskVolume2\Windows\assembly\pubpol30.dat
+1416	rad5163B.tmp.e	0x86e61a80	0x354	File	0x120089	\Device\HarddiskVolume2\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sorttbls.nlp
+1416	rad5163B.tmp.e	0x9e1fcb80	0x358	Section	0xf0005	-
+1416	rad5163B.tmp.e	0x84d2a588	0x35c	File	0x120089	\Device\HarddiskVolume2\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sortkey.nlp
+1416	rad5163B.tmp.e	0xaa378478	0x360	Section	0xf0005	-
+1416	rad5163B.tmp.e	0x9cd484b8	0x364	Section	0xf0005	-
+1416	rad5163B.tmp.e	0x84dec100	0x368	File	0x120089	\Device\HarddiskVolume2\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll
+1416	rad5163B.tmp.e	0x86389ac8	0x370	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a
+1416	rad5163B.tmp.e	0xa29ff7c0	0x374	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86d5fde8	0x37c	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\KernelBase.dll.mui
+1416	rad5163B.tmp.e	0x86e3f7b8	0x380	File	0x120089	\Device\HarddiskVolume2\Windows\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll
+1416	rad5163B.tmp.e	0x9e183728	0x384	Section	0xf0005	-
+1416	rad5163B.tmp.e	0x86b225f0	0x388	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84c677e0	0x38c	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_d09154e044272b9a
+1416	rad5163B.tmp.e	0x9e1ee5e8	0x390	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\PROPERTYBAG
+1416	rad5163B.tmp.e	0x982c75a8	0x398	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x8494e2f0	0x39c	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x86e5d7f0	0x3c0	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84b92cc8	0x3c8	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x85f18c40	0x3cc	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84d8ecb8	0x3d0	Thread	0x1fffff	Tid 2088 Pid 1416
+1416	rad5163B.tmp.e	0x84adcb00	0x3e8	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86b0c1d8	0x404	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x9e1d6ce0	0x408	Section	0xf0007	NLS_CodePage_1252_3_2_0_0
+1416	rad5163B.tmp.e	0x84ae86d0	0x40c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86951d48	0x410	Thread	0x1fffff	Tid 3708 Pid 1416
+1416	rad5163B.tmp.e	0x86b9c460	0x418	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86d934d0	0x41c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86aeab28	0x424	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x9796d768	0x428	ALPC Port	0x1f0001	-
+1416	rad5163B.tmp.e	0x85f42dc8	0x42c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x97df8a08	0x434	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84aab810	0x468	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84d192c0	0x46c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84cd0f38	0x470	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0xa25fe1e8	0x474	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84ef1710	0x478	Thread	0x1fffff	Tid 488 Pid 1416
+1416	rad5163B.tmp.e	0x84b4c8a0	0x47c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0xa73fd140	0x480	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x9a7e3368	0x4b4	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\POWERSHELL\1\SHELLIDS
+1416	rad5163B.tmp.e	0x84b24c78	0x4b8	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x85c1c030	0x4bc	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x849abf38	0x4c0	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86dc8b90	0x4c4	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84d3b030	0x4c8	Thread	0x1fffff	Tid 2172 Pid 1416
+1416	rad5163B.tmp.e	0x86b89698	0x4cc	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x969fee20	0x500	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84bbf3b0	0x508	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x868d4778	0x50c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84a93c60	0x510	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84afaff0	0x514	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x855c1a60	0x518	Thread	0x1fffff	Tid 2920 Pid 1416
+1416	rad5163B.tmp.e	0x84b42510	0x51c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x869b93c0	0x520	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x860a1098	0x524	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84a430f0	0x528	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x87082d90	0x52c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84deb298	0x530	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84dba3a8	0x534	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84ae8df8	0x538	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84e3d218	0x53c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84b8a288	0x540	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84b811a8	0x544	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x849bb2b0	0x548	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x85d8d450	0x54c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84b53220	0x550	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x851f0648	0x558	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x849d1b30	0x55c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86e5be38	0x560	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86b8eb40	0x564	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x849e2d48	0x568	Thread	0x1fffff	Tid 1580 Pid 1416
+1416	rad5163B.tmp.e	0x86e5b8d8	0x56c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x9560d030	0x570	Token	0x8	-
+1416	rad5163B.tmp.e	0x9560d030	0x574	Token	0x8	-
+1416	rad5163B.tmp.e	0x86d77d98	0x578	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84c89f80	0x57c	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84c15948	0x580	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x849cf870	0x584	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x86d63118	0x588	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\setupapi.dll.mui
+1416	rad5163B.tmp.e	0x84ad3500	0x58c	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84e0b0e8	0x590	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84e4b630	0x594	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x849d4cb8	0x598	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84de06d8	0x59c	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84a3d340	0x5a0	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84de9a78	0x5a4	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x9560d030	0x5a8	Token	0x8	-
+1416	rad5163B.tmp.e	0x870dd6b8	0x5ac	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x86c4ca08	0x5b0	Process	0x100000	svchost.exe Pid 2896
+1416	rad5163B.tmp.e	0x9560d030	0x5b4	Token	0x8	-
+1416	rad5163B.tmp.e	0x867e6da8	0x5b8	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x86c4ca08	0x5bc	Process	0x100000	svchost.exe Pid 2896
+1416	rad5163B.tmp.e	0x86c4ca08	0x5c0	Process	0x100000	svchost.exe Pid 2896
+1416	rad5163B.tmp.e	0x9560d030	0x5c4	Token	0x8	-
+1416	rad5163B.tmp.e	0x868b8030	0x5c8	Process	0x1fffff	dwm.exe Pid 1176
+1416	rad5163B.tmp.e	0x84e19030	0x5cc	Process	0x1fffff	rad5163B.tmp.e Pid 1416
+1416	rad5163B.tmp.e	0x849bab18	0x5d0	ALPC Port	0x1f0001	-
+1416	rad5163B.tmp.e	0x86951bc8	0x5d4	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84cc7828	0x5d8	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84c60758	0x5dc	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84a30700	0x5e0	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84dc7da8	0x5e4	Mutant	0x1f0001	-
+1416	rad5163B.tmp.e	0x84eb7158	0x5e8	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x86af0400	0x5ec	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x867f3030	0x5f0	Process	0x1fffff	explorer.exe Pid 588
+1416	rad5163B.tmp.e	0x86c4ca08	0x5f4	Process	0x100000	svchost.exe Pid 2896
+1416	rad5163B.tmp.e	0x86c76f80	0x5f8	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84a49a80	0x5fc	Process	0x1fffff	taskhost.exe Pid 1644
+1416	rad5163B.tmp.e	0x84b1c030	0x600	Process	0x1fffff	WINWORD.EXE Pid 3544
+1416	rad5163B.tmp.e	0x84a787d0	0x604	Process	0x1fffff	vmtoolsd.exe Pid 2500
+1416	rad5163B.tmp.e	0x84948030	0x608	Process	0x1fffff	OUTLOOK.EXE Pid 3476
+1416	rad5163B.tmp.e	0x84ba8890	0x60c	Process	0x1fffff	TPAutoConnect. Pid 1984
+1416	rad5163B.tmp.e	0x84948030	0x610	Process	0x1fffff	OUTLOOK.EXE Pid 3476
+1416	rad5163B.tmp.e	0x84bae6c8	0x614	Process	0x1fffff	conhost.exe Pid 2312
+1416	rad5163B.tmp.e	0x84948030	0x618	Process	0x1fffff	OUTLOOK.EXE Pid 3476
+1416	rad5163B.tmp.e	0x84948030	0x61c	Process	0x1fffff	OUTLOOK.EXE Pid 3476
+1416	rad5163B.tmp.e	0x84bae6c8	0x620	Process	0x1fffff	conhost.exe Pid 2312
+1416	rad5163B.tmp.e	0x84b1c030	0x624	Process	0x1fffff	WINWORD.EXE Pid 3544
+1416	rad5163B.tmp.e	0x84b1c030	0x628	Process	0x1fffff	WINWORD.EXE Pid 3544
+1416	rad5163B.tmp.e	0x84e19030	0x62c	Process	0x1fffff	rad5163B.tmp.e Pid 1416
+1416	rad5163B.tmp.e	0x84ba8890	0x630	Process	0x1fffff	TPAutoConnect. Pid 1984
+1416	rad5163B.tmp.e	0x84e19030	0x634	Process	0x1fffff	rad5163B.tmp.e Pid 1416
+1416	rad5163B.tmp.e	0x84a787d0	0x638	Process	0x1fffff	vmtoolsd.exe Pid 2500
+1416	rad5163B.tmp.e	0x84e19030	0x63c	Process	0x1fffff	rad5163B.tmp.e Pid 1416
+1416	rad5163B.tmp.e	0x84a49a80	0x640	Process	0x1fffff	taskhost.exe Pid 1644
+1416	rad5163B.tmp.e	0x84bae6c8	0x644	Process	0x1fffff	conhost.exe Pid 2312
+1416	rad5163B.tmp.e	0x867f3030	0x648	Process	0x1fffff	explorer.exe Pid 588
+1416	rad5163B.tmp.e	0x86ca1030	0x64c	Process	0x101001	FTK Imager.exe Pid 2108
+1416	rad5163B.tmp.e	0x9531d030	0x650	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x84aeebf8	0x654	Process	0x1fffff	cscript.exe Pid 2728
+1416	rad5163B.tmp.e	0x84957030	0x658	Process	0x1fff	notepad.exe Pid 2592
+1416	rad5163B.tmp.e	0x84f04030	0x65c	Process	0x1fffff	conhost.exe Pid 2876
+1416	rad5163B.tmp.e	0x868b8030	0x660	Process	0x1fffff	dwm.exe Pid 1176
+1416	rad5163B.tmp.e	0x84d165e8	0x664	Process	0x1fffff	rfhyMVOQxfc.ex Pid 1292
+1416	rad5163B.tmp.e	0x86c4ca08	0x668	Process	0x100000	svchost.exe Pid 2896
+1416	rad5163B.tmp.e	0x84bae6c8	0x670	Process	0x1fffff	conhost.exe Pid 2312
+1416	rad5163B.tmp.e	0x84b1c030	0x674	Process	0x1fffff	WINWORD.EXE Pid 3544
+1416	rad5163B.tmp.e	0x84ba8890	0x678	Process	0x1fffff	TPAutoConnect. Pid 1984
+1416	rad5163B.tmp.e	0x84b1c030	0x67c	Process	0x1fffff	WINWORD.EXE Pid 3544
+1416	rad5163B.tmp.e	0x84a787d0	0x680	Process	0x1fffff	vmtoolsd.exe Pid 2500
+1416	rad5163B.tmp.e	0x84e19030	0x684	Process	0x1fffff	rad5163B.tmp.e Pid 1416
+1416	rad5163B.tmp.e	0x84a49a80	0x688	Process	0x1fffff	taskhost.exe Pid 1644
+1416	rad5163B.tmp.e	0x849b4be8	0x68c	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x867f3030	0x690	Process	0x1fffff	explorer.exe Pid 588
+1416	rad5163B.tmp.e	0x86ca1030	0x694	Process	0x101001	FTK Imager.exe Pid 2108
+1416	rad5163B.tmp.e	0x9531d030	0x698	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x84aeebf8	0x69c	Process	0x1fffff	cscript.exe Pid 2728
+1416	rad5163B.tmp.e	0x84948030	0x6a0	Process	0x1fffff	OUTLOOK.EXE Pid 3476
+1416	rad5163B.tmp.e	0x84f04030	0x6a4	Process	0x1fffff	conhost.exe Pid 2876
+1416	rad5163B.tmp.e	0x868b8030	0x6a8	Process	0x1fffff	dwm.exe Pid 1176
+1416	rad5163B.tmp.e	0x84d165e8	0x6ac	Process	0x1fffff	rfhyMVOQxfc.ex Pid 1292
+1416	rad5163B.tmp.e	0x84d612c8	0x6b0	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x9560d030	0x6b4	Token	0x8	-
+1416	rad5163B.tmp.e	0x84ba8890	0x6b8	Process	0x1fffff	TPAutoConnect. Pid 1984
+1416	rad5163B.tmp.e	0x84a8a260	0x6bc	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84a787d0	0x6c0	Process	0x1fffff	vmtoolsd.exe Pid 2500
+1416	rad5163B.tmp.e	0x84a49a80	0x6c8	Process	0x1fffff	taskhost.exe Pid 1644
+1416	rad5163B.tmp.e	0x84f178f0	0x6cc	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x9560d030	0x6d0	Token	0x8	-
+1416	rad5163B.tmp.e	0x9531d030	0x6d4	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x867f3030	0x6d8	Process	0x1fffff	explorer.exe Pid 588
+1416	rad5163B.tmp.e	0x84b4e9e8	0x6dc	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x86ca1030	0x6e0	Process	0x101001	FTK Imager.exe Pid 2108
+1416	rad5163B.tmp.e	0x9531d030	0x6e4	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x84aeebf8	0x6e8	Process	0x1fffff	cscript.exe Pid 2728
+1416	rad5163B.tmp.e	0x868b8030	0x6ec	Process	0x1fffff	dwm.exe Pid 1176
+1416	rad5163B.tmp.e	0x84f04030	0x6f0	Process	0x1fffff	conhost.exe Pid 2876
+1416	rad5163B.tmp.e	0x849b7620	0x6f4	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84d165e8	0x6f8	Process	0x1fffff	rfhyMVOQxfc.ex Pid 1292
+1416	rad5163B.tmp.e	0x85f7ece0	0x6fc	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x9560d030	0x700	Token	0x8	-
+1416	rad5163B.tmp.e	0x84d34340	0x704	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84bae6c8	0x708	Process	0x1fffff	conhost.exe Pid 2312
+1416	rad5163B.tmp.e	0x84e72390	0x70c	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84ba8890	0x710	Process	0x1fffff	TPAutoConnect. Pid 1984
+1416	rad5163B.tmp.e	0x9560d030	0x714	Token	0x8	-
+1416	rad5163B.tmp.e	0x9531d030	0x718	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x84a787d0	0x71c	Process	0x1fffff	vmtoolsd.exe Pid 2500
+1416	rad5163B.tmp.e	0x84969e60	0x720	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84a49a80	0x724	Process	0x1fffff	taskhost.exe Pid 1644
+1416	rad5163B.tmp.e	0x9531d030	0x728	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x867f3030	0x730	Process	0x1fffff	explorer.exe Pid 588
+1416	rad5163B.tmp.e	0x86ca1030	0x734	Process	0x101001	FTK Imager.exe Pid 2108
+1416	rad5163B.tmp.e	0x9531d030	0x738	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x84aeebf8	0x73c	Process	0x1fffff	cscript.exe Pid 2728
+1416	rad5163B.tmp.e	0x84b82a28	0x740	ALPC Port	0x1f0001	-
+1416	rad5163B.tmp.e	0x84f04030	0x744	Process	0x1fffff	conhost.exe Pid 2876
+1416	rad5163B.tmp.e	0x868b8030	0x748	Process	0x1fffff	dwm.exe Pid 1176
+1416	rad5163B.tmp.e	0x84d165e8	0x74c	Process	0x1fffff	rfhyMVOQxfc.ex Pid 1292
+1416	rad5163B.tmp.e	0x85e069b0	0x750	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84e3acd0	0x758	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\kernel32.dll.mui
+1416	rad5163B.tmp.e	0x9531d030	0x75c	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x84f1dc90	0x760	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84956030	0x764	Thread	0x1fffff	Tid 1956 Pid 2592
+1416	rad5163B.tmp.e	0x9531d030	0x768	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x9560d030	0x76c	Token	0x8	-
+1416	rad5163B.tmp.e	0x86a17268	0x770	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x85c69c08	0x774	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x9531d030	0x778	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x9560d030	0x77c	Token	0x8	-
+1416	rad5163B.tmp.e	0x9531d030	0x780	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x84b0e6a0	0x784	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x86ca1030	0x788	Process	0x101001	FTK Imager.exe Pid 2108
+1416	rad5163B.tmp.e	0x9531d030	0x78c	Token	0x2001f	-
+1416	rad5163B.tmp.e	0x84aeebf8	0x790	Process	0x1fffff	cscript.exe Pid 2728
+1416	rad5163B.tmp.e	0x9560d030	0x794	Token	0x8	-
+1416	rad5163B.tmp.e	0x84f04030	0x798	Process	0x1fffff	conhost.exe Pid 2876
+1416	rad5163B.tmp.e	0x86e51520	0x79c	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\shell32.dll.mui
+1416	rad5163B.tmp.e	0x84d165e8	0x7a0	Process	0x1fffff	rfhyMVOQxfc.ex Pid 1292
+1416	rad5163B.tmp.e	0x9560d030	0x7a4	Token	0x8	-
+1416	rad5163B.tmp.e	0x9560d030	0x7a8	Token	0x8	-
+1416	rad5163B.tmp.e	0x9560d030	0x7b0	Token	0x8	-
+1416	rad5163B.tmp.e	0x849d3330	0x7b4	File	0x120196	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x84a58908	0x7b8	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x849b05c0	0x7bc	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84de3f80	0x7c4	File	0x120189	\Device\NamedPipe
+1416	rad5163B.tmp.e	0x98d124a8	0x7c8	Section	0x4	-
+1416	rad5163B.tmp.e	0x84bc40e8	0x7d0	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x95bfb198	0x7d4	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x86bf27c0	0x7d8	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2
+1416	rad5163B.tmp.e	0x86cb6118	0x7dc	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0x84a72440	0x7e0	EtwRegistration	0x804	-
+1416	rad5163B.tmp.e	0xadc43030	0x7e4	Key	0xf003f	USER\S-1-5-21-4052921086-732667259-1946374124-1000_CLASSES
+1416	rad5163B.tmp.e	0xa69ef858	0x7e8	Key	0xf003f	USER\S-1-5-21-4052921086-732667259-1946374124-1000_CLASSES
+1416	rad5163B.tmp.e	0x8e69d9c0	0x7ec	Key	0x20019	USER\S-1-5-21-4052921086-732667259-1946374124-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FILEEXTS
+1416	rad5163B.tmp.e	0x8a709990	0x7f0	Section	0x4	__ComCatalogCache__
+1416	rad5163B.tmp.e	0x9561f6b8	0x7f4	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\PROPERTYBAG
+1416	rad5163B.tmp.e	0x8489b9f0	0x7f8	Event	0x100001	MaximumCommitCondition
+1416	rad5163B.tmp.e	0x8a709990	0x7fc	Section	0x4	__ComCatalogCache__
+1416	rad5163B.tmp.e	0x86e58930	0x804	File	0x120089	\Device\HarddiskVolume2\Windows\Registration\R000000000006.clb
+1416	rad5163B.tmp.e	0xa09d73d8	0x808	Section	0xf0005	-
+1416	rad5163B.tmp.e	0x8a6c37c0	0x80c	Section	0x6	windows_shell_global_counters
+1416	rad5163B.tmp.e	0x8212f340	0x810	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+1416	rad5163B.tmp.e	0x84acc220	0x814	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x849c7928	0x818	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84ef77b8	0x81c	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x86a99bd8	0x820	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84a6ec10	0x824	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84db9030	0x828	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x85d80520	0x82c	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x84a14570	0x830	Semaphore	0x100003	-
+1416	rad5163B.tmp.e	0x821c3670	0x834	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000007.db
+1416	rad5163B.tmp.e	0x8212f340	0x838	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+1416	rad5163B.tmp.e	0x821c44d8	0x83c	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db
+1416	rad5163B.tmp.e	0x86a9bb48	0x840	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\propsys.dll.mui
+1416	rad5163B.tmp.e	0xaaa2f030	0x850	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_UNC_SAVEDFILECHECK
+1416	rad5163B.tmp.e	0x84938f60	0x858	Mutant	0x1f0001	ZonesCounterMutex
+1416	rad5163B.tmp.e	0x9e125af0	0x860	Key	0x20019	MACHINE\SOFTWARE\POLICIES
+1416	rad5163B.tmp.e	0xa96419c0	0x864	Key	0x20019	USER\S-1-5-21-4052921086-732667259-1946374124-1000\SOFTWARE\POLICIES
+1416	rad5163B.tmp.e	0xa44ccfd0	0x868	Key	0x20019	USER\S-1-5-21-4052921086-732667259-1946374124-1000\SOFTWARE
+1416	rad5163B.tmp.e	0xbf9acb50	0x86c	Key	0x20019	MACHINE\SOFTWARE
+1416	rad5163B.tmp.e	0x916e9fd0	0x874	Key	0x20019	MACHINE\SOFTWARE\POLICIES\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+1416	rad5163B.tmp.e	0x953162d0	0x878	Key	0x20019	USER\S-1-5-21-4052921086-732667259-1946374124-1000\SOFTWARE\POLICIES\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+1416	rad5163B.tmp.e	0x99233160	0x87c	Key	0x20019	USER\S-1-5-21-4052921086-732667259-1946374124-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+1416	rad5163B.tmp.e	0x824224b8	0x880	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+1416	rad5163B.tmp.e	0xbf99add8	0x884	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE
+1416	rad5163B.tmp.e	0x98d2b9c8	0x890	Section	0xf0007	UrlZonesSM_johnoc
+1416	rad5163B.tmp.e	0x84a330a0	0x898	Mutant	0x1f0001	ZoneAttributeCacheCounterMutex
+1416	rad5163B.tmp.e	0x9174c540	0x89c	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_LOCALMACHINE_LOCKDOWN
+1416	rad5163B.tmp.e	0x84a46350	0x8a0	Mutant	0x1f0001	ZonesCacheCounterMutex
+1416	rad5163B.tmp.e	0x84a330a0	0x8a4	Mutant	0x1f0001	ZoneAttributeCacheCounterMutex
+1416	rad5163B.tmp.e	0xa6378fd0	0x8a8	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_PROTOCOL_LOCKDOWN
+1416	rad5163B.tmp.e	0x86a87148	0x8ac	ALPC Port	0x1f0001	-
+1416	rad5163B.tmp.e	0x84a78ba8	0x8b0	Mutant	0x1f0001	ZonesLockedCacheCounterMutex
+1416	rad5163B.tmp.e	0x84e0b630	0x8b8	Event	0x1f0003	-
+1416	rad5163B.tmp.e	0x84be4d48	0x8bc	Thread	0x1fffff	Tid 3664 Pid 1416
+1416	rad5163B.tmp.e	0x86a137c0	0x8c0	ALPC Port	0x1f0001	-

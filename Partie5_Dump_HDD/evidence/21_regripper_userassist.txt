@@ -1,0 +1,104 @@
+Launching userassist v.20170204
+UserAssist
+Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+LastWrite Time 2019-07-23 19:04:58Z
+
+{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}
+2019-07-31 12:46:05Z
+  C:\Users\johnoc\Documents\Imager_Lite_3.1.1\FTK Imager.exe (1)
+2019-07-31 12:45:34Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office15\WINWORD.EXE (2)
+2019-07-31 12:45:06Z
+  {F38BF404-1D43-42F2-9305-67DE0B28FC23}\explorer.exe (3)
+2019-07-31 12:35:01Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\QuickTime\QuickTimePlayer.exe (1)
+2019-07-31 12:03:30Z
+  Chrome (2)
+2019-07-31 11:57:05Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\cmd.exe (4)
+2019-07-31 11:56:34Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office15\OUTLOOK.EXE (5)
+2019-07-24 13:22:16Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Event Log Explorer\elex.exe (2)
+2019-07-24 13:13:31Z
+  C:\Users\johnoc\Documents\Mft2Csv-master\Mft2Csv.exe (1)
+2019-07-24 13:11:22Z
+  C:\Users\johnoc\Downloads\Imager_Lite_3.1.1\FTK Imager.exe (1)
+2019-07-24 13:10:10Z
+  C:\Users\johnoc\Downloads\FTK Imager.exe (1)
+2019-07-24 12:58:23Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WF.msc (1)
+2019-07-24 12:54:31Z
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\slui.exe (2)
+2019-07-23 19:46:15Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Autopsy-4.11.0\bin\autopsy.exe (1)
+2019-07-23 19:05:21Z
+  Microsoft.InternetExplorer.Default (1)
+2019-07-23 19:03:10Z
+  Microsoft.Windows.GettingStarted (14)
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\displayswitch.exe (13)
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\calc.exe (12)
+  Microsoft.Windows.StickyNotes (11)
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\SnippingTool.exe (10)
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\mspaint.exe (9)
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\xpsrchvw.exe (8)
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WFS.exe (7)
+  Microsoft.Windows.RemoteDesktop (6)
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\magnify.exe (5)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\GUM7B85.tmp\GoogleUpdate.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Google\Update\GoogleUpdate.exe
+  Microsoft.Windows.WindowsInstaller
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Autopsy-4.11.0\jre\bin\javaw.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Office\Office15\FIRSTRUN.EXE
+  Microsoft.Windows.ControlPanel
+  Microsoft.Office.OUTLOOK.EXE.15
+  C:\Users\johnoc\Downloads\Mft2Csv-master\Mft2Csv-master\Mft2Csv.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Icecream Screen Recorder\recorder.exe
+  Microsoft.Windows.MediaPlayer32
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Apowersoft\ShowMore\unins000.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Icecream Screen Recorder\unins000.exe
+  C:\Users\johnoc\Downloads\filmora-scrn_setup_full3235.exe
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\taskmgr.exe
+  C:\Users\johnoc\AppData\Local\Temp\~nsu.tmp\Au_.exe
+
+{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}
+2019-07-31 12:46:05Z
+  C:\Users\johnoc\Desktop\FTK Imager - Shortcut.lnk (1)
+2019-07-31 12:45:06Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Windows Explorer.lnk (3)
+2019-07-31 12:35:01Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\QuickTime\QuickTime Player.lnk (1)
+2019-07-31 12:03:30Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Google Chrome.lnk (2)
+2019-07-31 11:56:34Z
+  C:\Users\johnoc\Desktop\Outlook 2013.lnk (4)
+2019-07-24 13:22:16Z
+  C:\Users\johnoc\Desktop\Event Log Explorer.lnk (2)
+2019-07-24 12:58:23Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Administrative Tools\Windows Firewall with Advanced Security.lnk (1)
+2019-07-23 19:56:07Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Microsoft Office 2013\Outlook 2013.lnk (1)
+2019-07-23 19:56:02Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Microsoft Office 2013\Word 2013.lnk (1)
+2019-07-23 19:46:15Z
+  C:\Users\Public\Desktop\Autopsy 4.11.0.lnk (1)
+2019-07-23 19:05:21Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Internet Explorer.lnk (1)
+2019-07-23 19:03:10Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Welcome Center.lnk (14)
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\displayswitch.lnk (13)
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Calculator.lnk (12)
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Sticky Notes.lnk (11)
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Snipping Tool.lnk (10)
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Paint.lnk (9)
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\XPS Viewer.lnk (8)
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Windows Fax and Scan.lnk (7)
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Remote Desktop Connection.lnk (6)
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Accessories\Accessibility\Magnify.lnk (5)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+
