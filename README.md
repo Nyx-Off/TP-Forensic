@@ -1,5 +1,7 @@
 # TP1 - Analyse Forensique
 
+**Auteurs :** Bensalem Samy, Clément Philippe, Josselin Mathieu
+
 Ce dépôt contient le rendu du TP d'analyse forensique, organisé en six parties distinctes.
 
 ---
@@ -183,10 +185,7 @@ Voir le fichier [LICENSE](./LICENSE) pour plus d'informations.
 **Date de dernière mise à jour:** 2026-03-06
 **Environnement:** Kali GNU/Linux 2025.4 (kernel 6.18.5+kali-amd64)
 
-**Auteurs :**
-- Bensalem Samy
-- Clément Philippe
-- Josselin Mathieu
+**Auteurs :** Bensalem Samy, Clément Philippe, Josselin Mathieu
 
 ## 📊 Statistiques du TP
 
